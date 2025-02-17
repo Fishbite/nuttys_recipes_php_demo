@@ -21,13 +21,13 @@ require "../controllers/recipes.controller.php";
 <body>
     <header class="title">
         <div class="title-wrap">
-            <img width="60" height="32" src="./images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
+            <img width="60" height="32" src="/images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
             <h1>nutty's recipes</h1>
 
-            <img width="60" height="32" src="./images/logo-right.svg" alt="logo right"
+            <img width="60" height="32" src="/images/logo-right.svg" alt="logo right"
                 title="nuttys kitchen logo right" />
         </div>
-        <img src="./images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo" width="160" height="40"
+        <img src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo" width="160" height="40"
             title="nuttys kitchen logo" class="logo-main" />
         <p>
             Browse through some delicious English dishes from recipes passed down
@@ -55,54 +55,51 @@ require "../controllers/recipes.controller.php";
         <!--========= Link Buttons START =========-->
         <ul class="list-btn-wrapper">
             <li class="list-btn" title="cook sausages">
-                <a href="#sausages & bacon"><img width="32" height="32" src="./images/icons/sausage-n-bacon-7.svg"
+                <a href="#sausages & bacon"><img width="32" height="32" src="/images/icons/sausage-n-bacon-7.svg"
                         alt="sausages" title="cook sausages" />
                     sausage & bacon</a>
             </li>
 
             <li class="list-btn" title="cook chicken">
-                <a href="#chicken"><img width="32" height="32" src="./images/icons/chicken-2.png" alt="chicken" />
+                <a href="#chicken"><img width="32" height="32" src="/images/icons/chicken-2.png" alt="chicken" />
                     chicken</a>
             </li>
 
             <li class="list-btn" title="cook beef">
-                <a href="#beef"><img width="32" height="32" src="./images/icons/beef.png" alt="beef"
-                        title="cook beef" />
+                <a href="#beef"><img width="32" height="32" src="/images/icons/beef.png" alt="beef" title="cook beef" />
                     beef</a>
             </li>
 
             <li class="list-btn" title="cook pork">
-                <a href="#pork"><img width="32" height="32" src="./images/icons/pork.png" alt="pork"
-                        title="cook pork" />
+                <a href="#pork"><img width="32" height="32" src="/images/icons/pork.png" alt="pork" title="cook pork" />
                     pork</a>
             </li>
 
             <li class="list-btn" title="cook lamb">
-                <a href="#lamb"><img width="32" height="32" src="./images/icons/lamb.png" alt="lamb"
-                        title="cook lamb" />
+                <a href="#lamb"><img width="32" height="32" src="/images/icons/lamb.png" alt="lamb" title="cook lamb" />
                     lamb</a>
             </li>
 
             <li class="list-btn" title="cook veg">
-                <a href="#fish & veg"><img width="32" height="32" src="./images/icons/fish-n-veg-1.svg" alt="veg"
+                <a href="#fish & veg"><img width="32" height="32" src="/images/icons/fish-n-veg-1.svg" alt="veg"
                         title="cook veg" />
                     fish & veg</a>
             </li>
 
             <li class="list-btn" title="cook sauce">
-                <a href="#sauce"><img width="32" height="32" src="./images/icons/sauce.png" alt="sauce"
+                <a href="#sauce"><img width="32" height="32" src="/images/icons/sauce.png" alt="sauce"
                         title="cook sauce" />
                     sauce</a>
             </li>
 
             <li class="list-btn" title="accompaniments">
-                <a href="#accompaniments"><img width="32" height="32" src="./images/icons/side-dish.png" alt="side dish"
+                <a href="#accompaniments"><img width="32" height="32" src="/images/icons/side-dish.png" alt="side dish"
                         title="side dish" />
                     sides</a>
             </li>
 
             <li class="list-btn" title="cook puddings">
-                <a href="#puddings"><img width="32" height="32" src="./images/icons/cake.png" alt="cake"
+                <a href="#puddings"><img width="32" height="32" src="/images/icons/cake.png" alt="cake"
                         title="cook puddings" />
                     puds</a>
             </li>
