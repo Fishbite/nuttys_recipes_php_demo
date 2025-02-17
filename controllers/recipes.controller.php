@@ -40,7 +40,7 @@ function renderBlankCard()
  */
 function renderCategoryGrid($cat, $recipes)
 {
-    $html = "<div class='category-card'>
+    $html = "<div class='category-card' id='" . htmlspecialchars($cat) . "'>
                 <h3>" . htmlspecialchars($cat) . "</h3>
                 <p>" . htmlspecialchars("Description for " . $cat) . "</p>
               </div>";
