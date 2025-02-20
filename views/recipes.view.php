@@ -109,7 +109,7 @@ require "../controllers/recipes.controller.php";
     </header>
 
     <!-- Search Form -->
-    <form class="search-form" action="/views/recipes.view.php" method="GET">
+    <form id="search-form" class="search-form" action="/views/recipes.view.php" method="GET">
         <label for="category">Category:</label>
         <select id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All

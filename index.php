@@ -2,8 +2,9 @@
 
 echo "Nuttys is best</br>";
 
-echo 'The document root is: ' . $_SERVER['DOCUMENT_ROOT'] . '</br>';
+echo 'The document root is: ' . $_SERVER['DOCUMENT_ROOT'] . '</br></br>';
 
-echo "<a href='/views/recipes.view.php'>Recipes</a>" .PHP_EOL;
+echo "<a href='/views/recipes.view.php'>Recipes</a></br></br>" .PHP_EOL;
 
-const BASE_PATH = __FILE__ . '/../';
+const BASE_PATH = __DIR__ . '/';
+echo BASE_PATH;
