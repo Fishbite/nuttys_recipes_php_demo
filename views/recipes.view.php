@@ -1,5 +1,6 @@
 <?php
 require "../controllers/recipes.controller.php";
+require '../views/partials/nav-main.view.php';
 ?>
 
 <!DOCTYPE html>

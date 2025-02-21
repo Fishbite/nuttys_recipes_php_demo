@@ -8,15 +8,17 @@ require '../db_connect.php';
  */
 function renderRecipeCard($recipe)
 {
+    $domain = 'https://nuttyskitchen.co.uk/';
+    $ext = '.html';
     // Sanitize all the necessary values.
     $imgPath  = htmlspecialchars($recipe['image']);
     $caption  = htmlspecialchars($recipe['caption']);
-    $page     = htmlspecialchars($recipe['page']);
+    $page     = $domain . htmlspecialchars($recipe['page']) . $ext;
     $imgTitle = htmlspecialchars($recipe['imgTitle']); // SEO-optimized image title
     // Generate alt text based on the image filename.
     $alt = str_replace('-', ' ', pathinfo($imgPath, PATHINFO_FILENAME));
 
-    return "<a href='recipe.php?page=$page'><div class='recipe-card link'>
+    return "<a href='$page'><div class='recipe-card link'>
                 <img src='$imgPath' alt='$alt' title='$imgTitle'>
                 <figcaption>$caption</figcaption>
             </div></a>";

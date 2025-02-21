@@ -197,8 +197,48 @@ p {
 }
 .logo-main {
   position: absolute;
-  top: 10px;
+  top: 50px;
 }
+
+/* ====================================
+   ** main nav bar Start **
+   ====================================
+*/
+.nav-main {
+  display: flex;
+  height: 2.6rem;
+  background: var(--clr-grey-4);
+  font-size: 1rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-main ul {
+  display: flex;
+  flex-direction: row;
+}
+.nav-main a {
+  padding-right: 2rem;
+  color: var(--clr-primary-10);
+}
+
+@media screen and (max-width: 350px) {
+  .nav-main a {
+    padding-right: 0.75rem;
+  }
+}
+
+.nav-main a:hover {
+  color: var(--clr-yellow-golden-pale) !important;
+}
+
+.nav-main a:visited {
+  color: var(--clr-primary-10);
+}
+/* ====================================
+   ** main nav bar END **
+   ====================================
+*/
 
 /* ====================================
    ** Recipe Method Specific Styles START **
@@ -391,3 +431,79 @@ header a:visited {
     display: none;
   }
 }
+
+/* =================
+   ** Footer START**
+   =================
+*/
+
+footer {
+  font-size: 0.8rem;
+  color: var(--clr-grey-10);
+  background-color: var(--clr-grey-4);
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  align-items: flex-end;
+  justify-content: space-around;
+  border-top: 1px solid var(--clr-grey-9);
+  padding-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+footer p {
+  padding-top: 0.5rem;
+  color: var(--clr-grey-10);
+  margin: 0;
+  list-style: none;
+}
+footer li {
+  padding-top: 1rem;
+}
+footer a {
+  display: inline-block;
+  color: var(--clr-grey-10);
+  height: 1.25rem;
+}
+footer a:visited {
+  color: var(--clr-grey-10);
+}
+footer a:hover {
+  text-decoration: underline;
+  color: var(--clr-yellow-golden);
+}
+
+@media screen and (max-width: 650px) {
+  footer {
+    flex-flow: column wrap;
+    align-items: center;
+  }
+  footer p {
+    padding-top: 1rem;
+  }
+
+  footer .social p {
+    margin-top: 1rem;
+  }
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+}
+.social img {
+  border: 2px solid var(--clr-grey-4);
+  border-radius: var(--radius-sml);
+  width: 32px;
+  margin: 0.75rem auto;
+}
+.social p {
+  margin-top: 1.75rem;
+}
+.social img:hover {
+  border-color: var(--clr-yellow-golden);
+}
+/* =================
+   ** Footer END**
+   =================
+*/
