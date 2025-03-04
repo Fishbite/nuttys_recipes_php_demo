@@ -116,8 +116,8 @@ require '../views/partials/nav-main.view.php';
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
                 Categories</option>
             <?php foreach ($categories as $cat): ?>
-            <option value="<?= htmlspecialchars($cat) ?>" <?= $cat === $searchCategory ? 'selected' : ''; ?>>
-                <?= htmlspecialchars(ucfirst($cat)) ?>
+            <option value="<?= htmlspecialchars($cat); ?>" <?= $cat === $searchCategory ? 'selected' : ''; ?>>
+                <?= htmlspecialchars(ucfirst($cat)); ?>
             </option>
             <?php endforeach; ?>
         </select>
