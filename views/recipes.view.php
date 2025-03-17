@@ -139,6 +139,20 @@ require '../views/partials/nav-main.view.php';
         }
 ?>
     </div>
+    <footer>
+        <div class="social">
+            <a href="https://www.facebook.com/nutty.s.kitchen.co.uk" target="_blank">
+                <img src="/images/facebook-circle.png" alt="facebook logo">
+            </a>
+            <p><a href="mailto:nutty@nuttyskitchen.co.uk">email: nutty@nuttyskitchen.co.uk</a></p>
+        </div>
+        <ul>
+            <li><a href="https://nuttyskitchen.co.uk/contact-form.html">Contact Us</a></li>
+            <li><a href="https://www.ratufa.io/" target="_blank">ratufa.io</a></li>
+            <li><a href="https://icons8.com" target="_blank">icons by icons8</a></li>
+        </ul>
+        <p>copyright © fishbite 2025</p>
+    </footer>
 </body>
 
 </html>
