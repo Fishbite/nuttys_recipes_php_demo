@@ -3,6 +3,11 @@ require "../controllers/recipes.controller.php";
 require '../views/partials/nav-main.view.php';
 ?>
 
+<<?php
+require "../controllers/recipes.controller.php";
+require '../views/partials/nav-main.view.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -132,14 +137,66 @@ require '../views/partials/nav-main.view.php';
         <?php
         if (!empty($groupedRecipes)) {
             foreach ($groupedRecipes as $catName => $recipesArray) {
-                $description = $categoryDescriptions[$catName] ?? '';
-                echo renderCategoryGrid($catName, $description, $recipesArray);
+                echo renderCategoryGrid($catName, $recipesArray);
             }
         } else {
             echo "<p>No recipes found matching your criteria.</p>";
         }
 ?>
+    </div>
+    <footer>
+        <div class="social">
+            <a href="https://www.facebook.com/nutty.s.kitchen.co.uk" target="_blank">
+                <img src="/images/facebook-circle.png" alt="facebook logo">
+            </a>
+            <p><a href="mailto:nutty@nuttyskitchen.co.uk">email: nutty@nuttyskitchen.co.uk</a></p>
+        </div>
+        <ul>
+            <li><a href="https://nuttyskitchen.co.uk/contact-form.html">Contact Us</a></li>
+            <li><a href="https://www.ratufa.io/" target="_blank">ratufa.io</a></li>
+            <li><a href="https://icons8.com" target="_blank">icons by icons8</a></li>
+        </ul>
+        <p>copyright © fishbite 2025</p>
+    </footer>
+</body>
 
+</html>
+
+    <!-- Search Form -->
+    <form id="search-form" class="search-form" action="/views/recipes.view.php" method="GET">
+        <label for="category">Category:</label>
+        <select id="category" name="category">
+            <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All Categories</option>
+            <?php foreach ($categories as $cat): ?>
+            <option value="<?= htmlspecialchars($cat); ?>" <?= $cat === $searchCategory ? 'selected' : ''; ?>>
+                <?= htmlspecialchars(ucfirst($cat)); ?>
+            </option>
+            <?php endforeach; ?>
+        </select>
+        <label for="search">Keyword:</label>
+        <input type="text" id="search" name="search" placeholder="Enter keyword..."
+            value="<?= htmlspecialchars($searchTerm); ?>">
+        <button type="submit">Search</button>
+    </form>
+
+    <!-- Recipe Grid -->
+    <div class="recipe-grid">
+        <?php
+        if (!empty($groupedRecipes)) {
+            foreach ($groupedRecipes as $catName => $recipesArray) {
+                $categoryDescription = $categoryDescriptions[$catName] ?? '';
+                echo "<div class='category-card'>";
+                echo "<h2 id='" . htmlspecialchars($catName) . "'>" . htmlspecialchars(ucfirst($catName)) . "</h2>";
+                if (!empty($categoryDescription)) {
+                    echo "<p class='category-description'>" . htmlspecialchars($categoryDescription) . "</p>";
+                }
+                echo renderCategoryGrid($catName, $recipesArray);
+                echo "</div>";
+            }
+        } else {
+            echo "<p>No recipes found matching your criteria.</p>";
+        }
+        ?>
     </div>
 
     <footer>

@@ -37,14 +37,15 @@ function renderBlankCard()
  * Renders the grid for one category.
  *
  * @param string $cat         Category name.
+ * @param string $description Category description.
  * @param array  $recipes     Array of recipes for that category.
  * @return string
  */
-function renderCategoryGrid($cat, $recipes)
+function renderCategoryGrid($cat, $description, $recipes)
 {
     $html = "<div class='category-card' id='" . htmlspecialchars($cat) . "'>
                 <h3>" . htmlspecialchars($cat) . "</h3>
-                <p>" . htmlspecialchars("Description for " . $cat) . "</p>
+                <p>" . htmlspecialchars($description) . "</p>
               </div>";
 
     $count = count($recipes);
@@ -105,12 +106,15 @@ if ($searchCategory === 'all' && $searchTerm === '') {
 
 $recipes = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
+// Fetch category descriptions from category_cards table.
+$stmt = $pdo->query("SELECT name, description FROM category_cards ORDER BY name");
+$categoryDescriptions = $stmt->fetchAll(PDO::FETCH_KEY_PAIR);
+
 // Group the recipes by category.
 $groupedRecipes = [];
 foreach ($recipes as $recipe) {
     $groupedRecipes[$recipe['category']][] = $recipe;
 }
 
-// Fetch a list of distinct categories (for the dropdown)
-$stmt = $pdo->query("SELECT DISTINCT category FROM recipe_cards ORDER BY category");
+$stmt = $pdo->query("SELECT DISTINCT name FROM category_cards ORDER BY name");
 $categories = $stmt->fetchAll(PDO::FETCH_COLUMN);

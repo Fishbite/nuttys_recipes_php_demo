@@ -132,16 +132,13 @@ require '../views/partials/nav-main.view.php';
         <?php
         if (!empty($groupedRecipes)) {
             foreach ($groupedRecipes as $catName => $recipesArray) {
-                $description = $categoryDescriptions[$catName] ?? '';
-                echo renderCategoryGrid($catName, $description, $recipesArray);
+                echo renderCategoryGrid($catName, $recipesArray);
             }
         } else {
             echo "<p>No recipes found matching your criteria.</p>";
         }
 ?>
-
     </div>
-
     <footer>
         <div class="social">
             <a href="https://www.facebook.com/nutty.s.kitchen.co.uk" target="_blank">
