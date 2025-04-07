@@ -95,16 +95,40 @@ if ($searchCategory === 'all' && $searchTerm === '') {
         $params[] = $searchCategory;
     }
     if ($searchTerm !== '') {
-        $sql .= " AND (imgTitle LIKE ? OR description LIKE ?)";
-        $params[] = "%" . $searchTerm . "%";
-        $params[] = "%" . $searchTerm . "%";
+        // $sql .= " AND (imgTitle LIKE ? OR description LIKE ?)";
+        // $params[] = "%" . $searchTerm . "%";
+        // $params[] = "%" . $searchTerm . "%";
+
+        // using concat to ensure whole-word matching
+        // rather than matching PIECES when searching for PIE
+        $sql .= " AND (CONCAT(' ', imgTitle, ' ') LIKE ? OR CONCAT(' ', description, ' ') LIKE ?)";
+        $params[] = "% " . $searchTerm . " %";
+        $params[] = "% " . $searchTerm . " %";
+
     }
     $sql .= " ORDER BY category, id";
     $stmt = $pdo->prepare($sql);
+
+    // debugging*******************
+    // echo "<pre>";
+    // echo "SQL: " . $sql . "\n";
+    // print_r($params);
+    // echo "</pre>";
+    // debugging*******************
+
     $stmt->execute($params);
 }
 
 $recipes = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+// debugging*******************
+// foreach ($recipes as $recipe) {
+//     echo "<pre>";
+//     print_r($recipe);
+//     echo "</pre>";
+// }
+// debugging*******************
+
 
 // Fetch category descriptions from category_cards table.
 $stmt = $pdo->query("SELECT name, description FROM category_cards ORDER BY name");
