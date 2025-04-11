@@ -147,7 +147,7 @@ require '../views/partials/nav-main.view.php';
             <a href="https://www.facebook.com/nutty.s.kitchen.co.uk" target="_blank">
                 <img src="/images/facebook-circle.png" alt="facebook logo">
             </a>
-            <p><a href="mailto:nutty@nuttyskitchen.co.uk">email: nutty@nuttyskitchen.co.uk</a></p>
+            <p><a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">email: nutty@nuttyskitchen.co.uk</a></p>
         </div>
         <ul>
             <li><a href="https://nuttyskitchen.co.uk/contact-form.html">Contact Us</a></li>
