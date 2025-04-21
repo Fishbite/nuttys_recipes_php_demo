@@ -1,5 +1,5 @@
 <?php
-require "../controllers/recipes.controller.php";
+// require "../controllers/recipes.controller.php";
 require '../views/partials/nav-main.view.php';
 ?>
 
@@ -12,6 +12,40 @@ require '../views/partials/nav-main.view.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="stylesheet" href="/styles/tabs-nav.css"> -->
     <link rel="stylesheet" href="/styles/styles.css">
+    <style>
+        .back-to-top {
+            display: flex;
+            flex-direction: row-reverse;
+            position: sticky;
+            top: 87.5vh;
+            padding-top: 1rem;
+            margin-right: 0.5rem;
+            z-index: 1000;
+        }
+
+        .back-to-top a:active {
+            border: 1px solid var(--clr-yellow-golden-pale);
+            box-shadow: 0px 0px 5px 1px var(--clr-yellow-golden);
+            cursor: pointer;
+            opacity: 1;
+        }
+
+        .back-to-top a:hover {
+            border: 1px solid var(--clr-yellow-golden-pale);
+            box-shadow: 0px 0px 5px 1px var(--clr-yellow-golden);
+            cursor: pointer;
+            opacity: 1;
+        }
+
+        .back-to-top a {
+            text-decoration: none;
+            padding: 2px;
+            border-radius: 0.25rem;
+            border: 1px solid var(--clr-grey-6);
+            font-size: 1.25rem;
+            opacity: 0.75;
+        }
+    </style>
 
     <!-- Preload the Poppins font -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -54,7 +88,8 @@ require '../views/partials/nav-main.view.php';
         <!-- This list defines the on-page nav buttons that
            facilitate jumping to specific categories -->
         <!--========= Link Buttons START =========-->
-        <ul class="list-btn-wrapper">
+
+        <ul id="search-btns" class="list-btn-wrapper">
             <li class="list-btn" title="cook sausages">
                 <a href="#sausages & bacon"><img width="32" height="32" src="/images/icons/sausage-n-bacon-7.svg"
                         alt="sausages" title="cook sausages" />
@@ -109,8 +144,13 @@ require '../views/partials/nav-main.view.php';
         <!--========= Link Buttons END =========-->
     </header>
 
+    <!-- Back to Top button -->
+    <div class="back-to-top">
+        <a href="#search-btns">&#x23EB;&#128064;</a>
+    </div>
+
     <!-- Search Form -->
-    <form id="search-form" class="search-form" action="/views/recipes.view.php" method="GET">
+    <form id="search-form" class="search-form" action="/controllers/recipes.controller.php" method="POST">
         <label for="category">Category:</label>
         <select id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
@@ -142,20 +182,8 @@ require '../views/partials/nav-main.view.php';
 
     </div>
 
-    <footer>
-        <div class="social">
-            <a href="https://www.facebook.com/nutty.s.kitchen.co.uk" target="_blank">
-                <img src="/images/facebook-circle.png" alt="facebook logo">
-            </a>
-            <p><a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">email: nutty@nuttyskitchen.co.uk</a></p>
-        </div>
-        <ul>
-            <li><a href="https://nuttyskitchen.co.uk/contact-form.html">Contact Us</a></li>
-            <li><a href="https://www.ratufa.io/" target="_blank">ratufa.io</a></li>
-            <li><a href="https://icons8.com" target="_blank">icons by icons8</a></li>
-        </ul>
-        <p>copyright © fishbite 2025</p>
-    </footer>
-</body>
+
+
+    <?php require '../views/partials/footer.php'; ?>
 
 </html>
