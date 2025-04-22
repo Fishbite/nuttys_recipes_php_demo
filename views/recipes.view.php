@@ -39,11 +39,22 @@ require '../views/partials/nav-main.view.php';
 
         .back-to-top a {
             text-decoration: none;
-            padding: 2px;
+            padding: 2px 0.5rem;
             border-radius: 0.25rem;
             border: 1px solid var(--clr-grey-6);
             font-size: 1.25rem;
             opacity: 0.75;
+        }
+
+        @media screen and (max-width: 600px) {
+            .back-to-top {
+                top: 80vh;
+            }
+
+            .back-to-top a {
+                padding: 1rem 0.5rem;
+                font-size: 1.25rem;
+            }
         }
     </style>
 
@@ -146,7 +157,7 @@ require '../views/partials/nav-main.view.php';
 
     <!-- Back to Top button -->
     <div class="back-to-top">
-        <a href="#search-btns">&#x23EB;&#128064;</a>
+        <a href="#search-btns">&#128064;&#x23EB;</a>
     </div>
 
     <!-- Search Form -->
