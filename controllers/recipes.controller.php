@@ -1,4 +1,11 @@
 <?php
+
+// cache control headers to prevent the browser caching the page
+// Note: caching of images and static files is set in the .htaccess file
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+
 require '../db_connect.php';
 require '../functions.php';
 require '../db_query.php';

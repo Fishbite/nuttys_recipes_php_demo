@@ -1,8 +1,3 @@
-<?php
-// require "../controllers/recipes.controller.php";
-require '../views/partials/nav-main.view.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,15 +5,37 @@ require '../views/partials/nav-main.view.php';
     <meta charset="UTF-8">
     <title>Recipes Grid</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="stylesheet" href="/styles/tabs-nav.css"> -->
+
+    <!-- Load CSS first -->
     <link rel="stylesheet" href="/styles/styles.css">
 
+    <!-- Load fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
-    <!-- Preload the Poppins font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+    <!-- Critical CSS -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .recipe-grid {
+            min-height: 200px;
+        }
+
+        .back-to-top {
+            position: sticky;
+            /* top: 87.5vh; */
+            text-align: right;
+            z-index: 100;
+        }
+    </style>
 </head>
+
+<?php require '../views/partials/nav-main.view.php'; ?>
 
 <body>
     <header class="title">
