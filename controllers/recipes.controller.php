@@ -6,9 +6,10 @@ header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
 header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
-require '../db_connect.php';
-require '../functions.php';
-require '../db_query.php';
+// Use __DIR__ to ensure correct paths
+require __DIR__ . '/../db_connect.php';
+// require __DIR__ . '/../functions.php';
+require __DIR__ . '/../db_query.php';
 
 // *************** debugging ******************* \\
 // check variables are being passed to the view
@@ -23,4 +24,4 @@ require '../db_query.php';
 // Then require the view
 // require __DIR__ . '/../views/recipes.view.php';
 
-require '../views/recipes.view.php';
+require __DIR__ . '/../views/recipes.view.php';

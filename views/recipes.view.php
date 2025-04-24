@@ -1,3 +1,5 @@
+<?php require __DIR__ . '/../functions.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,7 +37,9 @@
     </style>
 </head>
 
-<?php require '../views/partials/nav-main.view.php'; ?>
+<?= require __DIR__. '/../views/partials/nav-main.view.php';
+
+?>
 
 <body>
     <header class="title">
@@ -168,6 +172,6 @@
 
 
 
-    <?php require '../views/partials/footer.php'; ?>
+    <?php require __DIR__ . '/../views/partials/footer.php'; ?>
 
 </html>

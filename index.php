@@ -1,5 +1,8 @@
 <?php
 
+require 'functions.php';
+require 'controllers/routes.php';
+
 echo "Nuttys is best</br>";
 
 echo 'The document root is: ' . $_SERVER['DOCUMENT_ROOT'] . '</br></br>';
