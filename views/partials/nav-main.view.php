@@ -1,6 +1,3 @@
-<?php
-?>
-
 <nav class="nav-main">
     <ul>
         <li><a href="/">Home</a></li>

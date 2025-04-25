@@ -1,4 +1,5 @@
-<?php require __DIR__ . '/../functions.php'; ?>
+<?php require __DIR__ . '/../functions.php';?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -30,16 +31,14 @@
 
         .back-to-top {
             position: sticky;
-            /* top: 87.5vh; */
+            top: 87.5vh;
             text-align: right;
             z-index: 100;
         }
     </style>
 </head>
 
-<?= require __DIR__. '/../views/partials/nav-main.view.php';
-
-?>
+<?php require __DIR__. '/../views/partials/nav-main.view.php';?>
 
 <body>
     <header class="title">
@@ -138,7 +137,7 @@
     </div>
 
     <!-- Search Form -->
-    <form id="search-form" class="search-form" action="/controllers/recipes.controller.php" method="POST">
+    <form id="search-form" class="search-form" action="/recipes" method="POST">
         <label for="category">Category:</label>
         <select id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All

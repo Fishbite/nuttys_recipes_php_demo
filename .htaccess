@@ -1,9 +1,19 @@
 RewriteEngine On
+
+# Force HTTPS redirection
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-php_value display_errors Off
+
+# Enable URL rewriting
+# Redirect all requests to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L]
+
+# Enable PHP error display
+php_value display_errors On
 php_value date.timezone Europe/London
 
 # Enable Apache's mod_expires module
