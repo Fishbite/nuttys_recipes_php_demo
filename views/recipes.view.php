@@ -49,14 +49,14 @@
 <body>
     <header class="title">
         <section class="title-wrap">
-            <img width="60" height="32" src="/images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
+            <img width="60" height="30" src="/images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
 
             <h1>nutty's recipes</h1>
 
-            <img width="60" height="32" src="/images/logo-right.svg" alt="logo right"
+            <img width="60" height="30" src="/images/logo-right.svg" alt="logo right"
                 title="nuttys kitchen logo right" />
         </section>
-        <img src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo" width="160" height="40"
+        <img width="160" height="40" src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo"
             title="nuttys kitchen logo" class="logo-main" />
         <p>
             Browse through some delicious English dishes from recipes passed down
