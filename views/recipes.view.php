@@ -17,6 +17,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
+    <!-- Load logos -->
+    <link rel="preload" href="/images/logo-left.svg" as="image">
+    <link rel="preload" href="/images/logo-right.svg" as="image">
+    <link rel="preload" href="/images/nuttys-kitchen-logo.svg" as="image">
+
+
     <!-- Critical CSS -->
     <style>
         body {
@@ -42,13 +48,14 @@
 
 <body>
     <header class="title">
-        <div class="title-wrap">
+        <section class="title-wrap">
             <img width="60" height="32" src="/images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
+
             <h1>nutty's recipes</h1>
 
             <img width="60" height="32" src="/images/logo-right.svg" alt="logo right"
                 title="nuttys kitchen logo right" />
-        </div>
+        </section>
         <img src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo" width="160" height="40"
             title="nuttys kitchen logo" class="logo-main" />
         <p>
@@ -76,57 +83,7 @@
            facilitate jumping to specific categories -->
         <!--========= Link Buttons START =========-->
 
-        <ul id="search-btns" class="list-btn-wrapper">
-            <li class="list-btn" title="cook sausages">
-                <a href="#sausages & bacon"><img width="32" height="32" src="/images/icons/sausage-n-bacon-7.svg"
-                        alt="sausages" title="cook sausages" />
-                    sausage & bacon</a>
-            </li>
-
-            <li class="list-btn" title="cook chicken">
-                <a href="#chicken"><img width="32" height="32" src="/images/icons/chicken-2.png" alt="chicken" />
-                    chicken</a>
-            </li>
-
-            <li class="list-btn" title="cook beef">
-                <a href="#beef"><img width="32" height="32" src="/images/icons/beef.png" alt="beef" title="cook beef" />
-                    beef</a>
-            </li>
-
-            <li class="list-btn" title="cook pork">
-                <a href="#pork"><img width="32" height="32" src="/images/icons/pork.png" alt="pork" title="cook pork" />
-                    pork</a>
-            </li>
-
-            <li class="list-btn" title="cook lamb">
-                <a href="#lamb"><img width="32" height="32" src="/images/icons/lamb.png" alt="lamb" title="cook lamb" />
-                    lamb</a>
-            </li>
-
-            <li class="list-btn" title="cook veg">
-                <a href="#fish & veg"><img width="32" height="32" src="/images/icons/fish-n-veg-1.svg" alt="veg"
-                        title="cook veg" />
-                    fish & veg</a>
-            </li>
-
-            <li class="list-btn" title="cook sauce">
-                <a href="#sauce"><img width="32" height="32" src="/images/icons/sauce.png" alt="sauce"
-                        title="cook sauce" />
-                    sauce</a>
-            </li>
-
-            <li class="list-btn" title="accompaniments">
-                <a href="#accompaniments"><img width="32" height="32" src="/images/icons/side-dish.png" alt="side dish"
-                        title="side dish" />
-                    sides</a>
-            </li>
-
-            <li class="list-btn" title="cook puddings">
-                <a href="#puddings"><img width="32" height="32" src="/images/icons/cake.png" alt="cake"
-                        title="cook puddings" />
-                    puds</a>
-            </li>
-        </ul>
+        <?php require __DIR__ . '/../views/partials/category-btns.view.php'; ?>
 
         <!--========= Link Buttons END =========-->
     </header>
