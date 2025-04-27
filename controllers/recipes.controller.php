@@ -6,6 +6,8 @@ header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
 header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
+$title = 'Nutty\'s Recipes';
+
 // Use __DIR__ to ensure correct paths
 require __DIR__ . '/../db_connect.php';
 // require __DIR__ . '/../functions.php';

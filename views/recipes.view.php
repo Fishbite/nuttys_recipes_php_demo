@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Recipes Grid</title>
+    <title><?=$title?> | Nutty's Kitchen</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Load CSS first -->
