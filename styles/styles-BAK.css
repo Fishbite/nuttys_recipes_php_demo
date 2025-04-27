@@ -91,7 +91,7 @@ ol {
 a {
   text-decoration: none;
 }
-img:not(.logo, .logo-main, .overlay_image) {
+img:not(.logo, .overlay_image) {
   width: 100%;
 }
 img {
@@ -157,6 +157,111 @@ p {
     line-height: 1;
   }
 }
+/*  global classes */
+
+/* title*/
+.title {
+  text-align: center;
+  margin: 3.5rem 0 2rem 0;
+}
+.title p {
+  width: 80%;
+  /* max-width: 66ch; */
+  margin: 0 auto;
+  text-align: justify;
+}
+.title p:not(:last-child) {
+  padding-bottom: 1rem;
+}
+
+.title-wrap {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+.title-wrap img {
+  width: 64px;
+  height: 32px;
+  padding: 0 0.25rem 0 0;
+  align-self: flex-end;
+  margin-bottom: 0.5rem;
+}
+.title-wrap h2 {
+  width: max-content;
+}
+@media screen and (max-width: 450px) {
+  .title-wrap h2 {
+    width: min-content;
+  }
+}
+.logo-main {
+  position: absolute;
+  top: 50px;
+}
+
+/* ====================================
+   ** main nav bar Start **
+   ====================================
+*/
+.nav-main {
+  display: flex;
+  height: 2.6rem;
+  background: var(--clr-grey-4);
+  font-size: 1rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-main ul {
+  display: flex;
+  flex-direction: row;
+}
+.nav-main a {
+  padding-right: 2rem;
+  color: var(--clr-primary-10);
+}
+
+@media screen and (max-width: 350px) {
+  .nav-main a {
+    padding-right: 0.75rem;
+  }
+}
+
+.nav-main a:hover {
+  color: var(--clr-yellow-golden-pale) !important;
+}
+
+.nav-main a:visited {
+  color: var(--clr-primary-10);
+}
+/* ====================================
+   ** main nav bar END **
+   ====================================
+*/
+
+/* ====================================
+   ** Recipe Method Specific Styles START **
+   ====================================
+*/
+/* .recipe-links li {
+  color: var(--clr-grey-4);
+  padding: 0.5rem;
+}
+.recipe-links a:visited {
+  color: var(--clr-grey-4);
+} */
+
+/* space the list elements to make them more easily
+   readable when  */
+.spaced-ol-list ol > li:not(:last-child) {
+  padding-bottom: 1rem;
+}
+
+/* ====================================
+     ** Recipe Method Specific Styles END **
+     ====================================
+  */
 
 /* ============
    ** Header **
@@ -246,127 +351,10 @@ header a:visited {
    =====================
 */
 
-.title {
-  text-align: center;
-  margin: 1rem 0;
-  max-width: 100%;
-}
-.title p {
-  width: 80%;
-  /* max-width: 66ch; */
-  margin: 0 auto;
-  text-align: justify;
-}
-.title p:not(:last-child) {
-  padding-bottom: 1rem;
-}
-
-/* .title-wrap {
-  display: flex;
-  margin: 0 auto;
-  justify-content: center;
-  margin-bottom: 0.5rem;
-}
-.title-wrap img {
-  width: 60px;
-  height: 30px;
-  padding: 0 0.25rem 0 0;
-  align-self: flex-end;
-  margin-bottom: 0.5rem;
-}
-.title-wrap h2 {
-  width: max-content;
-}
-@media screen and (max-width: 450px) {
-  .title-wrap h2 {
-    width: min-content;
-  }
-}
-.logo-main {
-  position: absolute;
-  top: 50px;
-} */
-
-.title-banner {
-  display: inline-grid;
-  grid-template-columns: auto auto auto;
-  place-items: center;
-}
-.title-banner h1 {
-  margin: 0.5rem 0 2rem 0;
-}
-.logo-main {
-  grid-column-start: 1;
-  grid-column-end: 4;
-}
-
-/* ====================================
-   ** main nav bar Start **
-   ====================================
-*/
-.nav-main {
-  display: flex;
-  height: 2.6rem;
-  background: var(--clr-grey-4);
-  font-size: 1rem;
-  justify-content: flex-end;
-  align-items: center;
-}
-
-.nav-main ul {
-  display: flex;
-  flex-direction: row;
-}
-.nav-main a {
-  padding-right: 2rem;
-  color: var(--clr-primary-10);
-}
-
-@media screen and (max-width: 350px) {
-  .nav-main a {
-    padding-right: 0.75rem;
-  }
-}
-
-.nav-main a:hover {
-  color: var(--clr-yellow-golden-pale) !important;
-}
-
-.nav-main a:visited {
-  color: var(--clr-primary-10);
-}
-/* ====================================
-   ** main nav bar END **
-   ====================================
-*/
-
-/* ====================================
-   ** Recipe Method Specific Styles START **
-   ====================================
-*/
-/* .recipe-links li {
-  color: var(--clr-grey-4);
-  padding: 0.5rem;
-}
-.recipe-links a:visited {
-  color: var(--clr-grey-4);
-} */
-
-/* space the list elements to make them more easily
-   readable when  */
-.spaced-ol-list ol > li:not(:last-child) {
-  padding-bottom: 1rem;
-}
-
-/* ====================================
-     ** Recipe Method Specific Styles END **
-     ====================================
-  */
-
 /* Search form styling */
 .search-form {
   max-width: 1170px;
-  margin: -1rem auto 3rem;
+  margin: -3rem auto 3rem;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;

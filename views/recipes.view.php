@@ -1,6 +1,5 @@
 <?php require __DIR__ . '/../functions.php';?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -47,17 +46,11 @@
 <?php require __DIR__. '/../views/partials/nav-main.view.php';?>
 
 <body>
+
     <header class="title">
-        <section class="title-wrap">
-            <img width="60" height="30" src="/images/logo-left.svg" alt="logo left" title="nuttys kitchen logo left" />
 
-            <h1>nutty's recipes</h1>
+        <?php require __DIR__ . '/../views/partials/title-banner.view.php';?>
 
-            <img width="60" height="30" src="/images/logo-right.svg" alt="logo right"
-                title="nuttys kitchen logo right" />
-        </section>
-        <img width="160" height="40" src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo"
-            title="nuttys kitchen logo" class="logo-main" />
         <p>
             Browse through some delicious English dishes from recipes passed down
             through generations along with a delectable, scrumptious collection of
@@ -74,24 +67,17 @@
             Use the other buttons below to jump to a specific category such as
             chicken, puddings etc.
         </p>
-        <div class="cta list-btn" title="email me :¬)">
-            <a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">mail me some love<br />
-                &#128522;</a>
-        </div>
 
-        <!-- This list defines the on-page nav buttons that
-           facilitate jumping to specific categories -->
-        <!--========= Link Buttons START =========-->
-
-        <?php require __DIR__ . '/../views/partials/category-btns.view.php'; ?>
-
-        <!--========= Link Buttons END =========-->
     </header>
 
-    <!-- Back to Top button -->
-    <div class="back-to-top">
-        <a href="#search-btns">&#128064;&#x23EB;</a>
+    <div class="cta list-btn" title="email me :¬)">
+        <a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">mail me some love<br />
+            &#128522;</a>
     </div>
+
+    <?php require __DIR__ . '/../views/partials/category-btns.view.php'; ?>
+
+    <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
 
     <!-- Search Form -->
     <form id="search-form" class="search-form" action="/recipes" method="POST">
@@ -123,10 +109,7 @@
             echo "<p>No recipes found matching your criteria.</p>";
         }
 ?>
-
     </div>
-
-
 
     <?php require __DIR__ . '/../views/partials/footer.php'; ?>
 
