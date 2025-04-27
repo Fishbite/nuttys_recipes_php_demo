@@ -11,6 +11,7 @@ $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
 $routes = [
     '/' => 'controllers/recipes.controller.php',
     '/recipes' => 'controllers/recipes.controller.php',
+    '/contact' => 'controllers/contact.controller.php',
 ];
 
 function routeToController($uri, $routes)
