@@ -1,4 +1,4 @@
-<section class="title-wrap title-banner">
+<section class="title-banner">
     <img width="220" height="55" src="/images/nuttys-kitchen-logo.svg" alt="nuttys kitchen logo"
         title="nuttys kitchen logo" class="logo-main" />
 
