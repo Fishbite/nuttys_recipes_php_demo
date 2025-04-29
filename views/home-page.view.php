@@ -91,7 +91,7 @@
           experience that's as heartfelt as it is budget-friendly. Meet Nutty,
           a passionate foodie, whose journey in the realm of cooking is as
           rich and diverse as the flavours she brings to life. Make sure to
-          see her <strong>latest recipe </strong>near the bottom of this page.
+          see her <a class="underline" href="#latest"><strong>latest recipe </strong></a> near the bottom of this page.
         </p>
       </section>
     </header>
@@ -183,7 +183,7 @@
       <!-- end of single item -->
 
       <!-- single item -->
-      <section class="about-content-main">
+      <section id="latest" class="about-content-main">
         <div class="title-icon">
           <h2>Latest</h2>
           <img width="32" height="44" src="./images/new.webp" alt="new icon" title="new" />
