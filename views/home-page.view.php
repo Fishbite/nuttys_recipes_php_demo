@@ -4,13 +4,13 @@
 <head>
   <!-- Google tag (gtag.js) -->
   <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL9N8J2Q45"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-YL9N8J2Q45');
-</script> -->
+    gtag('config', 'G-YL9N8J2Q45');
+  </script> -->
   <!-- End Google tag (gtag.js) -->
 
   <meta charset="UTF-8" />
@@ -23,9 +23,9 @@
   <!-- *********************FACEBOOK START******************** -->
   <!-- IMPORTANT! Will need to redo this when live @nuttyskitchen.co.uk -->
   <!-- <meta
-      name="facebook-domain-verification"
-      content="4ngq1160alkoa6ixqaes5lrt31bl11"
-    /> -->
+        name="facebook-domain-verification"
+        content="4ngq1160alkoa6ixqaes5lrt31bl11"
+      /> -->
   <!-- facebook meta tags to ensure correct image / page is shared START-->
 
   <!-- set the URL that you want Facebook to point to in this tag -->
@@ -44,7 +44,7 @@
   <!-- *********************FACEBOOK END********************* -->
 
   <!--set the image that shows in the browser tabs -->
-  <link rel="icon" href="favicon.svg" />
+  <link rel="icon" href="/images/icons/favicon.svg" />
 
   <!-- tell google to use www.nuttyskitchen.co.uk as the canonical page -->
   <link rel="canonical" href="https://www.nuttyskitchen.co.uk" />
@@ -69,7 +69,7 @@
 
 <body>
   <!-- <nav class="nav-main"> -->
-  <?php require __DIR__ . '/../views/partials/nav-main.view.php' ?>
+  <?php require __DIR__ . '/../views/partials/nav-main.view.php'; ?>
 
   <!-- Navigation START -->
   <div id="nav-container" class="nav-container"></div>
@@ -260,9 +260,7 @@
       <!-- end of single item -->
     </main>
   </div>
-
   <?php require __DIR__ . '/../views/partials/footer.php' ?>
-
   <!-- <script type="module" src="./src/tabs.js"></script> -->
   <!-- <script src="./src/app.js"></script> -->
   <script src="/1year.js"></script>

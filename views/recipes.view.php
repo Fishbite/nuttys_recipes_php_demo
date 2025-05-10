@@ -1,11 +1,9 @@
-<?php require __DIR__ . '/../functions.php';?>
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <title><?=$title?> | Nutty's Kitchen</title>
+    <title><?= $title ?> | Nutty's Kitchen</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Load CSS first -->
@@ -43,13 +41,13 @@
     </style>
 </head>
 
-<?php require __DIR__. '/../views/partials/nav-main.view.php';?>
 
 <body>
+    <?php require __DIR__ . '/../views/partials/nav-main.view.php'; ?>
 
     <header class="title">
 
-        <?php require __DIR__ . '/../views/partials/title-banner.view.php';?>
+        <?php require __DIR__ . '/../views/partials/title-banner.view.php'; ?>
 
         <p>
             Browse through some delicious English dishes from recipes passed down
@@ -100,17 +98,18 @@
     <!-- Recipe Grid -->
     <div class="recipe-grid">
         <?php
-        if (!empty($groupedRecipes)) {
-            foreach ($groupedRecipes as $catName => $recipesArray) {
-                $description = $categoryDescriptions[$catName] ?? '';
-                echo renderCategoryGrid($catName, $description, $recipesArray);
+            if (!empty($groupedRecipes)) {
+                foreach ($groupedRecipes as $catName => $recipesArray) {
+                    $description = $categoryDescriptions[$catName] ?? '';
+                    echo renderCategoryGrid($catName, $description, $recipesArray);
+                }
+            } else {
+                echo "<p>No recipes found matching your criteria.</p>";
             }
-        } else {
-            echo "<p>No recipes found matching your criteria.</p>";
-        }
-?>
+    ?>
     </div>
 
     <?php require __DIR__ . '/../views/partials/footer.php'; ?>
+</body>
 
 </html>

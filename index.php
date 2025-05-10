@@ -1,5 +1,6 @@
 <?php
 
+require __DIR__ . '/functions.php';
 require __DIR__ . '/controllers/routes.php';
 
 // echo "Nuttys is best</br>";
@@ -10,5 +11,5 @@ require __DIR__ . '/controllers/routes.php';
 
 // echo "<a href='/controllers/recipes.controller.php'>controller</a></br></br>" .PHP_EOL;
 
-const BASE_PATH = __DIR__ . '/';
+const BASE_PATH = __DIR__ . '/../';
 // echo BASE_PATH;
