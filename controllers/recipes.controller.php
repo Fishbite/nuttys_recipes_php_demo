@@ -10,7 +10,7 @@ $title = 'Nutty\'s Recipes';
 
 // Use __DIR__ to ensure correct paths
 require __DIR__ . '/../db_connect.php';
-// require __DIR__ . '/../functions.php';
+require __DIR__ . '/../functions.php';
 require __DIR__ . '/../db_query.php';
 
 // *************** debugging ******************* \\

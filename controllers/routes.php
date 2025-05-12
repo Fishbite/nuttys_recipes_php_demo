@@ -14,10 +14,10 @@ $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
 // echo '<br>';
 
 $routes = [
-    '/' => 'controllers/recipes.controller.php',
+    '/' => 'controllers/home-page.controller.php',
     // '/' => 'controllers/home-page.controller.php',
-    // '/recipes' => 'controllers/recipes.controller.php',
-    // '/contact' => 'controllers/contact-form.controller.php',
+    '/recipes' => 'controllers/recipes.controller.php',
+    '/contact' => 'controllers/contact-form.controller.php',
     // '/aloo-gobi' => 'controllers/recipes/aloo-gobi.controller.php',
 ];
 

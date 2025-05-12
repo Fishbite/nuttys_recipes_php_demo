@@ -2,4 +2,7 @@
 
 $title = 'Nutty\'s Kitchen';
 
-require __DIR__ . '/../views/home-page.view.php';
+header('Location: https://www.nuttyskitchen.co.uk');
+exit;
+
+// require __DIR__ . '/../views/home-page.view.php';
