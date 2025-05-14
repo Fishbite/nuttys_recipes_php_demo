@@ -685,6 +685,12 @@ header a:visited {
   }
 }
 
+@media screen and (min-width: 600px) {
+  .search-form {
+    margin-top: -2rem;
+  }
+}
+
 /* Grid styling */
 .recipe-grid {
   display: grid;
