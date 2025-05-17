@@ -6,7 +6,7 @@
         title="nuttys kitchen logo left" />
 
 
-    <h1><?=$title?></h1>
+    <h1 id="content" tabindex="-1"><?=$title?></h1>
 
     <img class="logo-right" width="60" height="30" src="/images/logo-right.svg" alt="logo right"
         title="nuttys kitchen logo right" />
