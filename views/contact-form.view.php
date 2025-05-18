@@ -22,6 +22,8 @@
   <link rel="preload" href="/images/logo-right.svg" as="image">
   <link rel="preload" href="/images/nuttys-kitchen-logo.svg" as="image">
 
+  <!--set the image that shows in the browser tabs -->
+  <link rel="icon" href="/images/icons/favicon.svg" />
 
   <!-- Critical CSS -->
   <style>
