@@ -81,6 +81,9 @@
       <?php require __DIR__ . '/../views/partials/title-banner.view.php';?>
 
       <section>
+        <h2 style="text-transform: lowercase">
+          a place where honest wholesome cooking is delivered in every dish
+        </h2>
         <p>
           Welcome to Nutty's Kitchen &mdash; a place where honest wholesome
           cooking is delivered in every dish.
