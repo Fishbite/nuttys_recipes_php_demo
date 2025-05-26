@@ -3,6 +3,6 @@
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="#" class="recipe-page-link">Recipes</a></li>
-        <li><a href="/contact-form.html">Contact Us</a></li>
+        <li><a href="/contact">Contact Us</a></li>
       </ul>
     </nav>
