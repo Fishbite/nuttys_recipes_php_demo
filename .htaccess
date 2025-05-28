@@ -1,37 +1,18 @@
+php_value date.timezone Europe/London
+php_value display_errors On
+
 RewriteEngine On
 
-# Force HTTPS redirection
-RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Serve static files manually if not using /public as document root
+RewriteCond %{REQUEST_URI} ^/(styles|scripts|images|favicon\.ico|robots\.txt)
+RewriteRule ^(.*)$ public/$1 [L]
 
-# Enable URL rewriting
-# Redirect all requests to index.php
+# Redirect root path "/" to "/home"
+RewriteRule ^$ /home [L,R=301]
+
+# Don't rewrite existing files or directories (static assets)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php [L]
 
-# Enable PHP error display
-php_value display_errors On
-php_value date.timezone Europe/London
-
-# Enable Apache's mod_expires module
-<IfModule mod_expires.c>
-    ExpiresActive On
-
-    # Cache static assets
-    ExpiresByType text/css "access plus 1 year"
-    ExpiresByType application/javascript "access plus 1 year"
-    ExpiresByType image/jpeg "access plus 1 year"
-    ExpiresByType image/png "access plus 1 year"
-    ExpiresByType image/svg+xml "access plus 1 year"
-    ExpiresByType image/webp "access plus 1 year"
-
-    # Don't cache PHP files
-    <FilesMatch "\.(php)$">
-        ExpiresActive Off
-        Header set Cache-Control "private, no-cache, no-store, must-revalidate"
-        Header set Pragma "no-cache"
-    </FilesMatch>
-</IfModule>
+# Rewrite everything else to front controller
+RewriteRule ^ /public/index.php [L,QSA]
