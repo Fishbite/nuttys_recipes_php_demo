@@ -14,11 +14,11 @@ $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
 // echo '<br>';
 
 $routes = [
-    '/' => 'controllers/home-page.controller.php',
-    // '/' => 'controllers/home-page.controller.php',
-    '/recipes' => 'controllers/recipes.controller.php',
-    '/contact' => 'controllers/contact-form.controller.php',
-    // '/aloo-gobi' => 'controllers/recipes/aloo-gobi.controller.php',
+    '/' => __DIR__ . '/home-page.controller.php',
+    '/home' => __DIR__ . '/home-page.controller.php',
+    '/recipes' => __DIR__ . '/recipes.controller.php',
+    '/contact' => __DIR__ . '/contact-form.controller.php',
+    // '/aloo-gobi' => __DIR__ . '/recipes/aloo-gobi.controller.php',
 ];
 
 function routeToController($uri, $routes)
@@ -30,7 +30,7 @@ function routeToController($uri, $routes)
     } else {
         // http_response_code(404);
         // require __DIR__ . '/../views/404.php';
-        require 'controllers/recipes.controller.php';
+        require __DIR__ . '/recipes.controller.php';
     }
 }
 
