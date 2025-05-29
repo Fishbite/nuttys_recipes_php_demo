@@ -81,7 +81,7 @@
     <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
 
     <!-- Search Form -->
-    <form id="search-form" class="search-form" action="/recipes" method="POST">
+    <form id="search-form" class="search-form" action="/recipes#search-form" method="POST">
         <label for="category">Category:</label>
         <select id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
