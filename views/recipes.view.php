@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="https://recipes.nuttyskitchen.co.uk/recipes">
 
-
     <!-- Load CSS first -->
     <link rel="stylesheet" href="/styles/styles.css">
 

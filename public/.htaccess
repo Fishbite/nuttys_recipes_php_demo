@@ -1,15 +1,15 @@
-# Allow access to static files in public
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    RewriteCond %{REQUEST_URI} ^/robots\.txt$
-    RewriteRule ^ robots.txt [L]
+    # Allow robots.txt and Google verification file
+    RewriteRule ^robots\.txt$ - [L]
+    RewriteRule ^google66a73f74d88ed190\.html$ - [L]
 
     # Serve existing files and directories directly
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
     RewriteRule ^ - [L]
-    
+
     # Otherwise, rewrite to index.php
     RewriteRule ^ index.php [QSA,L]
 </IfModule>

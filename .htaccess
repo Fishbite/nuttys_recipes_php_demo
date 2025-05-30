@@ -3,6 +3,10 @@ php_value display_errors On
 
 RewriteEngine On
 
+# Allow direct access to specific file types in /public
+RewriteCond %{REQUEST_URI} ^/(robots\.txt|google66a73f74d88ed190\.html)$
+RewriteRule ^(.*)$ public/$1 [L]
+
 # Serve static files manually if not using /public as document root
 RewriteCond %{REQUEST_URI} ^/(styles|scripts|images|favicon\.ico|robots\.txt)
 RewriteRule ^(.*)$ public/$1 [L]
