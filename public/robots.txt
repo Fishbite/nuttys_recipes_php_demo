@@ -1,3 +1,8 @@
 User-agent: *
 Disallow: /
 Allow: /recipes
+Allow: /images/
+Allow: /styles/
+Allow: /scripts/
+Allow: /favicon.ico
+Allow: /robots.txt
