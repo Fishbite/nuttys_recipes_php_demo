@@ -85,16 +85,41 @@
           a place where honest wholesome cooking is delivered in every dish
         </h2>
         <p>
-          Welcome to Nutty's Kitchen &mdash; a place where honest wholesome
-          cooking is delivered in every dish.
-        </p>
-        <p>
           Step into the heart-warming world of Nutty's Kitchen, where the love
           for food, flavours and creativity merge to create a culinary
           experience that's as heartfelt as it is budget-friendly. Meet Nutty,
           a passionate foodie, whose journey in the realm of cooking is as
-          rich and diverse as the flavours she brings to life. Make sure to
-          see her <a class="underline" href="#latest"><strong>latest recipe </strong></a> near the bottom of this page.
+          rich and diverse as the flavours she brings to life.
+        </p>
+
+        <p style="line-height: 1.6; font-size: 1rem">
+          <span style="display: inline-flex; align-items: center; gap: 0.4em">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="hsl(209, 28%, 39%)"
+              style="vertical-align: middle">
+              <path d="M10 2a8 8 0 105.293 14.707l5 5 1.414-1.414-5-5A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z" />
+            </svg>
+
+            <strong class="pencil">New Search!</strong>
+          </span>
+
+          <span style="margin-left: 0.5em">
+            <a href="https://recipes.nuttyskitchen.co.uk/recipes" class="recipe-page-link underline-link"
+              data-fallback="https://www.nuttyskitchen.co.uk/recipepage.html"
+              data-test-image="https://recipes.nuttyskitchen.co.uk/images/icons/blank.svg">
+              Explore Nutty's Recipes</a>
+            or
+            <a href="https://recipes.nuttyskitchen.co.uk/recipes" class="recipe-page-link underline-link"
+              data-fallback="https://www.nuttyskitchen.co.uk/recipepage.html"
+              data-test-image="https://recipes.nuttyskitchen.co.uk/images/icons/blank.svg">
+              Click ‘Recipes’</a>
+            in the top menu to <em>search</em> by category, ingredient, or
+            craving — it’s like flipping through Nutty’s personal cookbook!
+          </span>
+        </p>
+
+        <p>
+          Make sure to see her <strong>latest recipe </strong>near the bottom
+          of this page.
         </p>
       </section>
     </header>
