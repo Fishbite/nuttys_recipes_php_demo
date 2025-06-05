@@ -291,7 +291,7 @@
   <?php require __DIR__ . '/../views/partials/footer.php' ?>
   <!-- <script type="module" src="./src/tabs.js"></script> -->
   <!-- <script src="./src/app.js"></script> -->
-  <script src="/1year.js"></script>
+  <script src="/scripts/1year.js"></script>
 </body>
 
 </html>

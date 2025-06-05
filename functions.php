@@ -15,6 +15,20 @@ function base_path($path)
 }
 
 /**
+ * Generate alt text from an image path.
+ * Converts filename like "aloo-gobi-plated.webp" to "aloo gobi plated"
+ *
+ * @param string $imagePath
+ * @return string
+ */
+function generateImageAlt($imagePath)
+{
+    $filename = pathinfo($imagePath, PATHINFO_FILENAME);
+    return str_replace('-', ' ', $filename);
+}
+
+
+/**
  * Helper function: renders a recipe card.
  * @param array $recipe
  * @return string HTML markup for a recipe card.
@@ -32,7 +46,13 @@ function renderRecipeCard($recipe)
     $alt = str_replace('-', ' ', pathinfo($imgPath, PATHINFO_FILENAME));
 
     return "<a href='$page'><div class='recipe-card link'>
-                <img src='$imgPath' alt='$alt' title='$imgTitle'>
+                <img 
+                loading='lazy' 
+                width='200' 
+                height='200' 
+                src='$imgPath' 
+                alt='$alt' 
+                title='$imgTitle'>
                 <figcaption>$caption</figcaption>
             </div></a>";
 }

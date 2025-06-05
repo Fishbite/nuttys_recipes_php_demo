@@ -26,4 +26,15 @@ require __DIR__ . '/../db_query.php';
 // Then require the view
 // require __DIR__ . '/../views/recipes.view.php';
 
+
+// // if a user types /recipes we re-direct /recipes to /recipes/ so that
+// // the URL in the address bar always has a trailing slash. This will
+// // allow a user to then type the recipe name. e.g. aloo-gobi, instead
+// // of /aloo-gobi
+// // If URL is missing trailing slash, redirect with a 301
+// if ($_SERVER['REQUEST_URI'] === '/recipes') {
+//     header("Location: /recipes/", true, 301);
+//     exit;
+// }
+
 require __DIR__ . '/../views/recipes.view.php';

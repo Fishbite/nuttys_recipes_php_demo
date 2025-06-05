@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title><?= $title ?> | Nutty's Kitchen</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
     <link rel="canonical" href="https://recipes.nuttyskitchen.co.uk/recipes">
 
     <!-- Load CSS first -->
@@ -21,7 +22,7 @@
     <link rel="preload" href="/images/nuttys-kitchen-logo.svg" as="image">
 
     <!--set the image that shows in the browser tabs -->
-    <link rel="icon" href="images/icons/favicon.svg" />
+    <link rel="icon" href="/images/icons/favicon.svg" />
 
 
     <!-- Critical CSS -->
@@ -60,6 +61,29 @@
             you. We'll be testing, trialling and cooking lots more to share with you
             in the future. I hope you love what I have so far.
         </p>
+
+        <p style="line-height: 1.6; font-size: 1rem">
+            <span style="display: inline-flex; align-items: center; gap: 0.4em">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20"
+                    fill="hsl(209, 28%, 39%)" style="vertical-align: middle">
+                    <path
+                        d="M10 2a8 8 0 105.293 14.707l5 5 1.414-1.414-5-5A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z" />
+                </svg>
+
+                <strong class="pencil">New Search!</strong>
+            </span>
+
+            <span style="margin-left: 0.5em">
+                <em>search</em> by category, ingredient, or
+                craving — just like flipping through Nutty’s personal cookbook!
+            </span>
+        </p>
+
+        <p><strong>Been here before?</strong> Type the recipe name in the address bar:
+            "/recipes/<strong>mushroom-chow-mein</strong>" and we'll take you
+            straight to the recipe
+            page @ <a class="underline-link" href="https://nuttyskitchen.co.uk/">nuttyskitchen.co.uk</a></p>
+
         <p>
             Drop me an email by clicking the
             <b><i>"mail me some love"</i></b> button below to let me know what you
@@ -82,7 +106,7 @@
     <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
 
     <!-- Search Form -->
-    <form id="search-form" class="search-form" action="/recipes#search-form" method="POST">
+    <form id="search-form" class="search-form" action="/recipes/" method="POST">
         <label for="category">Category:</label>
         <select id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
@@ -114,6 +138,8 @@
     </div>
 
     <?php require __DIR__ . '/../views/partials/footer.php'; ?>
+
+    <script src="/scripts/scrollTo.js"></script>
 </body>
 
 </html>
