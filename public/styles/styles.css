@@ -884,6 +884,7 @@ header .fb-form {
   text-align: center;
 }
 .head-p {
+  max-width: 66ch;
   background-color: var(--clr-grey-10);
   color: var(--clr-grey-4);
 }

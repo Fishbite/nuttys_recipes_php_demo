@@ -1,46 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description"
-    content="We're super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think" />
-
-  <title>Contact Nutty | Nutty's Kitchen</title>
-
-  <!-- Load CSS first -->
-  <link rel="stylesheet" href="/styles/styles.css">
-
-  <!-- Load fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-
-  <!-- Load logos -->
-  <link rel="preload" href="/images/logo-left.svg" as="image">
-  <link rel="preload" href="/images/logo-right.svg" as="image">
-  <link rel="preload" href="/images/nuttys-kitchen-logo.svg" as="image">
-
-  <!--set the image that shows in the browser tabs -->
-  <link rel="icon" href="/images/icons/favicon.svg" />
-
-  <!-- Critical CSS -->
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-
-    .back-to-top {
-      position: sticky;
-      top: 87.5vh;
-      text-align: right;
-      z-index: 100;
-    }
-  </style>
-</head>
+<?php require __DIR__ . "/partials/head.view.php";?>
 
 <body>
   <?php require __DIR__. '/../views/partials/nav-main.view.php';?>
@@ -50,8 +10,9 @@
     <?php require __DIR__ . '/../views/partials/title-banner.view.php'; ?>
 
     <p class="fb-form head-p">
-      We're super excited that you want to get in touch with us! Please
-      provide your feedback in the form below
+      We'd love to hear your feedback, questions, recipe requests, or just
+      a friendly hello. Fill in the form below, and we’ll get back to you
+      as soon as possible.
     </p>
   </header>
 
