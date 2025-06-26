@@ -1,0 +1,977 @@
+// ====== aloo-gobi.controller.php ======
+$title = 'Aloo Gobi | Nutty\'s Kitchen';
+$description = 'So here\'s a my version of Aloo Gobi — a very basic cauliflower & potato curry or side dish. I like to eat mine with a fork outta the pan as I\'m testing it';
+$ogDescription = 'So here\'s a my version of Aloo Gobi — a basic cauliflower & potato curry or side dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/aloo-gobi/650x366/aloo-gobi-curry-and-rice-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/aloo-gobi.html';
+
+// ====== appleblackberrycrumble.controller.php ======
+$title = 'Apple & Blackberry Crumble';
+$description = 'A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild';
+$ogDescription = 'A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/appleblackberrycrumble/650x366/pudding-served.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/appleblackberrycrumble.html';
+
+// ====== authentic-seekh-kebabs.controller.php ======
+$title = 'Authentic Seekh Kebabs | Nutty\'s Kitchen';
+$description = 'I have been working on perfecting this recipe for Authentic Seekh Kebabs a good while now. Finally I think this recipe is perfect but I\'ll let you be the judge of that!';
+$ogDescription = 'Authentic Seekh Kebabs';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/authentic-seekh-kebabs/650x366/seekh-kebab-with-salad-raita-and-pita-bread-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/authentic-seekh-kebabs.html';
+
+// ====== basmati-rice.controller.php ======
+$title = 'Basmati Rice | Nutty\'s Kitchen';
+$description = ' I have decided to do a very quick write up of the method to cook the perfect Basmati Rice';
+$ogDescription = 'a very quick write up of the method to cook the perfect Basmati Rice';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/basmati-rice/650x366/basmati-rice-2.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/basmati-rice.html';
+
+// ====== beef-and-mushroom-suet-pastry-pie.controller.php ======
+$title = 'Beef & Mushroom Suet Pastry Pie | Nutty\'s Kitchen';
+$description = 'As the weather is closing in. I\'m going to move into my winter warmer dishes. Beginning with with my favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef';
+$ogDescription = 'My favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-mushroom-suet-pie/650x366/pie-and-broccoli-plated-1.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beef-and-mushroom-suet-pastry-pie.html';
+
+// ====== beef-curry-with-green-beans.controller.php ======
+$title = 'Beef Curry With Green Beans | Nuttys\' Kitchen';
+$description = 'Beef Curry with Green Beans is a delicate & fresh Indian style curry traditionally made with Lamb, however I\'m switching it up & using tenderised beef for my version';
+$ogDescription = 'Beef Curry with Green Beans is a delicate & fresh Indian style curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-curry-with-green-beans/650x366/beef-curry-with-green-beans-rice-and-chapati.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beef-curry-with-green-beans.html';
+
+// ====== beef-pork-madras.controller.php ======
+$title = 'Beef & Pork Madras | Nutty\'s Kitchen';
+$description = 'I thought I\'d share my Madras curry paste with you so you don\'t have to pay for shop-bought & have a new skill up your sleeve. The madras paste will make 2 curries';
+$ogDescription = 'I thought I\'d share my Madras curry paste with you so you don\'t have to pay for shop-bought';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-pork-madras/650x366/beef-pork-madras-in-pan.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beef-pork-madras.html';
+
+// ====== beef-stew-and-dumplings.controller.php ======
+$title = 'Beef Stew and Dumplings | Nutty\'s Kitchen';
+$description = 'As the nights draw in and it gets colder & colder, I crave this kind of dish — Beef Stew & Dumplings. As I own a pressure cooker, I can cut the cooking time by two hours';
+$ogDescription = 'MY beef stew and dumplings recipe for those short, cold winter days';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-stew-and-dumplings/650x366/beef-stew-and-dumplings-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beef-stew-and-dumplings.html';
+
+// ====== beef-stroganoff.controller.php ======
+$title = 'Beef Stroganoff | Nutty\'s Kitchen';
+$description = '';
+$ogDescription = 'Short description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-stroganoff/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beef-stroganoff.html';
+
+// ====== beefporkchilli.controller.php ======
+$title = 'Beef & Pork Mexican Chilli';
+$description = 'a type of chilli con carne, but its not in it\'s pure form. It\'s packed with veg to double the size and flavour';
+$ogDescription = 'a type of chilli con carne, but its not in it\'s pure form. It\'s packed with veg to double the size and flavour';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beefporkchilli/650x366/chilli-rice-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beefporkchilli.html';
+
+// ====== beefporkpastabake.controller.php ======
+$title = 'Beef & Pork Pasta Bake';
+$description = 'a gorgeous dish with a totally \'to die for\' toasted
+    cheese & breadcrumb topping. a beautiful
+    light meaty flavour, tangy with tomato';
+$ogDescription = 'a gorgeous dish with a totally \'to die for\' toasted
+      cheese & breadcrumb topping';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beefporkpastabake/650x366/pasta-bake-plated.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/beefporkpastabake.html';
+
+// ====== beefporkpastasauce.controller.php ======
+$title = 'Beef & Pork Mince Italian Pasta Sauce | Nutty\'s Kitchen';
+$description = 'Try my beef & pork pasta bake which is truly sublime. Combining the beef mince with pork ensures that everything stays succulently juicy';
+$ogDescription = 'Try my beef & pork pasta bake which is truly sublime';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beefporkpastasauce/650x366/fusilli-pasta-sauce.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beefporkpastasauce.html';
+
+// ====== beefspinachcurry.controller.php ======
+$title = 'Beef & Spinach Curry';
+$description = 'This is a delicate curry not overly complicated or heavily spiced. The spinach is coarsely chopped and added at the final stage to keep it\'s colour';
+$ogDescription = 'a delicate curry not overly complicated or heavily spiced';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beefspinachcurry/650x366/beef-spinach-curry-rice.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/beefspinachcurry.html';
+
+// ====== beefy-meatballs-onion-gravy.controller.php ======
+$title = 'Beefy Meatballs In Onion Gravy | Nuttys Kitchen';
+$description = 'Let\'s cook beef again! This time I put together a nostalgic classic: beefy meatballs in onion gravy, my childhood memories come flooding back at the thought!';
+$ogDescription = 'This time I put together a nostalgic classic: beefy meatballs in onion gravy';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/beefy-meatballs/650x366/meatballs-rice-peas-sweetcorn.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/beefy-meatballs-onion-gravy.html';
+
+// ====== bellyporkdinner.controller.php ======
+$title = 'Belly Pork Dinner';
+$description = 'I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner!';
+$ogDescription = 'I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/bellyporkdinner/650x366/dinner-plated.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/bellyporkdinner.html';
+
+// ====== blackberry-and-soured-cream-flan.controller.php ======
+$title = 'blackberry & soured cream flan | Nutty\'s Kitchen';
+$description = 'It \'s the time of year when free Blackberries are easy to come by and there has been a bumper harvest here at Nutty\'s so, what better than Blackberry & Soured Cream Flan';
+$ogDescription = 'Short description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/blackberry-and-soured-cream-flan/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/blackberry-and-soured-cream-flan.html';
+
+// ====== blackcherrypie.controller.php ======
+$title = 'Black Cherry Pie';
+$description = 'A really scrummy tart that only needs a tin of black cherries to go with the left over pastry. It\'s not too sweet and just needs a dollop cream or ice cream';
+$ogDescription = 'A really scrummy tart that only needs a tin of black cherries to go with the left over pastry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/blackcherrypie/650x366/cherry-pie-cream-served.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/blackcherrypie.html';
+
+// ====== blue-cheese-macaroni-pie.controller.php ======
+$title = 'Blue Cheese Macaroni Pie | Nutty\'s Kitchen';
+$description = 'Blue Cheese Macaroni Pie This is serious adult stuff! The little ones just might find this a little too strong for them. I made this to go with my Jerked Chicken Curry';
+$ogDescription = 'Blue Cheese Macaroni Pie recipe, seriously adult stuff!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/blue-cheese-macaroni-pie/650x366/blue-cheese-macaroni-pie-baked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/blue-cheese-macaroni-pie.html';
+
+// ====== butter-chicken.controller.php ======
+$title = 'Butter Chicken | Nutty\'s Kitchen';
+$description = 'Butter Chicken & Jeera rice. This is a revision to a previous dish and oh so improved! A bit of advise though, do not eat it every week. This is a restaurant style curry';
+$ogDescription = 'Butter Chicken Recipe: A restaurant style curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/butter-chicken/650x366/butter-chicken-and-jeera-rice-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/butter-chicken.html';
+
+// ====== caribbean-creamy-pork-curry.controller.php ======
+$title = 'Caribbean Creamy Pork curry | Nutty\'s Kitchen';
+$description = 'Caribbean Creamy Pork Curry Now this is completely different to most of my Caribbean dishes, not a fresh chilli in sight for starters. Greek yogurt & coconut cream...';
+$ogDescription = 'Caribbean Creamy Pork Curry... is completely different to most of my Caribbean dishes';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/caribbean-creamy-pork-curry/650x366/caribbean-creamy-pork-curry-and-rice.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/caribbean-creamy-pork-curry.html';
+
+// ====== cauli-cheese-smoked-haddock-bake.controller.php ======
+$title = 'Cauliflower Cheese & Smoked Haddock Bake ! Nutty\'s Ktichen';
+$description = 'Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering at the very mention of it, a real home comforter';
+$ogDescription = 'Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/caulicheesesmokedhaddock/650x366/cauli-cheese-smoked-haddock-baked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/cauli-cheese-smoked-haddock-bake.html';
+
+// ====== caulicheese.controller.php ======
+$title = 'Cauliflower Cheese | Nutty\'s Kitchen';
+$description = 'Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon, or try substituting with a meat free bacon product';
+$ogDescription = 'Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/caulicheese/650x366/cauli-cheese-ready-02.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/caulicheese.html';
+
+// ====== cauliflower-cheese.controller.php ======
+$title = 'A Recipe | Nutty\'s Kitchen';
+$description = '';
+$ogDescription = 'Short description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-cheese.html';
+
+// ====== cauliflower-curry.controller.php ======
+$title = 'Cauliflower Curry | Nutty\'s Kitchen';
+$description = 'Cauliflower Curry, you need to like cauliflower to try this dish as it really is what the it says in the title! Delicate, not too spicy, in a creamy coconut sauce';
+$ogDescription = 'Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+
+// ====== caulifrankcheese.controller.php ======
+$title = 'Cauliflower Cheese & Frankfurter Bake | Nutty\'s Kitchen';
+$description = 'This dish could easily be totally vegetarian, just use vegetarian frankfurters (yummy) Serve with a warm crusty baguette with lashings of butter';
+$ogDescription = 'Cauliflower Cheese & Frankfurter Bake, serve with a warm crusty baguette';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/meal-cooked-01.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/caulifrankcheese.html';
+
+// ====== celeriac-soup.controller.php ======
+$title = 'Celeriac Soup | Nutty\'s Kitchen';
+$description = 'Celeriac is often overlooked and underused, but it’s absolutely delicious. It can be grated into pickles and salads or used in soups — perfect for warming up in winter';
+$ogDescription = 'Celeriac is often overlooked and underused, but it’s absolutely delicious as soup!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/celeriac-soup/2080x2296/celeriac-soup-served.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/celeriac-soup.html';
+
+// ====== chapati.controller.php ======
+$title = 'Chapti Flat Bread Recipe | Nutty\'s Kitchen';
+$description = 'Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make, with the hardest part being the kneading of the dough';
+$ogDescription = 'Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chapati/650x366/chapati-cooking-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chapati.html';
+
+// ====== cheese-and-onion-quiche.controller.php ======
+$title = 'Cheese and Onion Quiche | Nutty\'s Kitchen';
+$description = 'I thought I would share my Cheese & Onion Quiche recipe with you. I made a huge one so that we\'d have a dinner, snacks & some left over to take out to the cricket';
+$ogDescription = 'cheese and onion quiche recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cheese-and-onion-quiche/650x366/cheese-and-onion-quiche-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/cheese-and-onion-quiche.html';
+
+// ====== cheesesauce.controller.php ======
+$title = 'Cheese Sauce | Nutty\'s Kitchen';
+$description = 'My delicious & simple cheese sauce is quick and easy to make and can be used in a variety
+    of recipes';
+$ogDescription = 'My delicious & simple cheese sauce is quick and easy to make';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cheesesauce/650x366/cheese-sauce-in-pan.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/cheesesaucee.html';
+
+// ====== chicken-and-gammon-pie.controller.php ======
+$title = 'Chicken & Gammon Pie | Nutty\'s Kitchen Recipe';
+$description = 'PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...Every box has a tick here. Try not to eat this chicken and gammon alone!';
+$ogDescription = 'PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-and-gammon-pie/650x366/slice-of-chicken-and-gammon-pie.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-and-gammon-pie.html';
+
+// ====== chicken-and-tomato-balti.controller.php ======
+$title = 'Chicken & Tomato Balti Curry | Nutty\'s Kitchen';
+$description = 'If you like tomatoes, you\'ll love this Chicken & Tomato Balti Curry It is a wonderful curry but, be mindful to make it when tomatoes are in season and really flavourful';
+$ogDescription = 'If you like tomatoes, you\'ll love this Chicken & Tomato Balti Curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-and-tomato-balti/650x366/chicken-and-tomato-balti-plated-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-and-tomato-balti.html';
+
+// ====== chicken-biryani.controller.php ======
+$title = 'Chicken Biryani | Nutty\'s Kitchen';
+$description = 'I get that Biryani has a reputation for being complicated. But honestly? It\'s just rice, chicken, and a little spice magic. All myths removed. Chicken Biryani is simple';
+$ogDescription = 'I get that Biryani has a reputation for being complicated. But honestly? It\'s simple';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-biryani/650x366/chicken-biryani-raita-popadoms.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-biryani.html';
+
+// ====== chicken-in-cashew-nut-sauce.controller.php ======
+$title = 'Chicken in Cashew Nut Sauce | Nutty\'s Kitchen';
+$description = 'Chicken in Cashew Nut Sauce Now this really is a Nutty dish! The flavour of this dish is quite unique and the sultanas pop like little jewels of amazing fruitiness';
+$ogDescription = 'chicken-in-cashew-nut-sauce';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-in-cashew-nut-sauce/650x366/chicken-in-cashew-nut-sauce-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-in-cashew-nut-sauce.html';
+
+// ====== chicken-in-creamy-peppercorn-sauce.controller.php ======
+$title = 'Chicken In Creamy Peppercorn Sauce | Nutty\'s Kitchen';
+$description = 'Today, I\'m going to use diced chicken thighs to create Chicken In Creamy Peppercorn Sauce. The delicate chicken is flavoured with smoked bacon, garlic of course pepper!';
+$ogDescription = 'Chicken In Creamy Peppercorn Sauce Recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-in-creamy-peppercorn-sauce/650x366/chicken-in-creamy-peppercorn-sauce-and-mash-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-in-creamy-peppercorn-sauce.html';
+
+// ====== chicken-tandoori-grill.controller.php ======
+$title = 'Chicken Tandoori Grill | Nutty\'s Kitchen';
+$description = ' Chicken Tandoori Grill It\'s so easy to do. Juicy tender chicken thighs that literally melt in your mouth! marinade & refrigerate overnight. 4 to 7 minutes cooking time';
+$ogDescription = 'Chicken Tandoori Grill for the perfect charred Tandoor flavour without owning a clay Tandor oven';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-tandoori-grill/650x366/chicken-tandoori-grill-plated-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-tandoori-grill.html';
+
+// ====== chicken-thighs-in-spicy-hot-sauce.controller.php ======
+$title = 'Chicken Thighs in Spicy Hot Sauce | Nutty\'s Kitchen';
+$description = 'Whole thighs skinned but not boned are ideal for Chicken Thighs in Spicy Hot Sauce which is a rather grown-up sweet and sour dish that tickles the taste buds';
+$ogDescription = 'Chicken Thighs in Spicy Hot Sauce is a rather grown-up sweet and sour dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-thighs-in-spicey-hot-sauce/650x366/lemon-garlic-ginger-added.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-thighs-in-spicy-hot-sauce.html';
+
+// ====== chicken-tikka-grilled-escalope.controller.php ======
+$title = 'Chicken Tikka Grilled Escalope | Nutty\'s Kitchen';
+$description = 'I\'m so excited to bring you my Chicken Tikka Grilled Escalopes recipe. We all know this dish as a truly delicious starter, I\'m switching it up to create a complete dinner';
+$ogDescription = 'Chicken Tikka Grilled Escalope recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-tikka-grilled-escalope/650x366/chicken-tikka-dinner-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-tikka-grilled-escalope.html';
+
+// ====== chicken-with-mango.controller.php ======
+$title = 'Chicken with Mango | Nutty\'s Kitchen';
+$description = 'Chicken with Mango. Do not dismiss fruit from curry\'s, it is a staple all over the world. Adding any fruits including mango will tenderise your chicken within minutes';
+$ogDescription = 'Chicken with mango, a juicy, tangy, fruity curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-with-mango/650x366/chicken-with-mango-plated-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chicken-with-mango.html';
+
+// ====== chickenchilimex.controller.php ======
+$title = 'Chicken Chilli Mexican | Nutty\'s Kitchen';
+$description = 'The chorizo is the star here. You also have protein from the beans and this dish has a bit of a chilli kick!!! Serve with tomato rice';
+$ogDescription = 'The chorizo is the star here. This dish has a bit of a chilli kick!!!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickenchillimex/650x366/chicken-chilli-rice-in-dish-01.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickenchilimex.html';
+
+// ====== chickenlasagne.controller.php ======
+$title = 'Chicken & Mushroom Lasagne | Nutty\'s Kitchen';
+$description = 'If I could give you one great tip: I often make the pasta sauce a day or two ahead - it only benefits from being in the fridge allowing the flavours to develop';
+$ogDescription = 'Chicken & Mushroom Lasagne, an excellent alternative to traditional beef';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickenlasagne/650x366/chicken-lasagne-01.jpgp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickenlasagne.html';
+
+// ====== chickenmushroompasta.controller.php ======
+$title = 'Chicken & Mushroom Pasta Sauce | Nutty\'s Kitchen';
+$description = 'This is my base for lasagne and pasta bake. To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end';
+$ogDescription = 'To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickenmushroompasta/650x366/ingredients.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickenmushroompasta.html';
+
+// ====== chickenmushroompie.controller.php ======
+$title = 'Chicken & Mushroom Pie | Nutty\'s Kitchen';
+$description = 'Pie lovers behold! This is one succulently juicy & moist pastry parcel. It\'s delicious served as a dinner with veg and gravy or just cold from the fridge.';
+$ogDescription = 'Pie lovers behold! This is one succulently juicy & moist pastry parcel';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickenmushroompie/650x366/chicken-and-mushroom-pie-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickenmushroompie.html';
+
+// ====== chickensoup.controller.php ======
+$title = 'Grandma\'s Chicken Soup | Nutty\'s Kitchen';
+$description = 'Grandma\'s homemade chicken soup recipe, you can do so much with left over chicken, even if you have other uses for the left-over meat, the chicken bones can be used for soup';
+$ogDescription = 'Grandma\'s Chicken Soup, serve thoroughly warmed (not boiling) with fresh crusty white bread & lashings of butter';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickensoup/650x366/chicken-soup-cup-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickensoup.html';
+
+// ====== chickenvindaloo.controller.php ======
+$title = 'Roast Chicken Vindaloo Curry | Nutty\'s Kitchen';
+$description = 'This is a heavily spiced curry, but, there are no fresh chilli\'s. It\'s flavour packed and the taste is actually delicious made from left over roast chicken';
+$ogDescription = 'A heavily spiced curry, flavour packed and made from left over roast chicken';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chickenvindaloo/650x366/vindaloo-rice-plated-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chickenvindaloo.html';
+
+// ====== chinese-chicken-curry.controller.php ======
+$title = 'Chinese Chicken Curry | Nutty\'s Kitchen';
+$description = 'Chinese chicken curry, just like the takeaway does it';
+$ogDescription = 'Chinese chicken curry, just like the takeaway does it';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chinese-chicken-curry/650x366/chinese-chicken-curry-and-rice-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chinese-chicken-curry.html';
+
+// ====== chinese-noodles-with-beansprouts.controller.php ======
+$title = 'Chinese Noodles with Beansprouts | Nuttys Kitchen';
+$description = 'Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables, lightly seasoned and flavoured with sesame oil.';
+$ogDescription = 'Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chinese-noodles-with-beansprouts/650x366/stirfry-noodles.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chinese-noodles-with-beansprouts.html';
+
+// ====== chipotle-chicken-burrito.controller.php ======
+$title = 'Chipotle Chicken Burrito | Nutty\'s Kitchen';
+$description = 'I Recently invested in some Chipotle chillies to make this Chipotle Chicken Burrito, not a cheap ingredient I admit, but, the aroma from them and the flavour imparted..';
+$ogDescription = 'Chipotle Chicken Burrito with the astonishing flavour of Chipotle chillies';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chipotle-chicken-burrito/650x366/chipotle-chicken-chilli-burrito-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chipotle-chicken-burrito.html';
+
+// ====== chocolate-cake.controller.php ======
+$title = 'Chocolate Cake | Nutty\'s Kitchen';
+$description = 'Chocolate Cake with butter cream and fruit & nut topping is a real treat totally controlled by you, the sweetness & flavour are all in your hands and you can let your..';
+$ogDescription = 'Chocolate Cake with butter cream and fruit & nut topping is a real treat';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chocolate-cake/650x366/chocolate-cake-for-easter-sliced.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chocolate-cake.html';
+
+// ====== chorizo-cod-stew.controller.php ======
+$title = 'Chorizo Cod Stew | Nutty\'s Kitchen';
+$description = 'Baked Cod & Chorizo Stew is a gorgeous Spanish dish that is just so wonderfully tasty with the unique combination of savory, smokey, spicy flavours of the chorizo...';
+$ogDescription = 'Chorizo Cod Stew, a wonderfully tasty Spanish dish that is really easy to make';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/chorizo-cod/650x366/chorizo-cod-stew-plated-04.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/chorizo-cod-stew.html';
+
+// ====== christmas-prepared.controller.php ======
+$title = 'Christmas Prepared! | Nutty\'s Kitchen';
+$description = 'Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides for when the time is right. Christmas is a week away and I\'m super organised :-) ';
+$ogDescription = 'Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides ';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/christmas-prepared/650x366/bacon-and-cheese-puffs-raw.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/christmas-prepared.html';
+
+// ====== cornedbeefmashpie.controller.php ======
+$title = 'Corned Beef Mash Pie | Nutty\'s Kitchen';
+$description = 'I know this as corned beef hash! However, there are many versions of that dish, so just for clarity; this is topped with steamy creamy mashed potatoes';
+$ogDescription = 'I know this as corned beef hash! However, there are many versions of that dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cornedbeefmash/650x366/cornedbeef-mash-pie.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/cornedbeefmashpie.html';
+
+// ====== cottage-pie.controller.php ======
+$title = 'Cottage Pie | Nutty\'s Kitchen';
+$description = 'Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash, it has to feature in Nutty\'s Kitchen dishes, it\'s a true classic!';
+$ogDescription = 'Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cottage-pie/650x366/cottage-pie-cooked-1.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/cottage-pie.html';
+
+// ====== creamy-peppercorn-sauce.controller.php ======
+$title = 'Creamy Peppercorn Sauce | Nutty\'s Kitchen';
+$description = 'Now this creamy peppercorn sauce is a sauce to top any jar or packet on the market! It\'s loaded with vegetables, bacon & chestnut mushrooms, what is not ta love!';
+$ogDescription = '';
+$ogImage = '';
+$canonical = 'https://www.nuttyskitchen.co.uk/creamy-peppercorn-sauce.html';
+
+// ====== curry-leaf-masala-chicken-fry.controller.php ======
+$title = 'Curry Leaf Masala Chicken Fry | Nutty\'s Kitchen';
+$description = 'Now, this is something really special—I would even go so far as to say authentic Indian food: Curry Leaf Masala Chicken Fry... with a distinct curry leaf aroma';
+$ogDescription = 'Now, this is something really special - Curry Leaf Masala Chicken Fry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/curry-leaf-masala-chicken-fry/650x366/curry-leaf-masala-and-rice.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/curry-leaf-masala-chicken-fry.html';
+
+// ====== damson-and-soured-cream-tart.controller.php ======
+$title = 'Damson & Soured Cream Tart | Nutty\'s Kitchen';
+$description = 'This damson and soured cream tart recipe is perfect for those home garden foraged fruits. This recipe serves 6 to 8 & cooks in 35mins';
+$ogDescription = 'Home made damson and soured cream tart recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/damson-and-soured-cream-tart/650x366/damson-and-soured-cream-tart-plated-06.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/damson-and-soured-cream-tart.html';
+
+// ====== dhal-with-fried-spices.controller.php ======
+$title = 'Dhal With Fried Spices | Nutty\'s Kitchen';
+$description = 'Dhal With Fried Spices is tiny little lentils with fried garlic & stuff, it\'s an absolutely DELICIOUS every day household staple in Indian homes. You seriously have to try this!';
+$ogDescription = 'Dhal With Fried Spices is tiny little lentils with fried garlic & stuff';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/dhal-fried-spices/650x366/dhal-and-naan-served.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/dhal-with-fried-spices.html';
+
+// ====== dodgy-kebab.controller.php ======
+$title = 'Dodgy Kebab! | Nutty\'s Kitchen';
+$description = 'So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this.  Not a kebab in it truest sense, that\'s why I\'ve called it my Dodgy Kebab!';
+$ogDescription = 'So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/dodgy-kebab/650x366/kebab-closed-with-salad.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/dodgy-kebab.html';
+
+// ====== easy-chicken-curry.controller.php ======
+$title = 'Easy Chicken Curry | Nutty\'s Kitchen';
+$description = 'Easy chicken curry is possibly my favourite home-made curry, it\'s a really easy to make, not too many ingredients & a fantastic  introduction to Indian cooking!';
+$ogDescription = 'Easy chicken curry is possibly my favourite home-made curry, it\'s a really easy to make';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/easy-chicken-curry/650x366/chicken-curry-in-pan.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/easy-chicken-curry.html';
+
+// ====== egg-fried-rice.controller.php ======
+$title = 'Egg Fried Rice | Nutty\'s Kitchen Egg Fried Rice Recipe';
+$description = 'Nutty\'s Kitchen puts together an easy to make egg fried rice that\'s a quick, simple and delicious accompaniment to homemade Chinese style dishes';
+$ogDescription = 'Nutty\'s Kitchen puts together an easy to make egg fried rice that\'s a quick, simple and delicious';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/egg-fried-rice/650x366/egg-fried-rice-in-dish.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/egg-fried-rice.html';
+
+// ====== fish-and-chorizo-potato-pie.controller.php ======
+$title = 'Fish & Chorizo Potato Pie | Nutty\'s Kitchen';
+$description = 'Fish and chorizo with a crusty, toast creamy mash, who\'d have thought it? Absolute genius!';
+$ogDescription = 'Fish and chorizo with a crusty, toast creamy mash. Absolute genius';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/fish-and-chorizo-potato-pie/650x366/fish-and-chorizo-potato-pie-cooked-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/fish-and-chorizo-potato-pie.html';
+
+// ====== fish-fillets-with-chilli-sauce.controller.php ======
+$title = 'Fish Fillets With Chilli Sauce | Nutty\'s Kitchen';
+$description = 'Now, I know fish dishes can be really tasty, but this Fish Fillets with Chilli Sauce dish is something else. It packs a punch! It\'s on a completely different level...';
+$ogDescription = 'this Fish Fillets with Chilli Sauce dish is something else. It packs a punch!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/fish-fillets-with-chilli-sauce/650x366/fish-fillets-with-chilli-sauce-and-saffron-rice-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/fish-fillets-with-chilli-sauce.html';
+
+// ====== fish-pie.controller.php ======
+$title = 'Mum\'s Fish Pie | Nutty\'s Kitchen';
+$description = 'this is my answer to create Mum\'s Fish Pie on a budget. I managed to get 4 pieces of frozen Atlantic wild cod for less than four quid (£4) so that makes it reasonable';
+$ogDescription = 'This is my answer to create Mum\'s Fish Pie on a budget! Simply delicious';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/fish-pie/650x366/fish-pie-baked-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/fish-pie.html';
+
+// ====== fluffy-mashed-potatoes.controller.php ======
+$title = 'Fluffy Mashed Potatoes | Nutty\'s Kitchen';
+$description = 'Now who does not love a well made, well seasoned Fluffy mashed potatoes? These can add so much pleasure to any dinner, whether you top your dish off and bake it or...';
+$ogDescription = 'Now who does not love a well made, well seasoned Fluffy mashed potatoes';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/fluffy-mashed-potatoes/650x366/fluffy-mash-in-a-bowl-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/fluffy-mashed-potatoes.html';
+
+// ====== fruit-cake.controller.php ======
+$title = 'Fruit Cake | Nutty\'s Kitchen';
+$description = 'There are so many variations of this cake, but don\'t worry, this one is probably the best fruit cake in the world! It\'s easy to make and completely and utterly delicious';
+$ogDescription = 'Probably the best, most deliciously soft & moist fruit cake in the world!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/fruit-cake/650x366/fruit-cake-sliced-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/fruit-cake.html';
+
+// ====== gammon-joint-with-mustard-sauce.controller.php ======
+$title = 'Gammon Joint with Mustard Sauce | Nutty\'s Kitchen';
+$description = 'a gammon joint with mustard sauce is a very old-fashioned recipe that both my gran and my mum turned to for a lazy Sunday dinner. Just 45mins using the pressure cooker';
+$ogDescription = 'a gammon joint with mustard sauce is a very old-fashioned recipe....';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/gammon-joint-and-mustard-sauce/650x366/gammon-slices-on-plate.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/gammon-joint-with-mustard-sauce.html';
+
+// ====== gingerbread.controller.php ======
+$title = 'Sticky Gingerbread Cake | Nutty\'s Kitchen';
+$description = 'Easy and scrummy snack sized cakes that will be perfect after a Sunday roast or popped onto a side plate with a lovely cup of tea.';
+$ogDescription = 'Easy and scrummy snack sized cakes that will be perfect after a Sunday roast';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/gingerbread/650x366/cake-finished.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/gingerbread.html';
+
+// ====== gravy.controller.php ======
+$title = 'Gravy | Nutty\'s Kitchen';
+$description = 'A quick and easy gravy recipe that you can rustle up without the need of those instant gravy granuals that are so full of things you don\'t need!';
+$ogDescription = 'A quick and easy gravy that you can rustle up without the need of those instant gravy granuals';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/gravy/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/gravy.html';
+
+// ====== jamaican-pumpkin-soup.controller.php ======
+$title = 'Jamaican Pumpkin Soup | Nutty\'s Kitchen';
+$description = 'Nutty\'s Jamaican Pumpkin Soup is no ordinary bowl of comfort — it\'s a cauldron of culinary chaos, smooth velvety perfection & a fiery little Scotch Bonnet lurking in the pot';
+$ogDescription = 'Nutty\'s Jamaican Pumpkin Soup with a fiery little Scotch Bonnet lurking in the pot';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jamaican-pumpkin-soup/650x366/jamaican-pumpkin-soup-in-dish.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jamaican-pumpkin-soup.html';
+
+// ====== jamaican-rice-and-peas.controller.php ======
+$title = 'Jamaican Rice & Peas | Nutty\'s Kitchen';
+$description = 'So Jamaican Rice & Peas is a contentious dish, every \'Jamaican makes it different- As da mamma did!\' This is my version, a simple side that calms the spice & chilli';
+$ogDescription = 'Jamaican Rice & Peas, a simple side that calms the spice & chilli';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/rice-and-peas/650x366/rice-and-peas-in-bowl-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jamaican-rice-and-peas.html';
+
+// ====== jerk-chicken.controller.php ======
+$title = 'Jerk Chicken | Nutty\'s Kitchen';
+$description = 'Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas. But my goto with this is Macoroni Cheeses Pie — comfort food at it\'s best!';
+$ogDescription = 'Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jerk-chicken/650x366/jerk-chicken-macaroni-pie-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jerk-chicken.html';
+
+// ====== jerked-chicken-curry.controller.php ======
+$title = 'Jerked Chicken Curry | Nutty\'s Kitchen';
+$description = 'Jerked Chicken Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here.';
+$ogDescription = 'Jerked chicken curry with blue cheese macaroni pie, food to calm the soul';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jerked-chicken-curry/650x366/jerked-chicken-and-macaroni-pie-plated-03.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jerked-chicken-curry.html';
+
+// ====== jerked-chicken-escalope-grill.controller.php ======
+$title = 'Jerked Chicken Escalope Grill | Nutty\'s Kitchen';
+$description = 'This Jerked Chicken Escalope Grill recipe could not be simpler. If you have ever made our Jerk curries, this will be a breeze for you, if not, why not give this a try';
+$ogDescription = 'A super simple Jerked Chicken Escalope Grill recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jerked-chicken-escalope-grill/650x366/jerk-chicken-escalope-plated-03.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jerked-chicken-escalope-grill.html';
+
+// ====== jerked-pork-curry.controller.php ======
+$title = 'Jerked Pork Curry | Nutty\'s Kitchen';
+$description = 'Jerked Pork Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here.';
+$ogDescription = 'Jerked Pork Curry! Now this is different, totally different and no vegetables!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jerked-pork-curry/650x366/jerked-pork-rice-and-peas-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jerked-pork-curry.html';
+
+// ====== jerked-pork-steaks-grill.controller.php ======
+$title = 'jerked pork steaks grill | Nutty\'s Kitchen';
+$description = 'My grilled Jerked Pork Steaks could not be simpler, if you\'ve made our Jerk curries this will be a breeze, if not, why not give this a try then move onto the curries';
+$ogDescription = 'a quick & delicious jerked pork steak recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/jerked-pork-steaks/650x366/jerked-pork-steak-plated-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/jerked-pork-steaks-grill.html';
+
+// ====== karahi-chicken-curry.controller.php ======
+$title = 'Karahi Chicken Curry | Nutty\'s Kitchen';
+$description = 'If you are craving that true authentic take away or indeed expensive eat in restaurant curry....This is the one for you — Karahi Chicken Curry. When I first tasted this...';
+$ogDescription = 'If you are craving that true authentic restaurant curry.... Karahi Chicken Curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/karahi-chicken-curry/650x366/peppers-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/karahi-chicken-curry.html';
+
+// ====== khara-masala-balti-chicken.controller.php ======
+$title = 'khara Masala Balti Chicken | Nutty\'s Kitchen Recipe';
+$description = 'Khara Masala Balti Chicken is a really quick and easy recipe which is a dry curry, a lightly spiced stir-fry dish with as much, or as little chilli kick as you please';
+$ogDescription = 'Khara Masal Balti Chicken is a deliciously succulent, lightly spiced dish that cooks super quick';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/khara-masala-balti-chicken/650x366/khara-masala-balti-chicken-plated-03.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/khara-masala-balti-chicken.html';
+
+// ====== lamb-curry-with-spinach.controller.php ======
+$title = 'Lamb Curry with Spinach | Nutty\'s Kitchen';
+$description = 'Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab, it\'s delicate & delicious, not overly spiced or complicated - easier than shepherds pie!';
+$ogDescription = 'Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lamb-curry-with-spinach/650x366/spinach-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/lamb-curry-with-spinach.html';
+
+// ====== lamb-kofta-curry.controller.php ======
+$title = 'Lamb Kofta Curry | Nutty\'s Kitchen';
+$description = 'Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is \'go to\' dish for me when I want to treat me...it\'s like a kebab in a delicate curry sauce... Mmmm!';
+$ogDescription = 'Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is \'go to\' dish for me';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lamb-kofta-curry/650x366/lamb-kofta-curry-and-rice.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/lamb-kofta-curry.html';
+
+// ====== lamb-peas-mint-curry.controller.php ======
+$title = 'Lamb Peas & Mint Curry';
+$description = 'This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish, flavoursome and mild enough for the kids, yet tasty enough for curry fans. Whats not to love!';
+$ogDescription = 'This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lambpeasmintcurry/650x366/lamb-pea-mint-curry-chapati-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/lamb-peas-mint-curry.html';
+
+// ====== lamb-pulao-rice.controller.php ======
+$title = 'lamb pulao rice | Nutty\'s Kitchen';
+$description = 'Lamb Pulao Rice is a delicious baked rice dish made with minced lamb and aromatic spices. The result... delicately spiced combination of succulent lamb mince and fluffy rice';
+$ogDescription = 'lamb pulao rice description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lamb-pulao-rice/650x366/lamb-pulao-rice-in-dish-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/lamb-pulao-rice.html';
+
+// ====== lamb-tikka-grill-steaks.controller.php ======
+$title = 'Lamb Tikka Grill Steaks | Nutty\'s Kitchen';
+$description = 'This Lamb Tikka Grill Steaks recipe is a mirror of my Chicken Tikka Grilled Escalopes, but, it definitely requires a longer time in the marinade as it\'s harder to tenderise.';
+$ogDescription = 'Quick & easy to cook Lamb Tikka Grill Steaks recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lamb-tikka-grill-steaks/650x366/lamb-tikka-grill-steak-plated-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/lamb-tikka-grill-steaks.html';
+
+// ====== lambmashpie.controller.php ======
+$title = 'Lamb & Mash Pie';
+$description = 'Everyone loves pure comfort food and this is one traditional English dish that will have hearts warmly melting on those cold winter evenings.';
+$ogDescription = 'one traditional English dish that will have hearts warmly melting on those cold winter evenings';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/lambmashpie/650x366/lamb-mash-pie-ready.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/lambmashpie.html';
+
+// ====== luxury-chicken-pie.controller.php ======
+$title = 'Luxury Chicken Pie with Mushrooms & Leeks| Nutty\'s Kitchen';
+$description = 'Pie lovers, rejoice! It\'s National Pie Week and here at Nutty\'s Kitchen we are paying proper tribute to Britain\'s most glorious gift to the world  the humble yet heroic pie! ';
+$ogDescription = 'Celebrate National Pie Week with Luxury Chicken Pie with Mushrooms & Leeks';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/luxury-chicken-pie/650x366/pie-with-trimmed-golden-pastry-04.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/luxury-chicken-pie.html';
+
+// ====== macaroni-pie.controller.php ======
+$title = 'Macaroni Pie | Nutty\'s Kitchen';
+$description = 'I serve my baked macaroni pie with Jerk Chicken, but it\'s perfect straight from the dish for a lunch with a side of salad or toast and is just great with baked beans!';
+$ogDescription = 'Baked macaroni pie recipe, best served with Jamaican Jerked Chicken, or, Jerked Chicken/Pork Curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/macaroni-pie/650x366/macaroni-pie-baked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/macaroni-pie.html';
+
+// ====== masala-veg-with-fresh-fenugreek.controller.php ======
+$title = 'Masala Veg with Fresh Fenugreek | Nutty\'s Kitchen';
+$description = 'If you\'re looking for a simple and quick side dish to complement grilled meat, this Masala Vegetable with Fresh Fenugreek is the perfect choice. It\'s also a fantastic...';
+$ogDescription = 'a simple and quick side dish to complement grilled meat';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/masala-veg-with-fresh-fenugreek/650x366/masala-veg-with-fresh-fenugreek.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/masala-veg-with-fresh-fenugreek.html';
+
+// ====== mashed-roots.controller.php ======
+$title = 'Mashed Roots | Nutty\'s Kitchen';
+$description = 'Nutty\'s Kitchen\'s Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes. A complete creamy mash for a winters night & a perfect alternative';
+$ogDescription = 'Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/mashed-roots/650x366/swede-carrot-potato-mash-1.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/mashed-roots.html';
+
+// ====== mediterranean-style-vegetables-with-pork-steaks.controller.php ======
+$title = 'Mediterranean style vegetables with pork steaks | Nutty\'s Kitchen';
+$description = 'Mediterranean Style Vegetables with Pork Steaks recipe. This dish is a wonderful mix of carrots courgettes aubergine & sliced fresh garlic, and of course olive oil!';
+$ogDescription = 'delicious Mediterranean style vegetables with pork steaks';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/mediterranean-style-vegetables-with-pork-steaks/650x366/mediterranean-style-veg-with-pork-steaks-plated-03.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/mediterranean-style-vegetables-with-pork-steaks.html';
+
+// ====== mums-braised-steak.controller.php ======
+$title = 'Mum\'s Braised Steak & Mash| Nutty\'s Kitchen';
+$description = 'Mum\'s Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five. Nowadays, on her budget? I struggled to re-create it for the same value';
+$ogDescription = 'Mum\'s Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/braised-steak/650x366/braised-steak-mash-and-broccoli.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/mums-braised-steak.html';
+
+// ====== mushroom-chow-mein.controller.php ======
+$title = 'mushroom chow mein | Nutty\'s Kitchen';
+$description = 'This dish is an accompaniment Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe. It is a very quick cook and really easy to make, full of flavoursome...';
+$ogDescription = 'Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/mushroom-chow-mein/650x366/mushroom-chow-mein-in-serving-dish-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/mushroom-chow-mein.html';
+
+// ====== mushroom-fried-rice.controller.php ======
+$title = 'Mushroom Fried Rice | Nutty\'s Kitchen';
+$description = 'This is a super easy recipe to whip up — Mushroom Fried Rice — but the real magic is in the chopping, so take your time with it! Pair that with my Sweet & Sour Pork';
+$ogDescription = 'This is a super easy recipe to whip up — Mushroom Fried Rice';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/mushroom-fried-rice/650x366/sweet-and-sour-pork.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/mushroom-fried-rice.html';
+
+// ====== nuttys-braised-steak.controller.php ======
+$title = 'Nuttys Braised Steak | Nutty\'s Kitchen';
+$description = 'the cold weather upon us, it\'s the perfect time for Nutty\'s Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms, which are absolutely delicious';
+$ogDescription = 'Nuttys Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/nuttys-braised-steak/650x366/braised-steak-mash-and-veg-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/nuttys-braised-steak.html';
+
+// ====== onionsauce.controller.php ======
+$title = 'Onion Sauce | Nutty\'s Kitchen';
+$description = 'this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast to the next level. I hope you enjoy this!';
+$ogDescription = 'this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/onionsauce/650x366/onion-sauce-jug-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/onionsauce.html';
+
+// ====== parsley-sauce.controller.php ======
+$title = 'Parsley Sauce | Nutty\'s Kitchen';
+$description = 'This absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon is just divine. It\'s so quick and easy to make  the best Parsley Sauce you\'ve ever tasted';
+$ogDescription = 'An absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/parsley-sauce/650x366/parsley-sauce-with-fish-mash-and-tomatoes-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/parsley-sauce.html';
+
+// ====== pear-coconut-blackberry-cake.controller.php ======
+$title = 'Pear, Coconut & Blackberry Cake | Nutty\'s Kitchen';
+$description = 'Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake, the coconut adds flavour and texture to the sponge and also keeps it really moist';
+$ogDescription = 'Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pear-coconut-blackberry-cake/650x366/pear-coconut-blackberry-cake-sliced-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pear-coconut-blackberry-cake.html';
+
+// ====== pearalmondtart.controller.php ======
+$title = 'Pear & Almond Tart';
+$description = 'A no-flour pudding, simply divine!  It made me smile when it came out of the oven and grin from ear to ear when I tasted it';
+$ogDescription = 'Pear & Almond Tart. A no-flour pudding, simply divine!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pearalmondtart/650x366/pear-almond-tart-cooling.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/pearalmondtart.html';
+
+// ====== peri-peri-pork-steaks.controller.php ======
+$title = 'Peri Peri Pork Steaks | Nutty\'s Kitchen';
+$description = 'Peri Peri Pork Steaks are so easy to make. This recipe is always a winner as it\'s bouncing with flavour and very few ingredients are required - cooks in 4 minutes';
+$ogDescription = 'Peri Peri Pork Steaks bouncing with the flavour of summer';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/peri-peri-pork-steaks/650x366/peri-peri-pork-steak-dinner.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/peri-peri-pork-steaks.html';
+
+// ====== pineapplepudding.controller.php ======
+$title = 'Pineapple Pudding';
+$description = 'This one\'s dead easy, really quick to put together, and just delicious served hot with custard, or cold out of the fridge, so I\'m told by the fridge raiders!';
+$ogDescription = 'Upside-Down Pineapple Pudding. This one\'s dead easy, really quick to put together';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pineapplepud/650x366/pineapple-cake-on-plate.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/pineapplepudding.html';
+
+// ====== pork-blackbean-sauce-and-peppers.controller.php ======
+$title = 'Pork in Blackbean Sauce with Peppers | Nutty\'s Kitchen';
+$description = 'Shoulder of pork joint leftovers - today I\'m going to knock up one of my favourites: Pork in Blackbean Sauce with Peppers, roast pork works really well I promise';
+$ogDescription = 'Shoulder of pork joint leftovers - Pork in Blackbean Sauce with Peppers';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pork-blackbean-peppers/650x366/pork-in-blackbean-sauce-with-noodles.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pork-blackbean-sauce-and-peppers.html';
+
+// ====== pork-chilli.controller.php ======
+$title = 'Pork Chilli | Nutty\'s Kitchen';
+$description = 'here\'s a little twist on a your usual chilli con carne — Pork Chilli using pork shoulder steaks to add an extra layer of texture to a dish normally made with minced meat';
+$ogDescription = 'Pork Chilli using pork shoulder steaks';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pork-chilli/650x366/pork-chilli-served.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pork-chilli.html';
+
+// ====== pork-fried-rice.controller.php ======
+$title = 'Pork Fried Rice | Nutty\'s Kitchen';
+$description = 'what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet? If you\'re not, well, your missing out on the point - 1 joint = 9 meals';
+$ogDescription = 'what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet?';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pork-fried-rice/650x366/pork-fried-rice.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pork-fried-rice.html';
+
+// ====== pork-madras.controller.php ======
+$title = 'Pork Madras';
+$description = 'This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings from star anis, cardamon, cloves and black peppercorns';
+$ogDescription = 'This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pork-madras/650x366/pork-madras-and-basmati-rice-2.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pork-madras.html';
+
+// ====== pork-vindaloo.controller.php ======
+$title = 'Pork vindaloo | Nutty\'s Kitchen';
+$description = 'Nutty\'s Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry with a real depth of flavour. Even with many ingredients, Pork Vindaloo is easy to make';
+$ogDescription = 'Nutty\'s Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pork-vindaloo.html';
+
+// ====== porksupreme.controller.php ======
+$title = 'Pork in Creamy Black Pepper Sauce | Nutty\'s Kitchen';
+$description = 'Just taste this and come back to me when you\'ve finished. You will not be disappointed! It\'s an outstanding, rich, creamy peppery sauce...';
+$ogDescription = 'Just taste this and come back to me when you\'ve finished. You will not be disappointed!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/porksupreme/650x366/pork-in-creamy-pepper-sauce.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/porksupreme.html';
+
+// ====== quiche-lorraine.controller.php ======
+$title = 'Quiche Lorraine | Nutty\'s Kitchen';
+$description = 'Now, as you know, we love a pie here @ Nutty\'s! Savoury or sweet, it\'s a lovely thing, so I thought I would share the Ultimate Quiche Lorraine recipe. I made a huge one!';
+$ogDescription = 'I thought I would share the Ultimate Quiche Lorraine recipe with you';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/quiche-lorraine/650x366/quiche-lorraine-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/quiche-lorraine.html';
+
+// ====== roast-pork-stroganoff.controller.php ======
+$title = 'Roast Pork Stroganoff | Nutty\'s Kitchen';
+$description = 'Nutty\'s Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream. Really easy to make and fast with leftover roast pork';
+$ogDescription = 'Nutty\'s Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/roast-pork-stroganoff/650x366/pork-stroganoff-served.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/roast-pork-stroganoff.html';
+
+// ====== roastporkvindaloo.controller.php ======
+$title = 'Roast Pork Vindalloo Curry | Nutty\'s Kitchen';
+$description = 'roast pork vindaloo, a heavily spiced, very simple curry, flavour packed and delicious taste, the same base for Roast Chicken vindaloo';
+$ogDescription = 'Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/roastporkvindaloo.html';
+
+// ====== rogan-josh-beef-curry.controller.php ======
+$title = 'Rogan Josh Beef Curry | A Nutty\'s Kitchen Recipe';
+$description = 'My Rogan Josh Beef Curry recipe also includes the spice paste recipe. It really is quite simple to make and as a bonus you will have enough paste for several curries';
+$ogDescription = 'Rogan Josh Beef Curry';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/rogan-josh/650x366/rogan-josh-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/rogan-josh-beef-curry.html';
+
+// ====== rogan-josh-pork-curry.controller.php ======
+$title = 'Rogan Josh Pork Curry | Nutty\'s Kitchen';
+$description = 'My Rogan Josh Pork Curry recipe includes the method to make the curry paste too, but, do not be daunted! It really is quite simple to make your own curry paste.';
+$ogDescription = 'Rogan Josh Pork Curry: I am using pork, but you could easily substitute for lamb.';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/rogan-josh-pork-curry/650x366/rogan-josh-pork-curry-in-dish-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/rogan-josh-pork-curry.html';
+
+// ====== saffron-and-cardamom-rice.controller.php ======
+$title = 'Saffron and Cardamom Rice | Nutty\'s Kitchen';
+$description = 'I don\'t make this Saffron and Cardamom Rice recipe too often. However, I bought 1g of it a little while back and I wanted something a little special for a fish dish';
+$ogDescription = 'I don\'t make this Saffron and Cardamom Rice recipe too often, Its delicate flavours are just delightful';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/saffron-and-cardamom-rice/650x366/saffron-and-cardamom-rice.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/saffron-and-cardamom-rice.html';
+
+// ====== sambar.controller.php ======
+$title = 'Sambar - South Indian Lentils & Vegetables | Nutty\'s Kitchen';
+$description = 'Sambar — South Indian Lentils and Vegetables This is a truly delicious vegetable heavy dish. Kind of a soup but oh so much more, tamarind brings a tart sweet note...';
+$ogDescription = 'Sambar — South Indian Lentils & Vegetables This is a truly delicious vegetable heavy dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sambar/1208x680/sambar-with-naan-on-the-side.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sambar.html';
+
+// ====== sausage-pasta-sauce.controller.php ======
+$title = 'Sausage Pasta Sauce | Nutty\'s Kitchen';
+$description = 'We\'ve been choppin\' sausages for my light and refreshing Sausage Pasta Sauce which is a bolognaise style dish loaded with vegetables but much lighter and refreshing...';
+$ogDescription = 'We\'ve been choppin\' sausages for my light and refreshing Sausage Pasta Sauce';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausage-pasta-sauce/650x366/sausage-pasta-sauce-and-fusilli.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausage-pasta-sauce.html';
+
+// ====== sausage-roll-and-caramalised-onion.controller.php ======
+$title = 'Sausage Roll & Caramalised Onion | Nutty\'s Kitchen';
+$description = 'Christmas is nearly upon us so what better than making your own Sausage Roll & Caramalised Onion log. Yes I do mean a LOG, one big humongous sausage roll!';
+$ogDescription = 'When is a sausage roll, not a sausage roll? When its Nutty\'s huge Sausage Roll & Caramalised Onion log! This cook\'s nuts!...say\'s the editor! ';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausage-roll-and-caramalised-onion/650x366/sausage-roll-sliced.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausage-roll-and-caramalised-onion.html';
+
+// ====== sausagecasserole.controller.php ======
+$title = 'Sausage & Bean Casserole | Nutty\'s Kitchen';
+$description = 'Love sausage & baked beans? Trust me, you\'re gonna love this one! It\'s a warming home-style casserole with loads of sauce.';
+$ogDescription = 'Love sausage & baked beans? Trust me, you\'re gonna love this one!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausagecasserole/650x366/sausagecasserole.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausagecasserole.html';
+
+// ====== sausageonionpie.controller.php ======
+$title = 'Mum\'s Sausage & Onion Pie';
+$description = 'You know those pork pies you can get for about £3.50? Well, this is about four times the size encased in melt in the mouth short crust pastry.';
+$ogDescription = 'You know those pork pies you can get for about £3.50? Well, this is about four times the size';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausageonionpie/650x366/half-pie-3plates-02.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausageonionpie.html';
+
+// ====== sausagepasta.controller.php ======
+$title = 'Sausage & Penne Pasta';
+$description = 'Make another crowd pleaser using our humble ingredient the sausage! I like the sauce to be the star of the dish, with the pasta adding a beautiful silky texture';
+$ogDescription = 'Make another crowd pleaser using our humble ingredient the sausage!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausagepasta/650x366/16-add-marjoram-leaves.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausagepasta.html';
+
+// ====== sausagepepperpie.controller.php ======
+$title = 'Sausage & Mash Pie | Nutyy\'s Kitchen';
+$description = 'A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage, onions & bell peppers, it\'s similar to my sausage & pepper casserole';
+$ogDescription = 'A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sausagepepperpie/650x366/sausagepeppermashpie-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sausagepepperpie.html';
+
+// ====== savoury-mince-and-mash.controller.php ======
+$title = 'Savoury Mince and Mash | Nutty\'s Kitchen';
+$description = 'Now my Savory Mince and Mash recipe is so easy to make in a rush, and is exactly what you need as the nights are long or you just want a deliciously tasty, comforting dish';
+$ogDescription = 'Savory Mince and Mash is so easy to make and is exactly what you need as a comforting dish';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/savoury-mince-and-mash/650x366/savoury-mince-and-mash-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/savoury-mince-and-mash.html';
+
+// ====== smoked-haddock-bacon-bake.controller.php ======
+$title = 'Smoked Haddock Bacon Bake | Nutty\'s Kitchen';
+$description = '';
+$ogDescription = 'Smoked Haddock Bacon Bake Recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/smoked-haddock-bacon-bake/650x366/smoked-haddock-bacon-bake-cooked.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/smoked-haddock-bacon-bake.html';
+
+// ====== smoked-haddock-in-cheese-sauce.controller.php ======
+$title = 'Smoked Haddock in Cheese Sauce | Nutty\'s Kitchen';
+$description = 'Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese. Do not be tempted to just use your strong cheddar, as it will be too salty and overpower the fish';
+$ogDescription = 'Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/smoked-haddock-in-cheese-sauce/650x366/smoked-haddock-in-cheese-sauce-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/smoked-haddock-in-cheese-sauce.html';
+
+// ====== special-fried-rice.controller.php ======
+$title = 'A Recipe | Nutty\'s Kitchen';
+$description = '';
+$ogDescription = 'Short description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/special-fried-rice.html';
+
+// ====== spice-up-your-life.controller.php ======
+$title = 'Spice Up Your Life! | Nutty\'s Kitchen';
+$description = 'Nutty\'s kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran';
+$ogDescription = 'Nutty\'s kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spice-up-your-life.html';
+
+// ====== spicy-baked-beans-and-peppers.controller.php ======
+$title = 'Spicy Baked Beans and Peppers | Nutty\'s Kitchen';
+$description = 'Spicy Baked Beans & Peppers! This is something my mother used to put together for barbecues & parties. I\'ve altered it slightly as were not keen on barbecue style sauces!';
+$ogDescription = 'Spicy Baked Beans and Peppers Recipe';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-baked-beans-and-peppers/650x366/spicy-baked-beans-and-peppers.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spicy-baked-beans-and-peppers.html';
+
+// ====== spicy-balti-potatoes.controller.php ======
+$title = 'spicy balti potatoes | Nutty\'s Kitchen';
+$description = 'Looking for a side dish that brings big flavour to humble new potatoes? Well, look no further... Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious.';
+$ogDescription = 'Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-balti-potatoes/650x366/spicy-balti-potatoes.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spicy-balti-potatoes.html';
+
+// ====== spicy-masala-chicken.controller.php ======
+$title = 'Spicy Masala chicken | Nuttys kitchen';
+$description = 'Spicy Masala Chicken is perfect for when you crave something like tandoori chicken, but do not have the patience to wait overnight for it to marinade. Super quick to make';
+$ogDescription = 'Spicy Masala Chicken is perfect for when you crave something like tandoori chicken';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-masala-chicken/650x366/spicy-masala-chicken-tarka-dhal-naan-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spicy-masala-chicken.html';
+
+// ====== spicy-potato-wedges.controller.php ======
+$title = 'Spicy Potato Wedges | Nutty\'s Kitchen';
+$description = 'Here\'s a side with a bit of a kick: Spicy Potato Wedges when you fancy something a little different from fries or chips. They are so simple to make, why buy them ready made?';
+$ogDescription = 'Here\'s a side with a bit of a kick: Spicy Potato Wedges';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-potato-wedges/650x366/spicy-potato-wedges.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spicy-potato-wedges.html';
+
+// ====== spring-onion-chicken.controller.php ======
+$title = 'Spring Onion Chicken | Nutty\'s Kitchen';
+$description = 'Spring Onion Chicken should take you about 20 minutes to cook. I am using thighs as they are so flavoursome. This is so easy I\'m almost embarrassed to share it with you!';
+$ogDescription = 'This is so easy I\'m almost embarrassed to share it with you!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/spring-onion-chicken/650x366/spring-onion-chicken-with-noodles-in-dish.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spring-onion-chicken.html';
+
+// ====== steak-and-ale-pie.controller.php ======
+$title = 'Steak and Ale Pie | Nutty\'s Kitchen';
+$description = 'Steak and Ale pie. This classic dish features a rich, hearty stew topped with a golden puff pastry lid. While traditional recipes often include a pastry base this version...';
+$ogDescription = 'Steak and Ale pie. This is a rich deep stew with a puff pastry lid';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/steak-and-ale-pie/650x366/steak-and-ale-pie-with-veg-on-a-plate-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/steak-and-ale-pie.html';
+
+// ====== steamed-sponge-pudding.controller.php ======
+$title = 'Steamed Sponge Pudding | Nutty\'s Kitchen';
+$description = 'A very old fashioned Steamed Sponge Pudding that is so easy to knock together. Served with fresh custard it is a delight in the late afternoon as a family treat';
+$ogDescription = 'A very old fashioned Steamed Sponge Pudding that is so easy to knock together';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/steamed-sponge-pudding/650x366/a-slice-of-steamed-pudding-and-custard.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/steamed-sponge-pudding.html';
+
+// ====== sweet-and-sour-pork.controller.php ======
+$title = 'Sweet & Sour Pork';
+$description = 'Nutty prepares sweet and sour pork using fresh shoulder of pork. What\'s not to love? Take away versions are great but this sweet and sour pork is excellent!';
+$ogDescription = 'Nutty prepares sweet and sour pork using fresh shoulder of pork. What\'s not to love?';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sweet-sour-pork-fresh/650x366/sweet-and-sour-pork-noodles-3.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sweet-and-sour-pork.html';
+
+// ====== sweet-and-sour-roast-chicken.controller.php ======
+$title = 'Sweet & Sour Roast Chicken | Nutty\'s Kitchen';
+$description = 'a recipe for sweet and sour chicken. air fryer used to cook the chicken, hob used to cook the sweet and sour sauce. I call it sweet and sour roast chicken!';
+$ogDescription = 'a recipe for sweet and sour chicken. air fryer used to cook the chicken';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/sweet-sour-roast-chicken/650x366/dinner-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/sweet-and-sour-roast-chicken.html';
+
+// ====== tandoori-chicken.controller.php ======
+$title = 'Tandoori Chicken | Nutty\'s Kitchen';
+$description = 'Classic Tandoori Chicken This is easy to make trust me! But, you will need to marinate for 24 hours! So, if you\'re wanting this dish go shopping for chicken thighs now!';
+$ogDescription = 'Classic Tandoori Chicken This is easy to make trust me!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/tandoori-chicken.html';
+
+// ====== tarka-dhal.controller.php ======
+$title = 'Tarka Dhal';
+$description = 'Tarka Dhal is a Indian soup, but so much more & really simple to make. So much flavour for so little ingredients! I like Tarka Dhal for breakfast with a Naan but...';
+$ogDescription = 'Tarka Dhal is a Indian soup, but so much more & really simple to make.';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tarka-dhal/650x366/tarka-dhal-finished.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/tarka-dhal.html';
+
+// ====== template-bare.controller.php ======
+$title = 'A Recipe | Nutty\'s Kitchen';
+$description = '';
+$ogDescription = 'Short description here please!';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/index.html';
+
+// ====== tomato-chutney.controller.php ======
+$title = 'Tomato Chutney | Nutty\'s Kitchen';
+$description = 'I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion, but, believe me, it will go with anything made for a relish...';
+$ogDescription = 'I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tomato-chutney/650x366/tomato-chutney-in-jars-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/tomato-chutney.html';
+
+// ====== tomatomexicanrice.controller.php ======
+$title = 'Tomato Mexican Rice | Nutty\'s Kitchen';
+$description = 'This is a lovely spicy rice dish, a wonderful flavoursome, spicy taste of Mexico for a really low cost. Excellent accompaniment to my Chicken Chilli Mexican';
+$ogDescription = 'a wonderful flavoursome, spicy taste of Mexico for a really low cost';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tomatomexicanrice/650x366/cooked-rice-in-pan.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/tomatomexicanrice.html';
+
+// ====== upload-recipe-form.controller.php ======
+$title = 'Upload Recipe Form | Nuttys Kitchen';
+$description = 'We\'re super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think';
+$ogDescription = '';
+$ogImage = '';
+$canonical = 'https://www.nuttyskitchen.co.uk/upload-recipe-form.html';
+
+// ====== vegetarian-chilli.controller.php ======
+$title = 'Vegetarian Chilli | Nutty\'s Kitchen';
+$description = 'I saw a butternut squash in the shops and thought hmmm!? Vegetarian Chilli! Of course that will work so, add in some courgettes ect... especially bought Chipotle chillies';
+$ogDescription = 'Vegetarian Chilli! Of course that will work so, add in some courgettes ect...';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/vegetarian-chilli/650x366/vegetarian-chilli-02.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/vegetarian-chilli.html';
+
+// ====== victoria-sponge-cake.controller.php ======
+$title = 'Victoria Sponge Cake | Nutty\'s Kitchen';
+$description = 'The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but a room filled with the aroma of cake mix is one of my fondest childhood memories';
+$ogDescription = 'The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/victoria-sponge-cake/650x366/victoria-sponge-cake-2.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/victoria-sponge-cake.html';
+
+// ====== whitesauce.controller.php ======
+$title = 'White Sauce | Nutty\'s kitchen';
+$description = 'Béchamel sauce is one of the \'mother sauces\' of French cuisine. You can add ingredients such as cheese, onion, parsley, watercress, quick and easy to make.';
+$ogDescription = 'Béchamel sauce is one of the \'mother sauces\' of French cuisine';
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/white-sauce.jpg';
+$canonical = 'https://www.nuttyskitchen.co.uk/whitesauce.html';
+

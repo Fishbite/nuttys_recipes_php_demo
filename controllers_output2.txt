@@ -1,0 +1,3123 @@
+// ====== aloo-gobi.controller.php ======
+Aloo Gobi | Nutty's Kitchen = 'Aloo Gobi | Nutty\'s Kitchen';
+So here's a my version of Aloo Gobi — a very basic cauliflower & potato curry or side dish. I like to eat mine with a fork outta the pan as I'm testing it = 'So here\'s a my version of Aloo Gobi — a very basic cauliflower & potato curry or side dish. I like to eat mine with a fork outta the pan as I\'m testing it';
+So here's a my version of Aloo Gobi — a basic cauliflower & potato curry or side dish = 'So here\'s a my version of Aloo Gobi — a basic cauliflower & potato curry or side dish';
+https://www.nuttyskitchen.co.uk/images/aloo-gobi/650x366/aloo-gobi-curry-and-rice-02.webp = 'https://www.nuttyskitchen.co.uk/images/aloo-gobi/650x366/aloo-gobi-curry-and-rice-02.webp';
+https://www.nuttyskitchen.co.uk/aloo-gobi.html = 'https://www.nuttyskitchen.co.uk/aloo-gobi.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/veg.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/veg.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== appleblackberrycrumble.controller.php ======
+Apple & Blackberry Crumble = 'Apple & Blackberry Crumble';
+A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild = 'A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild';
+A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild = 'A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild';
+https://www.nuttyskitchen.co.uk/images/appleblackberrycrumble/650x366/pudding-served.webp = 'https://www.nuttyskitchen.co.uk/images/appleblackberrycrumble/650x366/pudding-served.webp';
+https://www.nuttyskitchen.co.uk/appleblackberrycrumble.html = 'https://www.nuttyskitchen.co.uk/appleblackberrycrumble.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== authentic-seekh-kebabs.controller.php ======
+Authentic Seekh Kebabs | Nutty's Kitchen = 'Authentic Seekh Kebabs | Nutty\'s Kitchen';
+I have been working on perfecting this recipe for Authentic Seekh Kebabs a good while now. Finally I think this recipe is perfect but I'll let you be the judge of that! = 'I have been working on perfecting this recipe for Authentic Seekh Kebabs a good while now. Finally I think this recipe is perfect but I\'ll let you be the judge of that!';
+Authentic Seekh Kebabs = 'Authentic Seekh Kebabs';
+https://www.nuttyskitchen.co.uk/images/authentic-seekh-kebabs/650x366/seekh-kebab-with-salad-raita-and-pita-bread-02.webp = 'https://www.nuttyskitchen.co.uk/images/authentic-seekh-kebabs/650x366/seekh-kebab-with-salad-raita-and-pita-bread-02.webp';
+https://www.nuttyskitchen.co.uk/authentic-seekh-kebabs.html = 'https://www.nuttyskitchen.co.uk/authentic-seekh-kebabs.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== basmati-rice.controller.php ======
+Basmati Rice | Nutty's Kitchen = 'Basmati Rice | Nutty\'s Kitchen';
+ I have decided to do a very quick write up of the method to cook the perfect Basmati Rice = 'I have decided to do a very quick write up of the method to cook the perfect Basmati Rice';
+a very quick write up of the method to cook the perfect Basmati Rice = 'a very quick write up of the method to cook the perfect Basmati Rice';
+https://www.nuttyskitchen.co.uk/images/basmati-rice/650x366/basmati-rice-2.webp = 'https://www.nuttyskitchen.co.uk/images/basmati-rice/650x366/basmati-rice-2.webp';
+https://www.nuttyskitchen.co.uk/basmati-rice.html = 'https://www.nuttyskitchen.co.uk/basmati-rice.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beef-and-mushroom-suet-pastry-pie.controller.php ======
+Beef & Mushroom Suet Pastry Pie | Nutty's Kitchen = 'Beef & Mushroom Suet Pastry Pie | Nutty\'s Kitchen';
+As the weather is closing in. I'm going to move into my winter warmer dishes. Beginning with with my favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef = 'As the weather is closing in. I\'m going to move into my winter warmer dishes. Beginning with with my favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef';
+My favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef = 'My favorite, Beef & Mushroom Suet Pastry Pie with tenderised beef';
+https://www.nuttyskitchen.co.uk/images/beef-mushroom-suet-pie/650x366/pie-and-broccoli-plated-1.webp = 'https://www.nuttyskitchen.co.uk/images/beef-mushroom-suet-pie/650x366/pie-and-broccoli-plated-1.webp';
+https://www.nuttyskitchen.co.uk/beef-and-mushroom-suet-pastry-pie.html = 'https://www.nuttyskitchen.co.uk/beef-and-mushroom-suet-pastry-pie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beef-curry-with-green-beans.controller.php ======
+Beef Curry With Green Beans | Nuttys' Kitchen = 'Beef Curry With Green Beans | Nuttys\' Kitchen';
+Beef Curry with Green Beans is a delicate & fresh Indian style curry traditionally made with Lamb, however I'm switching it up & using tenderised beef for my version = 'Beef Curry with Green Beans is a delicate & fresh Indian style curry traditionally made with Lamb, however I\'m switching it up & using tenderised beef for my version';
+Beef Curry with Green Beans is a delicate & fresh Indian style curry = 'Beef Curry with Green Beans is a delicate & fresh Indian style curry';
+https://www.nuttyskitchen.co.uk/images/beef-curry-with-green-beans/650x366/beef-curry-with-green-beans-rice-and-chapati.webp = 'https://www.nuttyskitchen.co.uk/images/beef-curry-with-green-beans/650x366/beef-curry-with-green-beans-rice-and-chapati.webp';
+https://www.nuttyskitchen.co.uk/beef-curry-with-green-beans.html = 'https://www.nuttyskitchen.co.uk/beef-curry-with-green-beans.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beef-pork-madras.controller.php ======
+Beef & Pork Madras | Nutty's Kitchen = 'Beef & Pork Madras | Nutty\'s Kitchen';
+I thought I'd share my Madras curry paste with you so you don't have to pay for shop-bought & have a new skill up your sleeve. The madras paste will make 2 curries = 'I thought I\'d share my Madras curry paste with you so you don\'t have to pay for shop-bought & have a new skill up your sleeve. The madras paste will make 2 curries';
+I thought I'd share my Madras curry paste with you so you don't have to pay for shop-bought = 'I thought I\'d share my Madras curry paste with you so you don\'t have to pay for shop-bought';
+https://www.nuttyskitchen.co.uk/images/beef-pork-madras/650x366/beef-pork-madras-in-pan.webp = 'https://www.nuttyskitchen.co.uk/images/beef-pork-madras/650x366/beef-pork-madras-in-pan.webp';
+https://www.nuttyskitchen.co.uk/beef-pork-madras.html = 'https://www.nuttyskitchen.co.uk/beef-pork-madras.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beef-stew-and-dumplings.controller.php ======
+Beef Stew and Dumplings | Nutty's Kitchen = 'Beef Stew and Dumplings | Nutty\'s Kitchen';
+As the nights draw in and it gets colder & colder, I crave this kind of dish — Beef Stew & Dumplings. As I own a pressure cooker, I can cut the cooking time by two hours = 'As the nights draw in and it gets colder & colder, I crave this kind of dish — Beef Stew & Dumplings. As I own a pressure cooker, I can cut the cooking time by two hours';
+MY beef stew and dumplings recipe for those short, cold winter days = 'MY beef stew and dumplings recipe for those short, cold winter days';
+https://www.nuttyskitchen.co.uk/images/beef-stew-and-dumplings/650x366/beef-stew-and-dumplings-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/beef-stew-and-dumplings/650x366/beef-stew-and-dumplings-cooked.webp';
+https://www.nuttyskitchen.co.uk/beef-stew-and-dumplings.html = 'https://www.nuttyskitchen.co.uk/beef-stew-and-dumplings.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== beef-stroganoff.controller.php ======
+Beef Stroganoff | Nutty's Kitchen = 'Beef Stroganoff | Nutty\'s Kitchen';
+ = '';
+Short description here please! = 'Short description here please!';
+https://www.nuttyskitchen.co.uk/images/beef-stroganoff/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/beef-stroganoff/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/beef-stroganoff.html = 'https://www.nuttyskitchen.co.uk/beef-stroganoff.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== beefporkchilli.controller.php ======
+Beef & Pork Mexican Chilli = 'Beef & Pork Mexican Chilli';
+a type of chilli con carne, but its not in it's pure form. It's packed with veg to double the size and flavour = 'a type of chilli con carne, but its not in it\'s pure form. It\'s packed with veg to double the size and flavour';
+a type of chilli con carne, but its not in it's pure form. It's packed with veg to double the size and flavour = 'a type of chilli con carne, but its not in it\'s pure form. It\'s packed with veg to double the size and flavour';
+https://www.nuttyskitchen.co.uk/images/beefporkchilli/650x366/chilli-rice-plated.webp = 'https://www.nuttyskitchen.co.uk/images/beefporkchilli/650x366/chilli-rice-plated.webp';
+https://www.nuttyskitchen.co.uk/beefporkchilli.html = 'https://www.nuttyskitchen.co.uk/beefporkchilli.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beefporkpastabake.controller.php ======
+Beef & Pork Pasta Bake = 'Beef & Pork Pasta Bake';
+a gorgeous dish with a totally 'to die for' toasted
+    cheese & breadcrumb topping. a beautiful
+    light meaty flavour, tangy with tomato = 'a gorgeous dish with a totally \'to die for\' toasted
+    cheese & breadcrumb topping. a beautiful
+    light meaty flavour, tangy with tomato';
+a gorgeous dish with a totally 'to die for' toasted
+      cheese & breadcrumb topping = 'a gorgeous dish with a totally \'to die for\' toasted
+      cheese & breadcrumb topping';
+https://www.nuttyskitchen.co.uk/images/beefporkpastabake/650x366/pasta-bake-plated.jpg = 'https://www.nuttyskitchen.co.uk/images/beefporkpastabake/650x366/pasta-bake-plated.jpg';
+https://www.nuttyskitchen.co.uk/beefporkpastabake.html = 'https://www.nuttyskitchen.co.uk/beefporkpastabake.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beefporkpastasauce.controller.php ======
+Beef & Pork Mince Italian Pasta Sauce | Nutty's Kitchen = 'Beef & Pork Mince Italian Pasta Sauce | Nutty\'s Kitchen';
+Try my beef & pork pasta bake which is truly sublime. Combining the beef mince with pork ensures that everything stays succulently juicy = 'Try my beef & pork pasta bake which is truly sublime. Combining the beef mince with pork ensures that everything stays succulently juicy';
+Try my beef & pork pasta bake which is truly sublime = 'Try my beef & pork pasta bake which is truly sublime';
+https://www.nuttyskitchen.co.uk/images/beefporkpastasauce/650x366/fusilli-pasta-sauce.webp = 'https://www.nuttyskitchen.co.uk/images/beefporkpastasauce/650x366/fusilli-pasta-sauce.webp';
+https://www.nuttyskitchen.co.uk/beefporkpastasauce.htmll = 'https://www.nuttyskitchen.co.uk/beefporkpastasauce.htmll';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beefspinachcurry.controller.php ======
+Beef & Spinach Curry = 'Beef & Spinach Curry';
+This is a delicate curry not overly complicated or heavily spiced. The spinach is coarsely chopped and added at the final stage to keep it's colour = 'This is a delicate curry not overly complicated or heavily spiced. The spinach is coarsely chopped and added at the final stage to keep it\'s colour';
+a delicate curry not overly complicated or heavily spiced = 'a delicate curry not overly complicated or heavily spiced';
+https://www.nuttyskitchen.co.uk/images/beefspinachcurry/650x366/beef-spinach-curry-rice.jpg = 'https://www.nuttyskitchen.co.uk/images/beefspinachcurry/650x366/beef-spinach-curry-rice.jpg';
+https://www.nuttyskitchen.co.uk/beefspinachcurry.html = 'https://www.nuttyskitchen.co.uk/beefspinachcurry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== beefy-meatballs-onion-gravy.controller.php ======
+Beefy Meatballs In Onion Gravy | Nuttys Kitchen = 'Beefy Meatballs In Onion Gravy | Nuttys Kitchen';
+Let's cook beef again! This time I put together a nostalgic classic: beefy meatballs in onion gravy, my childhood memories come flooding back at the thought! = 'Let\'s cook beef again! This time I put together a nostalgic classic: beefy meatballs in onion gravy, my childhood memories come flooding back at the thought!';
+This time I put together a nostalgic classic: beefy meatballs in onion gravy = 'This time I put together a nostalgic classic: beefy meatballs in onion gravy';
+https://www.nuttyskitchen.co.uk/images/beefy-meatballs/650x366/meatballs-rice-peas-sweetcorn.webp = 'https://www.nuttyskitchen.co.uk/images/beefy-meatballs/650x366/meatballs-rice-peas-sweetcorn.webp';
+https://www.nuttyskitchen.co.uk/beefy-meatballs-onion-gravy.html = 'https://www.nuttyskitchen.co.uk/beefy-meatballs-onion-gravy.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== bellyporkdinner.controller.php ======
+Belly Pork Dinner = 'Belly Pork Dinner';
+I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner! = 'I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner!';
+I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner! = 'I had some left over mash potatoes from when I made my Lamb Mash Pie, so I thought, why not have a mini roast dinner!';
+https://www.nuttyskitchen.co.uk/images/bellyporkdinner/650x366/dinner-plated.jpg = 'https://www.nuttyskitchen.co.uk/images/bellyporkdinner/650x366/dinner-plated.jpg';
+https://www.nuttyskitchen.co.uk/bellyporkdinner.html = 'https://www.nuttyskitchen.co.uk/bellyporkdinner.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== blackberry-and-soured-cream-flan.controller.php ======
+blackberry & soured cream flan | Nutty's Kitchen = 'blackberry & soured cream flan | Nutty\'s Kitchen';
+It 's the time of year when free Blackberries are easy to come by and there has been a bumper harvest here at Nutty's so, what better than Blackberry & Soured Cream Flan = 'It \'s the time of year when free Blackberries are easy to come by and there has been a bumper harvest here at Nutty\'s so, what better than Blackberry & Soured Cream Flan';
+Short description here please! = 'Short description here please!';
+https://www.nuttyskitchen.co.uk/images/blackberry-and-soured-cream-flan/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/blackberry-and-soured-cream-flan/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/blackberry-and-soured-cream-flan.html = 'https://www.nuttyskitchen.co.uk/blackberry-and-soured-cream-flan.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== blackcherrypie.controller.php ======
+Black Cherry Pie = 'Black Cherry Pie';
+A really scrummy tart that only needs a tin of black cherries to go with the left over pastry. It's not too sweet and just needs a dollop cream or ice cream = 'A really scrummy tart that only needs a tin of black cherries to go with the left over pastry. It\'s not too sweet and just needs a dollop cream or ice cream';
+A really scrummy tart that only needs a tin of black cherries to go with the left over pastry = 'A really scrummy tart that only needs a tin of black cherries to go with the left over pastry';
+https://www.nuttyskitchen.co.uk/images/blackcherrypie/650x366/cherry-pie-cream-served.jpg = 'https://www.nuttyskitchen.co.uk/images/blackcherrypie/650x366/cherry-pie-cream-served.jpg';
+https://www.nuttyskitchen.co.uk/blackcherrypie.html = 'https://www.nuttyskitchen.co.uk/blackcherrypie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== blue-cheese-macaroni-pie.controller.php ======
+Blue Cheese Macaroni Pie | Nutty's Kitchen = 'Blue Cheese Macaroni Pie | Nutty\'s Kitchen';
+Blue Cheese Macaroni Pie This is serious adult stuff! The little ones just might find this a little too strong for them. I made this to go with my Jerked Chicken Curry = 'Blue Cheese Macaroni Pie This is serious adult stuff! The little ones just might find this a little too strong for them. I made this to go with my Jerked Chicken Curry';
+Blue Cheese Macaroni Pie recipe, seriously adult stuff! = 'Blue Cheese Macaroni Pie recipe, seriously adult stuff!';
+https://www.nuttyskitchen.co.uk/images/blue-cheese-macaroni-pie/650x366/blue-cheese-macaroni-pie-baked.webp = 'https://www.nuttyskitchen.co.uk/images/blue-cheese-macaroni-pie/650x366/blue-cheese-macaroni-pie-baked.webp';
+https://www.nuttyskitchen.co.uk/blue-cheese-macaroni-pie.html = 'https://www.nuttyskitchen.co.uk/blue-cheese-macaroni-pie.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/macaroni.svg");
+
+        /* set the background size */
+        --bg-size: 96px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 35%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/macaroni.svg");
+
+        /* set the background size */
+        --bg-size: 96px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 35%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== butter-chicken.controller.php ======
+Butter Chicken | Nutty's Kitchen = 'Butter Chicken | Nutty\'s Kitchen';
+Butter Chicken & Jeera rice. This is a revision to a previous dish and oh so improved! A bit of advise though, do not eat it every week. This is a restaurant style curry = 'Butter Chicken & Jeera rice. This is a revision to a previous dish and oh so improved! A bit of advise though, do not eat it every week. This is a restaurant style curry';
+Butter Chicken Recipe: A restaurant style curry = 'Butter Chicken Recipe: A restaurant style curry';
+https://www.nuttyskitchen.co.uk/images/butter-chicken/650x366/butter-chicken-and-jeera-rice-02.webp = 'https://www.nuttyskitchen.co.uk/images/butter-chicken/650x366/butter-chicken-and-jeera-rice-02.webp';
+https://www.nuttyskitchen.co.uk/butter-chicken.html = 'https://www.nuttyskitchen.co.uk/butter-chicken.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== caribbean-creamy-pork-curry.controller.php ======
+Caribbean Creamy Pork curry | Nutty's Kitchen = 'Caribbean Creamy Pork curry | Nutty\'s Kitchen';
+Caribbean Creamy Pork Curry Now this is completely different to most of my Caribbean dishes, not a fresh chilli in sight for starters. Greek yogurt & coconut cream... = 'Caribbean Creamy Pork Curry Now this is completely different to most of my Caribbean dishes, not a fresh chilli in sight for starters. Greek yogurt & coconut cream...';
+Caribbean Creamy Pork Curry... is completely different to most of my Caribbean dishes = 'Caribbean Creamy Pork Curry... is completely different to most of my Caribbean dishes';
+https://www.nuttyskitchen.co.uk/images/caribbean-creamy-pork-curry/650x366/caribbean-creamy-pork-curry-and-rice.webp = 'https://www.nuttyskitchen.co.uk/images/caribbean-creamy-pork-curry/650x366/caribbean-creamy-pork-curry-and-rice.webp';
+https://www.nuttyskitchen.co.uk/caribbean-creamy-pork-curry.html = 'https://www.nuttyskitchen.co.uk/caribbean-creamy-pork-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== cauli-cheese-smoked-haddock-bake.controller.php ======
+Cauliflower Cheese & Smoked Haddock Bake ! Nutty's Ktichen = 'Cauliflower Cheese & Smoked Haddock Bake ! Nutty\'s Ktichen';
+Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering at the very mention of it, a real home comforter = 'Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering at the very mention of it, a real home comforter';
+Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering = 'Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering';
+https://www.nuttyskitchen.co.uk/images/caulicheesesmokedhaddock/650x366/cauli-cheese-smoked-haddock-baked.webp = 'https://www.nuttyskitchen.co.uk/images/caulicheesesmokedhaddock/650x366/cauli-cheese-smoked-haddock-baked.webp';
+https://www.nuttyskitchen.co.uk/cauli-cheese-smoked-haddock-bake.html = 'https://www.nuttyskitchen.co.uk/cauli-cheese-smoked-haddock-bake.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== caulicheese.controller.php ======
+Cauliflower Cheese | Nutty's Kitchen = 'Cauliflower Cheese | Nutty\'s Kitchen';
+Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon, or try substituting with a meat free bacon product = 'Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon, or try substituting with a meat free bacon product';
+Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon = 'Cauliflower, what a wonderful ingredient. To make this totally vegetarian just leave out the bacon';
+https://www.nuttyskitchen.co.uk/images/caulicheese/650x366/cauli-cheese-ready-02.jpg = 'https://www.nuttyskitchen.co.uk/images/caulicheese/650x366/cauli-cheese-ready-02.jpg';
+https://www.nuttyskitchen.co.uk/caulicheese.html = 'https://www.nuttyskitchen.co.uk/caulicheese.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== cauliflower-cheese.controller.php ======
+A Recipe | Nutty's Kitchen = 'A Recipe | Nutty\'s Kitchen';
+ = '';
+Short description here please! = 'Short description here please!';
+https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-cheese.html = 'https://www.nuttyskitchen.co.uk/cauliflower-cheese.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== cauliflower-curry.controller.php ======
+Cauliflower Curry | Nutty's Kitchen = 'Cauliflower Curry | Nutty\'s Kitchen';
+Cauliflower Curry, you need to like cauliflower to try this dish as it really is what the it says in the title! Delicate, not too spicy, in a creamy coconut sauce = 'Cauliflower Curry, you need to like cauliflower to try this dish as it really is what the it says in the title! Delicate, not too spicy, in a creamy coconut sauce';
+Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce = 'Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce';
+https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== caulifrankcheese.controller.php ======
+Cauliflower Cheese & Frankfurter Bake | Nutty's Kitchen = 'Cauliflower Cheese & Frankfurter Bake | Nutty\'s Kitchen';
+This dish could easily be totally vegetarian, just use vegetarian frankfurters (yummy) Serve with a warm crusty baguette with lashings of butter = 'This dish could easily be totally vegetarian, just use vegetarian frankfurters (yummy) Serve with a warm crusty baguette with lashings of butter';
+Cauliflower Cheese & Frankfurter Bake, serve with a warm crusty baguette = 'Cauliflower Cheese & Frankfurter Bake, serve with a warm crusty baguette';
+https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/meal-cooked-01.jpg = 'https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/meal-cooked-01.jpg';
+https://www.nuttyskitchen.co.uk/caulifrankcheese.html = 'https://www.nuttyskitchen.co.uk/caulifrankcheese.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== celeriac-soup.controller.php ======
+Celeriac Soup | Nutty's Kitchen = 'Celeriac Soup | Nutty\'s Kitchen';
+Celeriac is often overlooked and underused, but it’s absolutely delicious. It can be grated into pickles and salads or used in soups — perfect for warming up in winter = 'Celeriac is often overlooked and underused, but it’s absolutely delicious. It can be grated into pickles and salads or used in soups — perfect for warming up in winter';
+Celeriac is often overlooked and underused, but it’s absolutely delicious as soup! = 'Celeriac is often overlooked and underused, but it’s absolutely delicious as soup!';
+https://www.nuttyskitchen.co.uk/images/celeriac-soup/2080x2296/celeriac-soup-served.jpg = 'https://www.nuttyskitchen.co.uk/images/celeriac-soup/2080x2296/celeriac-soup-served.jpg';
+https://www.nuttyskitchen.co.uk/celeriac-soup.html = 'https://www.nuttyskitchen.co.uk/celeriac-soup.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chapati.controller.php ======
+Chapti Flat Bread Recipe | Nutty's Kitchen = 'Chapti Flat Bread Recipe | Nutty\'s Kitchen';
+Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make, with the hardest part being the kneading of the dough = 'Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make, with the hardest part being the kneading of the dough';
+Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make = 'Every Indian curry benefits from a flat bread and chapatis are the quickest and easiest to make';
+https://www.nuttyskitchen.co.uk/images/chapati/650x366/chapati-cooking-01.webp = 'https://www.nuttyskitchen.co.uk/images/chapati/650x366/chapati-cooking-01.webp';
+https://www.nuttyskitchen.co.uk/chapati.html = 'https://www.nuttyskitchen.co.uk/chapati.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== cheese-and-onion-quiche.controller.php ======
+Cheese and Onion Quiche | Nutty's Kitchen = 'Cheese and Onion Quiche | Nutty\'s Kitchen';
+I thought I would share my Cheese & Onion Quiche recipe with you. I made a huge one so that we'd have a dinner, snacks & some left over to take out to the cricket = 'I thought I would share my Cheese & Onion Quiche recipe with you. I made a huge one so that we\'d have a dinner, snacks & some left over to take out to the cricket';
+cheese and onion quiche recipe = 'cheese and onion quiche recipe';
+https://www.nuttyskitchen.co.uk/images/cheese-and-onion-quiche/650x366/cheese-and-onion-quiche-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/cheese-and-onion-quiche/650x366/cheese-and-onion-quiche-cooked.webp';
+https://www.nuttyskitchen.co.uk/cheese-and-onion-quiche.html = 'https://www.nuttyskitchen.co.uk/cheese-and-onion-quiche.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== cheesesauce.controller.php ======
+Cheese Sauce | Nutty's Kitchen = 'Cheese Sauce | Nutty\'s Kitchen';
+My delicious & simple cheese sauce is quick and easy to make and can be used in a variety
+    of recipes = 'My delicious & simple cheese sauce is quick and easy to make and can be used in a variety
+    of recipes';
+My delicious & simple cheese sauce is quick and easy to make = 'My delicious & simple cheese sauce is quick and easy to make';
+https://www.nuttyskitchen.co.uk/images/cheesesauce/650x366/cheese-sauce-in-pan.jpg = 'https://www.nuttyskitchen.co.uk/images/cheesesauce/650x366/cheese-sauce-in-pan.jpg';
+https://www.nuttyskitchen.co.uk/cheesesauce.html = 'https://www.nuttyskitchen.co.uk/cheesesauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chicken-and-gammon-pie.controller.php ======
+Chicken & Gammon Pie | Nutty's Kitchen Recipe = 'Chicken & Gammon Pie | Nutty\'s Kitchen Recipe';
+PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...Every box has a tick here. Try not to eat this chicken and gammon alone! = 'PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...Every box has a tick here. Try not to eat this chicken and gammon alone!';
+PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie... = 'PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...';
+https://www.nuttyskitchen.co.uk/images/chicken-and-gammon-pie/650x366/slice-of-chicken-and-gammon-pie.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-and-gammon-pie/650x366/slice-of-chicken-and-gammon-pie.webp';
+https://www.nuttyskitchen.co.uk/chicken-and-gammon-pie.html = 'https://www.nuttyskitchen.co.uk/chicken-and-gammon-pie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chicken-and-tomato-balti.controller.php ======
+Chicken & Tomato Balti Curry | Nutty's Kitchen = 'Chicken & Tomato Balti Curry | Nutty\'s Kitchen';
+If you like tomatoes, you'll love this Chicken & Tomato Balti Curry It is a wonderful curry but, be mindful to make it when tomatoes are in season and really flavourful = 'If you like tomatoes, you\'ll love this Chicken & Tomato Balti Curry It is a wonderful curry but, be mindful to make it when tomatoes are in season and really flavourful';
+If you like tomatoes, you'll love this Chicken & Tomato Balti Curry = 'If you like tomatoes, you\'ll love this Chicken & Tomato Balti Curry';
+https://www.nuttyskitchen.co.uk/images/chicken-and-tomato-balti/650x366/chicken-and-tomato-balti-plated-01.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-and-tomato-balti/650x366/chicken-and-tomato-balti-plated-01.webp';
+https://www.nuttyskitchen.co.uk/chicken-and-tomato-balti.html = 'https://www.nuttyskitchen.co.uk/chicken-and-tomato-balti.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 55%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 55%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-biryani.controller.php ======
+Chicken Biryani | Nutty's Kitchen = 'Chicken Biryani | Nutty\'s Kitchen';
+I get that Biryani has a reputation for being complicated. But honestly? It's just rice, chicken, and a little spice magic. All myths removed. Chicken Biryani is simple = 'I get that Biryani has a reputation for being complicated. But honestly? It\'s just rice, chicken, and a little spice magic. All myths removed. Chicken Biryani is simple';
+I get that Biryani has a reputation for being complicated. But honestly? It's simple = 'I get that Biryani has a reputation for being complicated. But honestly? It\'s simple';
+https://www.nuttyskitchen.co.uk/images/chicken-biryani/650x366/chicken-biryani-raita-popadoms.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-biryani/650x366/chicken-biryani-raita-popadoms.webp';
+https://www.nuttyskitchen.co.uk/chicken-biryani.html = 'https://www.nuttyskitchen.co.uk/chicken-biryani.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-in-cashew-nut-sauce.controller.php ======
+Chicken in Cashew Nut Sauce | Nutty's Kitchen = 'Chicken in Cashew Nut Sauce | Nutty\'s Kitchen';
+Chicken in Cashew Nut Sauce Now this really is a Nutty dish! The flavour of this dish is quite unique and the sultanas pop like little jewels of amazing fruitiness = 'Chicken in Cashew Nut Sauce Now this really is a Nutty dish! The flavour of this dish is quite unique and the sultanas pop like little jewels of amazing fruitiness';
+chicken-in-cashew-nut-sauce = 'chicken-in-cashew-nut-sauce';
+https://www.nuttyskitchen.co.uk/images/chicken-in-cashew-nut-sauce/650x366/chicken-in-cashew-nut-sauce-plated.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-in-cashew-nut-sauce/650x366/chicken-in-cashew-nut-sauce-plated.webp';
+https://www.nuttyskitchen.co.uk/chicken-in-cashew-nut-sauce.html = 'https://www.nuttyskitchen.co.uk/chicken-in-cashew-nut-sauce.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-in-creamy-peppercorn-sauce.controller.php ======
+Chicken In Creamy Peppercorn Sauce | Nutty's Kitchen = 'Chicken In Creamy Peppercorn Sauce | Nutty\'s Kitchen';
+Today, I'm going to use diced chicken thighs to create Chicken In Creamy Peppercorn Sauce. The delicate chicken is flavoured with smoked bacon, garlic of course pepper! = 'Today, I\'m going to use diced chicken thighs to create Chicken In Creamy Peppercorn Sauce. The delicate chicken is flavoured with smoked bacon, garlic of course pepper!';
+Chicken In Creamy Peppercorn Sauce Recipe = 'Chicken In Creamy Peppercorn Sauce Recipe';
+https://www.nuttyskitchen.co.uk/images/chicken-in-creamy-peppercorn-sauce/650x366/chicken-in-creamy-peppercorn-sauce-and-mash-plated.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-in-creamy-peppercorn-sauce/650x366/chicken-in-creamy-peppercorn-sauce-and-mash-plated.webp';
+https://www.nuttyskitchen.co.uk/chicken-in-creamy-peppercorn-sauce.html = 'https://www.nuttyskitchen.co.uk/chicken-in-creamy-peppercorn-sauce.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-tandoori-grill.controller.php ======
+Chicken Tandoori Grill | Nutty's Kitchen = 'Chicken Tandoori Grill | Nutty\'s Kitchen';
+ Chicken Tandoori Grill It's so easy to do. Juicy tender chicken thighs that literally melt in your mouth! marinade & refrigerate overnight. 4 to 7 minutes cooking time = 'Chicken Tandoori Grill It\'s so easy to do. Juicy tender chicken thighs that literally melt in your mouth! marinade & refrigerate overnight. 4 to 7 minutes cooking time';
+Chicken Tandoori Grill for the perfect charred Tandoor flavour without owning a clay Tandor oven = 'Chicken Tandoori Grill for the perfect charred Tandoor flavour without owning a clay Tandor oven';
+https://www.nuttyskitchen.co.uk/images/chicken-tandoori-grill/650x366/chicken-tandoori-grill-plated-01.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-tandoori-grill/650x366/chicken-tandoori-grill-plated-01.webp';
+https://www.nuttyskitchen.co.uk/chicken-tandoori-grill.html = 'https://www.nuttyskitchen.co.uk/chicken-tandoori-grill.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-thighs-in-spicy-hot-sauce.controller.php ======
+Chicken Thighs in Spicy Hot Sauce | Nutty's Kitchen = 'Chicken Thighs in Spicy Hot Sauce | Nutty\'s Kitchen';
+Whole thighs skinned but not boned are ideal for Chicken Thighs in Spicy Hot Sauce which is a rather grown-up sweet and sour dish that tickles the taste buds = 'Whole thighs skinned but not boned are ideal for Chicken Thighs in Spicy Hot Sauce which is a rather grown-up sweet and sour dish that tickles the taste buds';
+Chicken Thighs in Spicy Hot Sauce is a rather grown-up sweet and sour dish = 'Chicken Thighs in Spicy Hot Sauce is a rather grown-up sweet and sour dish';
+https://www.nuttyskitchen.co.uk/images/chicken-thighs-in-spicey-hot-sauce/650x366/lemon-garlic-ginger-added.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-thighs-in-spicey-hot-sauce/650x366/lemon-garlic-ginger-added.webp';
+https://www.nuttyskitchen.co.uk/chicken-thighs-in-spicy-hot-sauce.html = 'https://www.nuttyskitchen.co.uk/chicken-thighs-in-spicy-hot-sauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chicken-tikka-grilled-escalope.controller.php ======
+Chicken Tikka Grilled Escalope | Nutty's Kitchen = 'Chicken Tikka Grilled Escalope | Nutty\'s Kitchen';
+I'm so excited to bring you my Chicken Tikka Grilled Escalopes recipe. We all know this dish as a truly delicious starter, I'm switching it up to create a complete dinner = 'I\'m so excited to bring you my Chicken Tikka Grilled Escalopes recipe. We all know this dish as a truly delicious starter, I\'m switching it up to create a complete dinner';
+Chicken Tikka Grilled Escalope recipe = 'Chicken Tikka Grilled Escalope recipe';
+https://www.nuttyskitchen.co.uk/images/chicken-tikka-grilled-escalope/650x366/chicken-tikka-dinner-01.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-tikka-grilled-escalope/650x366/chicken-tikka-dinner-01.webp';
+https://www.nuttyskitchen.co.uk/chicken-tikka-grilled-escalope.html = 'https://www.nuttyskitchen.co.uk/chicken-tikka-grilled-escalope.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chicken-with-mango.controller.php ======
+Chicken with Mango | Nutty's Kitchen = 'Chicken with Mango | Nutty\'s Kitchen';
+Chicken with Mango. Do not dismiss fruit from curry's, it is a staple all over the world. Adding any fruits including mango will tenderise your chicken within minutes = 'Chicken with Mango. Do not dismiss fruit from curry\'s, it is a staple all over the world. Adding any fruits including mango will tenderise your chicken within minutes';
+Chicken with mango, a juicy, tangy, fruity curry = 'Chicken with mango, a juicy, tangy, fruity curry';
+https://www.nuttyskitchen.co.uk/images/chicken-with-mango/650x366/chicken-with-mango-plated-01.webp = 'https://www.nuttyskitchen.co.uk/images/chicken-with-mango/650x366/chicken-with-mango-plated-01.webp';
+https://www.nuttyskitchen.co.uk/chicken-with-mango.html = 'https://www.nuttyskitchen.co.uk/chicken-with-mango.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chickenchilimex.controller.php ======
+Chicken Chilli Mexican | Nutty's Kitchen = 'Chicken Chilli Mexican | Nutty\'s Kitchen';
+The chorizo is the star here. You also have protein from the beans and this dish has a bit of a chilli kick!!! Serve with tomato rice = 'The chorizo is the star here. You also have protein from the beans and this dish has a bit of a chilli kick!!! Serve with tomato rice';
+The chorizo is the star here. This dish has a bit of a chilli kick!!! = 'The chorizo is the star here. This dish has a bit of a chilli kick!!!';
+https://www.nuttyskitchen.co.uk/images/chickenchillimex/650x366/chicken-chilli-rice-in-dish-01.jpg = 'https://www.nuttyskitchen.co.uk/images/chickenchillimex/650x366/chicken-chilli-rice-in-dish-01.jpg';
+https://www.nuttyskitchen.co.uk/chickenchilimex.html = 'https://www.nuttyskitchen.co.uk/chickenchilimex.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chickenlasagne.controller.php ======
+Chicken & Mushroom Lasagne | Nutty's Kitchen = 'Chicken & Mushroom Lasagne | Nutty\'s Kitchen';
+If I could give you one great tip: I often make the pasta sauce a day or two ahead - it only benefits from being in the fridge allowing the flavours to develop = 'If I could give you one great tip: I often make the pasta sauce a day or two ahead - it only benefits from being in the fridge allowing the flavours to develop';
+Chicken & Mushroom Lasagne, an excellent alternative to traditional beef = 'Chicken & Mushroom Lasagne, an excellent alternative to traditional beef';
+https://www.nuttyskitchen.co.uk/images/chickenlasagne/650x366/chicken-lasagne-01.jpgp = 'https://www.nuttyskitchen.co.uk/images/chickenlasagne/650x366/chicken-lasagne-01.jpgp';
+https://www.nuttyskitchen.co.uk/chickenlasagne.html = 'https://www.nuttyskitchen.co.uk/chickenlasagne.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chickenmushroompasta.controller.php ======
+Chicken & Mushroom Pasta Sauce | Nutty's Kitchen = 'Chicken & Mushroom Pasta Sauce | Nutty\'s Kitchen';
+This is my base for lasagne and pasta bake. To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end = 'This is my base for lasagne and pasta bake. To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end';
+To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end = 'To use as a sauce with cooked pasta, just add 1tsp of cornflour in 125ml of milk at the end';
+https://www.nuttyskitchen.co.uk/images/chickenmushroompasta/650x366/ingredients.jpg = 'https://www.nuttyskitchen.co.uk/images/chickenmushroompasta/650x366/ingredients.jpg';
+https://www.nuttyskitchen.co.uk/chickenmushroompasta.html = 'https://www.nuttyskitchen.co.uk/chickenmushroompasta.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chickenmushroompie.controller.php ======
+Chicken & Mushroom Pie | Nutty's Kitchen = 'Chicken & Mushroom Pie | Nutty\'s Kitchen';
+Pie lovers behold! This is one succulently juicy & moist pastry parcel. It's delicious served as a dinner with veg and gravy or just cold from the fridge. = 'Pie lovers behold! This is one succulently juicy & moist pastry parcel. It\'s delicious served as a dinner with veg and gravy or just cold from the fridge.';
+Pie lovers behold! This is one succulently juicy & moist pastry parcel = 'Pie lovers behold! This is one succulently juicy & moist pastry parcel';
+https://www.nuttyskitchen.co.uk/images/chickenmushroompie/650x366/chicken-and-mushroom-pie-plated.webp = 'https://www.nuttyskitchen.co.uk/images/chickenmushroompie/650x366/chicken-and-mushroom-pie-plated.webp';
+https://www.nuttyskitchen.co.uk/chickenmushroompie.html = 'https://www.nuttyskitchen.co.uk/chickenmushroompie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chickensoup.controller.php ======
+Grandma's Chicken Soup | Nutty's Kitchen = 'Grandma\'s Chicken Soup | Nutty\'s Kitchen';
+Grandma's homemade chicken soup recipe, you can do so much with left over chicken, even if you have other uses for the left-over meat, the chicken bones can be used for soup = 'Grandma\'s homemade chicken soup recipe, you can do so much with left over chicken, even if you have other uses for the left-over meat, the chicken bones can be used for soup';
+Grandma's Chicken Soup, serve thoroughly warmed (not boiling) with fresh crusty white bread & lashings of butter = 'Grandma\'s Chicken Soup, serve thoroughly warmed (not boiling) with fresh crusty white bread & lashings of butter';
+https://www.nuttyskitchen.co.uk/images/chickensoup/650x366/chicken-soup-cup-02.webp = 'https://www.nuttyskitchen.co.uk/images/chickensoup/650x366/chicken-soup-cup-02.webp';
+https://www.nuttyskitchen.co.uk/chickensoup.html = 'https://www.nuttyskitchen.co.uk/chickensoup.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chickenvindaloo.controller.php ======
+Roast Chicken Vindaloo Curry | Nutty's Kitchen = 'Roast Chicken Vindaloo Curry | Nutty\'s Kitchen';
+This is a heavily spiced curry, but, there are no fresh chilli's. It's flavour packed and the taste is actually delicious made from left over roast chicken = 'This is a heavily spiced curry, but, there are no fresh chilli\'s. It\'s flavour packed and the taste is actually delicious made from left over roast chicken';
+A heavily spiced curry, flavour packed and made from left over roast chicken = 'A heavily spiced curry, flavour packed and made from left over roast chicken';
+https://www.nuttyskitchen.co.uk/images/chickenvindaloo/650x366/vindaloo-rice-plated-01.webp = 'https://www.nuttyskitchen.co.uk/images/chickenvindaloo/650x366/vindaloo-rice-plated-01.webp';
+https://www.nuttyskitchen.co.uk/chickenvindaloo.html = 'https://www.nuttyskitchen.co.uk/chickenvindaloo.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chinese-chicken-curry.controller.php ======
+Chinese Chicken Curry | Nutty's Kitchen = 'Chinese Chicken Curry | Nutty\'s Kitchen';
+Chinese chicken curry, just like the takeaway does it = 'Chinese chicken curry, just like the takeaway does it';
+Chinese chicken curry, just like the takeaway does it = 'Chinese chicken curry, just like the takeaway does it';
+https://www.nuttyskitchen.co.uk/images/chinese-chicken-curry/650x366/chinese-chicken-curry-and-rice-01.webp = 'https://www.nuttyskitchen.co.uk/images/chinese-chicken-curry/650x366/chinese-chicken-curry-and-rice-01.webp';
+https://www.nuttyskitchen.co.uk/chinese-chicken-curry.html = 'https://www.nuttyskitchen.co.uk/chinese-chicken-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 65%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 65%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== chinese-noodles-with-beansprouts.controller.php ======
+Chinese Noodles with Beansprouts | Nuttys Kitchen = 'Chinese Noodles with Beansprouts | Nuttys Kitchen';
+Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables, lightly seasoned and flavoured with sesame oil. = 'Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables, lightly seasoned and flavoured with sesame oil.';
+Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables = 'Chinese Noodles With Beansprouts is a light and refreshing noodle dish full of fresh crunchy vegetables';
+https://www.nuttyskitchen.co.uk/images/chinese-noodles-with-beansprouts/650x366/stirfry-noodles.webp = 'https://www.nuttyskitchen.co.uk/images/chinese-noodles-with-beansprouts/650x366/stirfry-noodles.webp';
+https://www.nuttyskitchen.co.uk/chinese-noodles-with-beansprouts.html = 'https://www.nuttyskitchen.co.uk/chinese-noodles-with-beansprouts.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chipotle-chicken-burrito.controller.php ======
+Chipotle Chicken Burrito | Nutty's Kitchen = 'Chipotle Chicken Burrito | Nutty\'s Kitchen';
+I Recently invested in some Chipotle chillies to make this Chipotle Chicken Burrito, not a cheap ingredient I admit, but, the aroma from them and the flavour imparted.. = 'I Recently invested in some Chipotle chillies to make this Chipotle Chicken Burrito, not a cheap ingredient I admit, but, the aroma from them and the flavour imparted..';
+Chipotle Chicken Burrito with the astonishing flavour of Chipotle chillies = 'Chipotle Chicken Burrito with the astonishing flavour of Chipotle chillies';
+https://www.nuttyskitchen.co.uk/images/chipotle-chicken-burrito/650x366/chipotle-chicken-chilli-burrito-02.webp = 'https://www.nuttyskitchen.co.uk/images/chipotle-chicken-burrito/650x366/chipotle-chicken-chilli-burrito-02.webp';
+https://www.nuttyskitchen.co.uk/chipotle-chicken-burrito.html = 'https://www.nuttyskitchen.co.uk/chipotle-chicken-burrito.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chocolate-cake.controller.php ======
+Chocolate Cake | Nutty's Kitchen = 'Chocolate Cake | Nutty\'s Kitchen';
+Chocolate Cake with butter cream and fruit & nut topping is a real treat totally controlled by you, the sweetness & flavour are all in your hands and you can let your.. = 'Chocolate Cake with butter cream and fruit & nut topping is a real treat totally controlled by you, the sweetness & flavour are all in your hands and you can let your..';
+Chocolate Cake with butter cream and fruit & nut topping is a real treat = 'Chocolate Cake with butter cream and fruit & nut topping is a real treat';
+https://www.nuttyskitchen.co.uk/images/chocolate-cake/650x366/chocolate-cake-for-easter-sliced.webp = 'https://www.nuttyskitchen.co.uk/images/chocolate-cake/650x366/chocolate-cake-for-easter-sliced.webp';
+https://www.nuttyskitchen.co.uk/chocolate-cake.html = 'https://www.nuttyskitchen.co.uk/chocolate-cake.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== chorizo-cod-stew.controller.php ======
+Chorizo Cod Stew | Nutty's Kitchen = 'Chorizo Cod Stew | Nutty\'s Kitchen';
+Baked Cod & Chorizo Stew is a gorgeous Spanish dish that is just so wonderfully tasty with the unique combination of savory, smokey, spicy flavours of the chorizo... = 'Baked Cod & Chorizo Stew is a gorgeous Spanish dish that is just so wonderfully tasty with the unique combination of savory, smokey, spicy flavours of the chorizo...';
+Chorizo Cod Stew, a wonderfully tasty Spanish dish that is really easy to make = 'Chorizo Cod Stew, a wonderfully tasty Spanish dish that is really easy to make';
+https://www.nuttyskitchen.co.uk/images/chorizo-cod/650x366/chorizo-cod-stew-plated-04.webp = 'https://www.nuttyskitchen.co.uk/images/chorizo-cod/650x366/chorizo-cod-stew-plated-04.webp';
+https://www.nuttyskitchen.co.uk/chorizo-cod-stew.html = 'https://www.nuttyskitchen.co.uk/chorizo-cod-stew.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/chorizo.svg");
+
+        /* set the background size */
+        --bg-size: 128px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 80vh;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/chorizo.svg");
+
+        /* set the background size */
+        --bg-size: 128px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 80vh;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== christmas-prepared.controller.php ======
+Christmas Prepared! | Nutty's Kitchen = 'Christmas Prepared! | Nutty\'s Kitchen';
+Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides for when the time is right. Christmas is a week away and I'm super organised :-)  = 'Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides for when the time is right. Christmas is a week away and I\'m super organised :-)';
+Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides  = 'Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides';
+https://www.nuttyskitchen.co.uk/images/christmas-prepared/650x366/bacon-and-cheese-puffs-raw.webp = 'https://www.nuttyskitchen.co.uk/images/christmas-prepared/650x366/bacon-and-cheese-puffs-raw.webp';
+https://www.nuttyskitchen.co.uk/christmas-prepared.html = 'https://www.nuttyskitchen.co.uk/christmas-prepared.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 30%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 30%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== cornedbeefmashpie.controller.php ======
+Corned Beef Mash Pie | Nutty's Kitchen = 'Corned Beef Mash Pie | Nutty\'s Kitchen';
+I know this as corned beef hash! However, there are many versions of that dish, so just for clarity; this is topped with steamy creamy mashed potatoes = 'I know this as corned beef hash! However, there are many versions of that dish, so just for clarity; this is topped with steamy creamy mashed potatoes';
+I know this as corned beef hash! However, there are many versions of that dish = 'I know this as corned beef hash! However, there are many versions of that dish';
+https://www.nuttyskitchen.co.uk/images/cornedbeefmash/650x366/cornedbeef-mash-pie.jpg = 'https://www.nuttyskitchen.co.uk/images/cornedbeefmash/650x366/cornedbeef-mash-pie.jpg';
+https://www.nuttyskitchen.co.uk/cornedbeefmashpie.html = 'https://www.nuttyskitchen.co.uk/cornedbeefmashpie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== cottage-pie.controller.php ======
+Cottage Pie | Nutty's Kitchen = 'Cottage Pie | Nutty\'s Kitchen';
+Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash, it has to feature in Nutty's Kitchen dishes, it's a true classic! = 'Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash, it has to feature in Nutty\'s Kitchen dishes, it\'s a true classic!';
+Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash = 'Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash';
+https://www.nuttyskitchen.co.uk/images/cottage-pie/650x366/cottage-pie-cooked-1.webp = 'https://www.nuttyskitchen.co.uk/images/cottage-pie/650x366/cottage-pie-cooked-1.webp';
+https://www.nuttyskitchen.co.uk/cottage-pie.html = 'https://www.nuttyskitchen.co.uk/cottage-pie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== creamy-peppercorn-sauce.controller.php ======
+Creamy Peppercorn Sauce | Nutty's Kitchen = 'Creamy Peppercorn Sauce | Nutty\'s Kitchen';
+Now this creamy peppercorn sauce is a sauce to top any jar or packet on the market! It's loaded with vegetables, bacon & chestnut mushrooms, what is not ta love! = 'Now this creamy peppercorn sauce is a sauce to top any jar or packet on the market! It\'s loaded with vegetables, bacon & chestnut mushrooms, what is not ta love!';
+ = '';
+ = '';
+ = '';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== curry-leaf-masala-chicken-fry.controller.php ======
+Curry Leaf Masala Chicken Fry | Nutty's Kitchen = 'Curry Leaf Masala Chicken Fry | Nutty\'s Kitchen';
+Now, this is something really special—I would even go so far as to say authentic Indian food: Curry Leaf Masala Chicken Fry... with a distinct curry leaf aroma = 'Now, this is something really special—I would even go so far as to say authentic Indian food: Curry Leaf Masala Chicken Fry... with a distinct curry leaf aroma';
+Now, this is something really special - Curry Leaf Masala Chicken Fry = 'Now, this is something really special - Curry Leaf Masala Chicken Fry';
+https://www.nuttyskitchen.co.uk/images/curry-leaf-masala-chicken-fry/650x366/curry-leaf-masala-and-rice.webp = 'https://www.nuttyskitchen.co.uk/images/curry-leaf-masala-chicken-fry/650x366/curry-leaf-masala-and-rice.webp';
+https://www.nuttyskitchen.co.uk/curry-leaf-masala-chicken-fry.html = 'https://www.nuttyskitchen.co.uk/curry-leaf-masala-chicken-fry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== damson-and-soured-cream-tart.controller.php ======
+Damson & Soured Cream Tart | Nutty's Kitchen = 'Damson & Soured Cream Tart | Nutty\'s Kitchen';
+This damson and soured cream tart recipe is perfect for those home garden foraged fruits. This recipe serves 6 to 8 & cooks in 35mins = 'This damson and soured cream tart recipe is perfect for those home garden foraged fruits. This recipe serves 6 to 8 & cooks in 35mins';
+Home made damson and soured cream tart recipe = 'Home made damson and soured cream tart recipe';
+https://www.nuttyskitchen.co.uk/images/damson-and-soured-cream-tart/650x366/damson-and-soured-cream-tart-plated-06.webp = 'https://www.nuttyskitchen.co.uk/images/damson-and-soured-cream-tart/650x366/damson-and-soured-cream-tart-plated-06.webp';
+https://www.nuttyskitchen.co.uk/damson-and-soured-cream-tart.html = 'https://www.nuttyskitchen.co.uk/damson-and-soured-cream-tart.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.svg");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.svg");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== dhal-with-fried-spices.controller.php ======
+Dhal With Fried Spices | Nutty's Kitchen = 'Dhal With Fried Spices | Nutty\'s Kitchen';
+Dhal With Fried Spices is tiny little lentils with fried garlic & stuff, it's an absolutely DELICIOUS every day household staple in Indian homes. You seriously have to try this! = 'Dhal With Fried Spices is tiny little lentils with fried garlic & stuff, it\'s an absolutely DELICIOUS every day household staple in Indian homes. You seriously have to try this!';
+Dhal With Fried Spices is tiny little lentils with fried garlic & stuff = 'Dhal With Fried Spices is tiny little lentils with fried garlic & stuff';
+https://www.nuttyskitchen.co.uk/images/dhal-fried-spices/650x366/dhal-and-naan-served.webp = 'https://www.nuttyskitchen.co.uk/images/dhal-fried-spices/650x366/dhal-and-naan-served.webp';
+https://www.nuttyskitchen.co.uk/dhal-with-fried-spices.html = 'https://www.nuttyskitchen.co.uk/dhal-with-fried-spices.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== dodgy-kebab.controller.php ======
+Dodgy Kebab! | Nutty's Kitchen = 'Dodgy Kebab! | Nutty\'s Kitchen';
+So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this.  Not a kebab in it truest sense, that's why I've called it my Dodgy Kebab! = 'So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this.  Not a kebab in it truest sense, that\'s why I\'ve called it my Dodgy Kebab!';
+So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this = 'So! When I fancy that all time on the way home classic Dodgy Kebab! I tend to cook this';
+https://www.nuttyskitchen.co.uk/images/dodgy-kebab/650x366/kebab-closed-with-salad.webp = 'https://www.nuttyskitchen.co.uk/images/dodgy-kebab/650x366/kebab-closed-with-salad.webp';
+https://www.nuttyskitchen.co.uk/dodgy-kebab.html = 'https://www.nuttyskitchen.co.uk/dodgy-kebab.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== easy-chicken-curry.controller.php ======
+Easy Chicken Curry | Nutty's Kitchen = 'Easy Chicken Curry | Nutty\'s Kitchen';
+Easy chicken curry is possibly my favourite home-made curry, it's a really easy to make, not too many ingredients & a fantastic  introduction to Indian cooking! = 'Easy chicken curry is possibly my favourite home-made curry, it\'s a really easy to make, not too many ingredients & a fantastic  introduction to Indian cooking!';
+Easy chicken curry is possibly my favourite home-made curry, it's a really easy to make = 'Easy chicken curry is possibly my favourite home-made curry, it\'s a really easy to make';
+https://www.nuttyskitchen.co.uk/images/easy-chicken-curry/650x366/chicken-curry-in-pan.jpg = 'https://www.nuttyskitchen.co.uk/images/easy-chicken-curry/650x366/chicken-curry-in-pan.jpg';
+https://www.nuttyskitchen.co.uk/easy-chicken-curry.html = 'https://www.nuttyskitchen.co.uk/easy-chicken-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== egg-fried-rice.controller.php ======
+Egg Fried Rice | Nutty's Kitchen Egg Fried Rice Recipe = 'Egg Fried Rice | Nutty\'s Kitchen Egg Fried Rice Recipe';
+Nutty's Kitchen puts together an easy to make egg fried rice that's a quick, simple and delicious accompaniment to homemade Chinese style dishes = 'Nutty\'s Kitchen puts together an easy to make egg fried rice that\'s a quick, simple and delicious accompaniment to homemade Chinese style dishes';
+Nutty's Kitchen puts together an easy to make egg fried rice that's a quick, simple and delicious = 'Nutty\'s Kitchen puts together an easy to make egg fried rice that\'s a quick, simple and delicious';
+https://www.nuttyskitchen.co.uk/images/egg-fried-rice/650x366/egg-fried-rice-in-dish.webp = 'https://www.nuttyskitchen.co.uk/images/egg-fried-rice/650x366/egg-fried-rice-in-dish.webp';
+https://www.nuttyskitchen.co.uk/egg-fried-rice.html = 'https://www.nuttyskitchen.co.uk/egg-fried-rice.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== fish-and-chorizo-potato-pie.controller.php ======
+Fish & Chorizo Potato Pie | Nutty's Kitchen = 'Fish & Chorizo Potato Pie | Nutty\'s Kitchen';
+Fish and chorizo with a crusty, toast creamy mash, who'd have thought it? Absolute genius! = 'Fish and chorizo with a crusty, toast creamy mash, who\'d have thought it? Absolute genius!';
+Fish and chorizo with a crusty, toast creamy mash. Absolute genius = 'Fish and chorizo with a crusty, toast creamy mash. Absolute genius';
+https://www.nuttyskitchen.co.uk/images/fish-and-chorizo-potato-pie/650x366/fish-and-chorizo-potato-pie-cooked-01.webp = 'https://www.nuttyskitchen.co.uk/images/fish-and-chorizo-potato-pie/650x366/fish-and-chorizo-potato-pie-cooked-01.webp';
+https://www.nuttyskitchen.co.uk/fish-and-chorizo-potato-pie.html = 'https://www.nuttyskitchen.co.uk/fish-and-chorizo-potato-pie.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== fish-fillets-with-chilli-sauce.controller.php ======
+Fish Fillets With Chilli Sauce | Nutty's Kitchen = 'Fish Fillets With Chilli Sauce | Nutty\'s Kitchen';
+Now, I know fish dishes can be really tasty, but this Fish Fillets with Chilli Sauce dish is something else. It packs a punch! It's on a completely different level... = 'Now, I know fish dishes can be really tasty, but this Fish Fillets with Chilli Sauce dish is something else. It packs a punch! It\'s on a completely different level...';
+this Fish Fillets with Chilli Sauce dish is something else. It packs a punch! = 'this Fish Fillets with Chilli Sauce dish is something else. It packs a punch!';
+https://www.nuttyskitchen.co.uk/images/fish-fillets-with-chilli-sauce/650x366/fish-fillets-with-chilli-sauce-and-saffron-rice-01.webp = 'https://www.nuttyskitchen.co.uk/images/fish-fillets-with-chilli-sauce/650x366/fish-fillets-with-chilli-sauce-and-saffron-rice-01.webp';
+https://www.nuttyskitchen.co.uk/fish-fillets-with-chilli-sauce.html = 'https://www.nuttyskitchen.co.uk/fish-fillets-with-chilli-sauce.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== fish-pie.controller.php ======
+Mum's Fish Pie | Nutty's Kitchen = 'Mum\'s Fish Pie | Nutty\'s Kitchen';
+this is my answer to create Mum's Fish Pie on a budget. I managed to get 4 pieces of frozen Atlantic wild cod for less than four quid (£4) so that makes it reasonable = 'this is my answer to create Mum\'s Fish Pie on a budget. I managed to get 4 pieces of frozen Atlantic wild cod for less than four quid (£4) so that makes it reasonable';
+This is my answer to create Mum's Fish Pie on a budget! Simply delicious = 'This is my answer to create Mum\'s Fish Pie on a budget! Simply delicious';
+https://www.nuttyskitchen.co.uk/images/fish-pie/650x366/fish-pie-baked-01.webp = 'https://www.nuttyskitchen.co.uk/images/fish-pie/650x366/fish-pie-baked-01.webp';
+https://www.nuttyskitchen.co.uk/fish-pie.html = 'https://www.nuttyskitchen.co.uk/fish-pie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== fluffy-mashed-potatoes.controller.php ======
+Fluffy Mashed Potatoes | Nutty's Kitchen = 'Fluffy Mashed Potatoes | Nutty\'s Kitchen';
+Now who does not love a well made, well seasoned Fluffy mashed potatoes? These can add so much pleasure to any dinner, whether you top your dish off and bake it or... = 'Now who does not love a well made, well seasoned Fluffy mashed potatoes? These can add so much pleasure to any dinner, whether you top your dish off and bake it or...';
+Now who does not love a well made, well seasoned Fluffy mashed potatoes = 'Now who does not love a well made, well seasoned Fluffy mashed potatoes';
+https://www.nuttyskitchen.co.uk/images/fluffy-mashed-potatoes/650x366/fluffy-mash-in-a-bowl-02.webp = 'https://www.nuttyskitchen.co.uk/images/fluffy-mashed-potatoes/650x366/fluffy-mash-in-a-bowl-02.webp';
+https://www.nuttyskitchen.co.uk/fluffy-mashed-potatoes.html = 'https://www.nuttyskitchen.co.uk/fluffy-mashed-potatoes.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== fruit-cake.controller.php ======
+Fruit Cake | Nutty's Kitchen = 'Fruit Cake | Nutty\'s Kitchen';
+There are so many variations of this cake, but don't worry, this one is probably the best fruit cake in the world! It's easy to make and completely and utterly delicious = 'There are so many variations of this cake, but don\'t worry, this one is probably the best fruit cake in the world! It\'s easy to make and completely and utterly delicious';
+Probably the best, most deliciously soft & moist fruit cake in the world! = 'Probably the best, most deliciously soft & moist fruit cake in the world!';
+https://www.nuttyskitchen.co.uk/images/fruit-cake/650x366/fruit-cake-sliced-02.webp = 'https://www.nuttyskitchen.co.uk/images/fruit-cake/650x366/fruit-cake-sliced-02.webp';
+https://www.nuttyskitchen.co.uk/fruit-cake.html = 'https://www.nuttyskitchen.co.uk/fruit-cake.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== gammon-joint-with-mustard-sauce.controller.php ======
+Gammon Joint with Mustard Sauce | Nutty's Kitchen = 'Gammon Joint with Mustard Sauce | Nutty\'s Kitchen';
+a gammon joint with mustard sauce is a very old-fashioned recipe that both my gran and my mum turned to for a lazy Sunday dinner. Just 45mins using the pressure cooker = 'a gammon joint with mustard sauce is a very old-fashioned recipe that both my gran and my mum turned to for a lazy Sunday dinner. Just 45mins using the pressure cooker';
+a gammon joint with mustard sauce is a very old-fashioned recipe.... = 'a gammon joint with mustard sauce is a very old-fashioned recipe....';
+https://www.nuttyskitchen.co.uk/images/gammon-joint-and-mustard-sauce/650x366/gammon-slices-on-plate.webp = 'https://www.nuttyskitchen.co.uk/images/gammon-joint-and-mustard-sauce/650x366/gammon-slices-on-plate.webp';
+https://www.nuttyskitchen.co.uk/gammon-joint-with-mustard-sauce.htmll = 'https://www.nuttyskitchen.co.uk/gammon-joint-with-mustard-sauce.htmll';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== gingerbread.controller.php ======
+Sticky Gingerbread Cake | Nutty's Kitchen = 'Sticky Gingerbread Cake | Nutty\'s Kitchen';
+Easy and scrummy snack sized cakes that will be perfect after a Sunday roast or popped onto a side plate with a lovely cup of tea. = 'Easy and scrummy snack sized cakes that will be perfect after a Sunday roast or popped onto a side plate with a lovely cup of tea.';
+Easy and scrummy snack sized cakes that will be perfect after a Sunday roast = 'Easy and scrummy snack sized cakes that will be perfect after a Sunday roast';
+https://www.nuttyskitchen.co.uk/images/gingerbread/650x366/cake-finished.jpg = 'https://www.nuttyskitchen.co.uk/images/gingerbread/650x366/cake-finished.jpg';
+https://www.nuttyskitchen.co.uk/gingerbread.html = 'https://www.nuttyskitchen.co.uk/gingerbread.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== gravy.controller.php ======
+Gravy | Nutty's Kitchen = 'Gravy | Nutty\'s Kitchen';
+A quick and easy gravy recipe that you can rustle up without the need of those instant gravy granuals that are so full of things you don't need! = 'A quick and easy gravy recipe that you can rustle up without the need of those instant gravy granuals that are so full of things you don\'t need!';
+A quick and easy gravy that you can rustle up without the need of those instant gravy granuals = 'A quick and easy gravy that you can rustle up without the need of those instant gravy granuals';
+https://www.nuttyskitchen.co.uk/images/gravy/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/gravy/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== jamaican-pumpkin-soup.controller.php ======
+Jamaican Pumpkin Soup | Nutty's Kitchen = 'Jamaican Pumpkin Soup | Nutty\'s Kitchen';
+Nutty's Jamaican Pumpkin Soup is no ordinary bowl of comfort — it's a cauldron of culinary chaos, smooth velvety perfection & a fiery little Scotch Bonnet lurking in the pot = 'Nutty\'s Jamaican Pumpkin Soup is no ordinary bowl of comfort — it\'s a cauldron of culinary chaos, smooth velvety perfection & a fiery little Scotch Bonnet lurking in the pot';
+Nutty's Jamaican Pumpkin Soup with a fiery little Scotch Bonnet lurking in the pot = 'Nutty\'s Jamaican Pumpkin Soup with a fiery little Scotch Bonnet lurking in the pot';
+https://www.nuttyskitchen.co.uk/images/jamaican-pumpkin-soup/650x366/jamaican-pumpkin-soup-in-dish.webp = 'https://www.nuttyskitchen.co.uk/images/jamaican-pumpkin-soup/650x366/jamaican-pumpkin-soup-in-dish.webp';
+https://www.nuttyskitchen.co.uk/jamaican-pumpkin-soup.html = 'https://www.nuttyskitchen.co.uk/jamaican-pumpkin-soup.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== jamaican-rice-and-peas.controller.php ======
+Jamaican Rice & Peas | Nutty's Kitchen = 'Jamaican Rice & Peas | Nutty\'s Kitchen';
+So Jamaican Rice & Peas is a contentious dish, every 'Jamaican makes it different- As da mamma did!' This is my version, a simple side that calms the spice & chilli = 'So Jamaican Rice & Peas is a contentious dish, every \'Jamaican makes it different- As da mamma did!\' This is my version, a simple side that calms the spice & chilli';
+Jamaican Rice & Peas, a simple side that calms the spice & chilli = 'Jamaican Rice & Peas, a simple side that calms the spice & chilli';
+https://www.nuttyskitchen.co.uk/images/rice-and-peas/650x366/rice-and-peas-in-bowl-01.webp = 'https://www.nuttyskitchen.co.uk/images/rice-and-peas/650x366/rice-and-peas-in-bowl-01.webp';
+https://www.nuttyskitchen.co.uk/jamaican-rice-and-peas.html = 'https://www.nuttyskitchen.co.uk/jamaican-rice-and-peas.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== jerk-chicken.controller.php ======
+Jerk Chicken | Nutty's Kitchen = 'Jerk Chicken | Nutty\'s Kitchen';
+Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas. But my goto with this is Macoroni Cheeses Pie — comfort food at it's best! = 'Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas. But my goto with this is Macoroni Cheeses Pie — comfort food at it\'s best!';
+Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas = 'Jerk Chicken is perfect finger food, or served as a meal plated with rice & peas';
+https://www.nuttyskitchen.co.uk/images/jerk-chicken/650x366/jerk-chicken-macaroni-pie-plated.webp = 'https://www.nuttyskitchen.co.uk/images/jerk-chicken/650x366/jerk-chicken-macaroni-pie-plated.webp';
+https://www.nuttyskitchen.co.uk/jerk-chicken.html = 'https://www.nuttyskitchen.co.uk/jerk-chicken.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== jerked-chicken-curry.controller.php ======
+Jerked Chicken Curry | Nutty's Kitchen = 'Jerked Chicken Curry | Nutty\'s Kitchen';
+Jerked Chicken Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here. = 'Jerked Chicken Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here.';
+Jerked chicken curry with blue cheese macaroni pie, food to calm the soul = 'Jerked chicken curry with blue cheese macaroni pie, food to calm the soul';
+https://www.nuttyskitchen.co.uk/images/jerked-chicken-curry/650x366/jerked-chicken-and-macaroni-pie-plated-03.webp = 'https://www.nuttyskitchen.co.uk/images/jerked-chicken-curry/650x366/jerked-chicken-and-macaroni-pie-plated-03.webp';
+https://www.nuttyskitchen.co.uk/jerked-chicken-curry.html = 'https://www.nuttyskitchen.co.uk/jerked-chicken-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/chilli-thyme.svg");
+
+        /* set the background size */
+        --bg-size: 128px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 35%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/chilli-thyme.svg");
+
+        /* set the background size */
+        --bg-size: 128px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 35%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== jerked-chicken-escalope-grill.controller.php ======
+Jerked Chicken Escalope Grill | Nutty's Kitchen = 'Jerked Chicken Escalope Grill | Nutty\'s Kitchen';
+This Jerked Chicken Escalope Grill recipe could not be simpler. If you have ever made our Jerk curries, this will be a breeze for you, if not, why not give this a try = 'This Jerked Chicken Escalope Grill recipe could not be simpler. If you have ever made our Jerk curries, this will be a breeze for you, if not, why not give this a try';
+A super simple Jerked Chicken Escalope Grill recipe = 'A super simple Jerked Chicken Escalope Grill recipe';
+https://www.nuttyskitchen.co.uk/images/jerked-chicken-escalope-grill/650x366/jerk-chicken-escalope-plated-03.webp = 'https://www.nuttyskitchen.co.uk/images/jerked-chicken-escalope-grill/650x366/jerk-chicken-escalope-plated-03.webp';
+https://www.nuttyskitchen.co.uk/jerked-chicken-escalope-grill.html = 'https://www.nuttyskitchen.co.uk/jerked-chicken-escalope-grill.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== jerked-pork-curry.controller.php ======
+Jerked Pork Curry | Nutty's Kitchen = 'Jerked Pork Curry | Nutty\'s Kitchen';
+Jerked Pork Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here. = 'Jerked Pork Curry! Now this is different, totally different and no vegetables! I hear you screaming but Nutty! Well, I think you are in for a real treat here.';
+Jerked Pork Curry! Now this is different, totally different and no vegetables! = 'Jerked Pork Curry! Now this is different, totally different and no vegetables!';
+https://www.nuttyskitchen.co.uk/images/jerked-pork-curry/650x366/jerked-pork-rice-and-peas-01.webp = 'https://www.nuttyskitchen.co.uk/images/jerked-pork-curry/650x366/jerked-pork-rice-and-peas-01.webp';
+https://www.nuttyskitchen.co.uk/jerked-pork-curry.html = 'https://www.nuttyskitchen.co.uk/jerked-pork-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== jerked-pork-steaks-grill.controller.php ======
+jerked pork steaks grill | Nutty's Kitchen = 'jerked pork steaks grill | Nutty\'s Kitchen';
+My grilled Jerked Pork Steaks could not be simpler, if you've made our Jerk curries this will be a breeze, if not, why not give this a try then move onto the curries = 'My grilled Jerked Pork Steaks could not be simpler, if you\'ve made our Jerk curries this will be a breeze, if not, why not give this a try then move onto the curries';
+a quick & delicious jerked pork steak recipe = 'a quick & delicious jerked pork steak recipe';
+https://www.nuttyskitchen.co.uk/images/jerked-pork-steaks/650x366/jerked-pork-steak-plated-01.webp = 'https://www.nuttyskitchen.co.uk/images/jerked-pork-steaks/650x366/jerked-pork-steak-plated-01.webp';
+https://www.nuttyskitchen.co.uk/jerked-pork-steaks-grill.html = 'https://www.nuttyskitchen.co.uk/jerked-pork-steaks-grill.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== karahi-chicken-curry.controller.php ======
+Karahi Chicken Curry | Nutty's Kitchen = 'Karahi Chicken Curry | Nutty\'s Kitchen';
+If you are craving that true authentic take away or indeed expensive eat in restaurant curry....This is the one for you — Karahi Chicken Curry. When I first tasted this... = 'If you are craving that true authentic take away or indeed expensive eat in restaurant curry....This is the one for you — Karahi Chicken Curry. When I first tasted this...';
+If you are craving that true authentic restaurant curry.... Karahi Chicken Curry = 'If you are craving that true authentic restaurant curry.... Karahi Chicken Curry';
+https://www.nuttyskitchen.co.uk/images/karahi-chicken-curry/650x366/peppers-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/karahi-chicken-curry/650x366/peppers-cooked.webp';
+https://www.nuttyskitchen.co.uk/karahi-chicken-curry.html = 'https://www.nuttyskitchen.co.uk/karahi-chicken-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== khara-masala-balti-chicken.controller.php ======
+khara Masala Balti Chicken | Nutty's Kitchen Recipe = 'khara Masala Balti Chicken | Nutty\'s Kitchen Recipe';
+Khara Masala Balti Chicken is a really quick and easy recipe which is a dry curry, a lightly spiced stir-fry dish with as much, or as little chilli kick as you please = 'Khara Masala Balti Chicken is a really quick and easy recipe which is a dry curry, a lightly spiced stir-fry dish with as much, or as little chilli kick as you please';
+Khara Masal Balti Chicken is a deliciously succulent, lightly spiced dish that cooks super quick = 'Khara Masal Balti Chicken is a deliciously succulent, lightly spiced dish that cooks super quick';
+https://www.nuttyskitchen.co.uk/images/khara-masala-balti-chicken/650x366/khara-masala-balti-chicken-plated-03.webp = 'https://www.nuttyskitchen.co.uk/images/khara-masala-balti-chicken/650x366/khara-masala-balti-chicken-plated-03.webp';
+https://www.nuttyskitchen.co.uk/khara-masala-balti-chicken.html = 'https://www.nuttyskitchen.co.uk/khara-masala-balti-chicken.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== lamb-curry-with-spinach.controller.php ======
+Lamb Curry with Spinach | Nutty's Kitchen = 'Lamb Curry with Spinach | Nutty\'s Kitchen';
+Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab, it's delicate & delicious, not overly spiced or complicated - easier than shepherds pie! = 'Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab, it\'s delicate & delicious, not overly spiced or complicated - easier than shepherds pie!';
+Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab = 'Lamb curry with spinach, or Saag Gosht as it is known is from the Punjab';
+https://www.nuttyskitchen.co.uk/images/lamb-curry-with-spinach/650x366/spinach-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/lamb-curry-with-spinach/650x366/spinach-cooked.webp';
+https://www.nuttyskitchen.co.uk/lamb-curry-with-spinach.html = 'https://www.nuttyskitchen.co.uk/lamb-curry-with-spinach.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== lamb-kofta-curry.controller.php ======
+Lamb Kofta Curry | Nutty's Kitchen = 'Lamb Kofta Curry | Nutty\'s Kitchen';
+Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is 'go to' dish for me when I want to treat me...it's like a kebab in a delicate curry sauce... Mmmm! = 'Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is \'go to\' dish for me when I want to treat me...it\'s like a kebab in a delicate curry sauce... Mmmm!';
+Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is 'go to' dish for me = 'Lamb Kofta Curry is actually a Pakistani dish and not Indian, this is \'go to\' dish for me';
+https://www.nuttyskitchen.co.uk/images/lamb-kofta-curry/650x366/lamb-kofta-curry-and-rice.webp = 'https://www.nuttyskitchen.co.uk/images/lamb-kofta-curry/650x366/lamb-kofta-curry-and-rice.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+];
+
+// ====== lamb-peas-mint-curry.controller.php ======
+Lamb Peas & Mint Curry = 'Lamb Peas & Mint Curry';
+This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish, flavoursome and mild enough for the kids, yet tasty enough for curry fans. Whats not to love! = 'This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish, flavoursome and mild enough for the kids, yet tasty enough for curry fans. Whats not to love!';
+This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish = 'This lamb peas & mint curry is a kinda pumped up shepherds pie mince dish';
+https://www.nuttyskitchen.co.uk/images/lambpeasmintcurry/650x366/lamb-pea-mint-curry-chapati-02.webp = 'https://www.nuttyskitchen.co.uk/images/lambpeasmintcurry/650x366/lamb-pea-mint-curry-chapati-02.webp';
+https://www.nuttyskitchen.co.uk/lamb-peas-mint-curry.html = 'https://www.nuttyskitchen.co.uk/lamb-peas-mint-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== lamb-pulao-rice.controller.php ======
+lamb pulao rice | Nutty's Kitchen = 'lamb pulao rice | Nutty\'s Kitchen';
+Lamb Pulao Rice is a delicious baked rice dish made with minced lamb and aromatic spices. The result... delicately spiced combination of succulent lamb mince and fluffy rice = 'Lamb Pulao Rice is a delicious baked rice dish made with minced lamb and aromatic spices. The result... delicately spiced combination of succulent lamb mince and fluffy rice';
+lamb pulao rice description here please! = 'lamb pulao rice description here please!';
+https://www.nuttyskitchen.co.uk/images/lamb-pulao-rice/650x366/lamb-pulao-rice-in-dish-02.webp = 'https://www.nuttyskitchen.co.uk/images/lamb-pulao-rice/650x366/lamb-pulao-rice-in-dish-02.webp';
+https://www.nuttyskitchen.co.uk/lamb-pulao-rice.html = 'https://www.nuttyskitchen.co.uk/lamb-pulao-rice.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== lamb-tikka-grill-steaks.controller.php ======
+Lamb Tikka Grill Steaks | Nutty's Kitchen = 'Lamb Tikka Grill Steaks | Nutty\'s Kitchen';
+This Lamb Tikka Grill Steaks recipe is a mirror of my Chicken Tikka Grilled Escalopes, but, it definitely requires a longer time in the marinade as it's harder to tenderise. = 'This Lamb Tikka Grill Steaks recipe is a mirror of my Chicken Tikka Grilled Escalopes, but, it definitely requires a longer time in the marinade as it\'s harder to tenderise.';
+Quick & easy to cook Lamb Tikka Grill Steaks recipe = 'Quick & easy to cook Lamb Tikka Grill Steaks recipe';
+https://www.nuttyskitchen.co.uk/images/lamb-tikka-grill-steaks/650x366/lamb-tikka-grill-steak-plated-02.webp = 'https://www.nuttyskitchen.co.uk/images/lamb-tikka-grill-steaks/650x366/lamb-tikka-grill-steak-plated-02.webp';
+https://www.nuttyskitchen.co.uk/lamb-tikka-grill-steaks.html = 'https://www.nuttyskitchen.co.uk/lamb-tikka-grill-steaks.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== lambmashpie.controller.php ======
+Lamb & Mash Pie = 'Lamb & Mash Pie';
+Everyone loves pure comfort food and this is one traditional English dish that will have hearts warmly melting on those cold winter evenings. = 'Everyone loves pure comfort food and this is one traditional English dish that will have hearts warmly melting on those cold winter evenings.';
+one traditional English dish that will have hearts warmly melting on those cold winter evenings = 'one traditional English dish that will have hearts warmly melting on those cold winter evenings';
+https://www.nuttyskitchen.co.uk/images/lambmashpie/650x366/lamb-mash-pie-ready.jpg = 'https://www.nuttyskitchen.co.uk/images/lambmashpie/650x366/lamb-mash-pie-ready.jpg';
+https://www.nuttyskitchen.co.uk/lambmashpie.html = 'https://www.nuttyskitchen.co.uk/lambmashpie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== luxury-chicken-pie.controller.php ======
+Luxury Chicken Pie with Mushrooms & Leeks| Nutty's Kitchen = 'Luxury Chicken Pie with Mushrooms & Leeks| Nutty\'s Kitchen';
+Pie lovers, rejoice! It's National Pie Week and here at Nutty's Kitchen we are paying proper tribute to Britain's most glorious gift to the world  the humble yet heroic pie!  = 'Pie lovers, rejoice! It\'s National Pie Week and here at Nutty\'s Kitchen we are paying proper tribute to Britain\'s most glorious gift to the world  the humble yet heroic pie!';
+Celebrate National Pie Week with Luxury Chicken Pie with Mushrooms & Leeks = 'Celebrate National Pie Week with Luxury Chicken Pie with Mushrooms & Leeks';
+https://www.nuttyskitchen.co.uk/images/luxury-chicken-pie/650x366/pie-with-trimmed-golden-pastry-04.webp = 'https://www.nuttyskitchen.co.uk/images/luxury-chicken-pie/650x366/pie-with-trimmed-golden-pastry-04.webp';
+https://www.nuttyskitchen.co.uk/luxury-chicken-pie.html = 'https://www.nuttyskitchen.co.uk/luxury-chicken-pie.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== macaroni-pie.controller.php ======
+Macaroni Pie | Nutty's Kitchen = 'Macaroni Pie | Nutty\'s Kitchen';
+I serve my baked macaroni pie with Jerk Chicken, but it's perfect straight from the dish for a lunch with a side of salad or toast and is just great with baked beans! = 'I serve my baked macaroni pie with Jerk Chicken, but it\'s perfect straight from the dish for a lunch with a side of salad or toast and is just great with baked beans!';
+Baked macaroni pie recipe, best served with Jamaican Jerked Chicken, or, Jerked Chicken/Pork Curry = 'Baked macaroni pie recipe, best served with Jamaican Jerked Chicken, or, Jerked Chicken/Pork Curry';
+https://www.nuttyskitchen.co.uk/images/macaroni-pie/650x366/macaroni-pie-baked.webp = 'https://www.nuttyskitchen.co.uk/images/macaroni-pie/650x366/macaroni-pie-baked.webp';
+https://www.nuttyskitchen.co.uk/macaroni-pie.html = 'https://www.nuttyskitchen.co.uk/macaroni-pie.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+        /* Note: it's important to set the colour stop to a position
+           that allows you to distinguish the ingredients/method tabs
+           from the background. The longer the heading paragraphs are
+           the greater the percentage colour stop needs to be. */
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== masala-veg-with-fresh-fenugreek.controller.php ======
+Masala Veg with Fresh Fenugreek | Nutty's Kitchen = 'Masala Veg with Fresh Fenugreek | Nutty\'s Kitchen';
+If you're looking for a simple and quick side dish to complement grilled meat, this Masala Vegetable with Fresh Fenugreek is the perfect choice. It's also a fantastic... = 'If you\'re looking for a simple and quick side dish to complement grilled meat, this Masala Vegetable with Fresh Fenugreek is the perfect choice. It\'s also a fantastic...';
+a simple and quick side dish to complement grilled meat = 'a simple and quick side dish to complement grilled meat';
+https://www.nuttyskitchen.co.uk/images/masala-veg-with-fresh-fenugreek/650x366/masala-veg-with-fresh-fenugreek.webp = 'https://www.nuttyskitchen.co.uk/images/masala-veg-with-fresh-fenugreek/650x366/masala-veg-with-fresh-fenugreek.webp';
+https://www.nuttyskitchen.co.uk/masala-veg-with-fresh-fenugreek.html = 'https://www.nuttyskitchen.co.uk/masala-veg-with-fresh-fenugreek.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== mashed-roots.controller.php ======
+Mashed Roots | Nutty's Kitchen = 'Mashed Roots | Nutty\'s Kitchen';
+Nutty's Kitchen's Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes. A complete creamy mash for a winters night & a perfect alternative = 'Nutty\'s Kitchen\'s Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes. A complete creamy mash for a winters night & a perfect alternative';
+Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes = 'Mashed Roots side dish is a lighter, healthier alternative to mashed potatoes';
+https://www.nuttyskitchen.co.uk/images/mashed-roots/650x366/swede-carrot-potato-mash-1.webp = 'https://www.nuttyskitchen.co.uk/images/mashed-roots/650x366/swede-carrot-potato-mash-1.webp';
+https://www.nuttyskitchen.co.uk/mashed-roots.html = 'https://www.nuttyskitchen.co.uk/mashed-roots.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== mediterranean-style-vegetables-with-pork-steaks.controller.php ======
+
+      Mediterranean style vegetables with pork steaks | Nutty's Kitchen
+     = 'Mediterranean style vegetables with pork steaks | Nutty\'s Kitchen';
+Mediterranean Style Vegetables with Pork Steaks recipe. This dish is a wonderful mix of carrots courgettes aubergine & sliced fresh garlic, and of course olive oil! = 'Mediterranean Style Vegetables with Pork Steaks recipe. This dish is a wonderful mix of carrots courgettes aubergine & sliced fresh garlic, and of course olive oil!';
+delicious Mediterranean style vegetables with pork steaks = 'delicious Mediterranean style vegetables with pork steaks';
+https://www.nuttyskitchen.co.uk/images/mediterranean-style-vegetables-with-pork-steaks/650x366/mediterranean-style-veg-with-pork-steaks-plated-03.webp = 'https://www.nuttyskitchen.co.uk/images/mediterranean-style-vegetables-with-pork-steaks/650x366/mediterranean-style-veg-with-pork-steaks-plated-03.webp';
+https://www.nuttyskitchen.co.uk/mediterranean-style-vegetables-with-pork-steaks.html = 'https://www.nuttyskitchen.co.uk/mediterranean-style-vegetables-with-pork-steaks.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== mums-braised-steak.controller.php ======
+Mum's Braised Steak & Mash| Nutty's Kitchen = 'Mum\'s Braised Steak & Mash| Nutty\'s Kitchen';
+Mum's Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five. Nowadays, on her budget? I struggled to re-create it for the same value = 'Mum\'s Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five. Nowadays, on her budget? I struggled to re-create it for the same value';
+Mum's Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five = 'Mum\'s Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five';
+https://www.nuttyskitchen.co.uk/images/braised-steak/650x366/braised-steak-mash-and-broccoli.webp = 'https://www.nuttyskitchen.co.uk/images/braised-steak/650x366/braised-steak-mash-and-broccoli.webp';
+https://www.nuttyskitchen.co.uk/mums-braised-steak.html = 'https://www.nuttyskitchen.co.uk/mums-braised-steak.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== mushroom-chow-mein.controller.php ======
+mushroom chow mein | Nutty's Kitchen = 'mushroom chow mein | Nutty\'s Kitchen';
+This dish is an accompaniment Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe. It is a very quick cook and really easy to make, full of flavoursome... = 'This dish is an accompaniment Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe. It is a very quick cook and really easy to make, full of flavoursome...';
+Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe = 'Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe';
+https://www.nuttyskitchen.co.uk/images/mushroom-chow-mein/650x366/mushroom-chow-mein-in-serving-dish-02.webp = 'https://www.nuttyskitchen.co.uk/images/mushroom-chow-mein/650x366/mushroom-chow-mein-in-serving-dish-02.webp';
+https://www.nuttyskitchen.co.uk/mushroom-chow-mein.html = 'https://www.nuttyskitchen.co.uk/mushroom-chow-mein.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== mushroom-fried-rice.controller.php ======
+Mushroom Fried Rice | Nutty's Kitchen = 'Mushroom Fried Rice | Nutty\'s Kitchen';
+This is a super easy recipe to whip up — Mushroom Fried Rice — but the real magic is in the chopping, so take your time with it! Pair that with my Sweet & Sour Pork = 'This is a super easy recipe to whip up — Mushroom Fried Rice — but the real magic is in the chopping, so take your time with it! Pair that with my Sweet & Sour Pork';
+This is a super easy recipe to whip up — Mushroom Fried Rice = 'This is a super easy recipe to whip up — Mushroom Fried Rice';
+https://www.nuttyskitchen.co.uk/images/mushroom-fried-rice/650x366/sweet-and-sour-pork.webp = 'https://www.nuttyskitchen.co.uk/images/mushroom-fried-rice/650x366/sweet-and-sour-pork.webp';
+https://www.nuttyskitchen.co.uk/mushroom-fried-rice.html = 'https://www.nuttyskitchen.co.uk/mushroom-fried-rice.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== nuttys-braised-steak.controller.php ======
+Nuttys Braised Steak | Nutty's Kitchen = 'Nuttys Braised Steak | Nutty\'s Kitchen';
+the cold weather upon us, it's the perfect time for Nutty's Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms, which are absolutely delicious = 'the cold weather upon us, it\'s the perfect time for Nutty\'s Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms, which are absolutely delicious';
+Nuttys Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms = 'Nuttys Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms';
+https://www.nuttyskitchen.co.uk/images/nuttys-braised-steak/650x366/braised-steak-mash-and-veg-plated.webp = 'https://www.nuttyskitchen.co.uk/images/nuttys-braised-steak/650x366/braised-steak-mash-and-veg-plated.webp';
+https://www.nuttyskitchen.co.uk/nuttys-braised-steak.html = 'https://www.nuttyskitchen.co.uk/nuttys-braised-steak.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== onionsauce.controller.php ======
+Onion Sauce | Nutty's Kitchen = 'Onion Sauce | Nutty\'s Kitchen';
+this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast to the next level. I hope you enjoy this! = 'this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast to the next level. I hope you enjoy this!';
+this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast = 'this is my onion sauce, the perfect partner to roast chicken that transforms your Sunday roast';
+https://www.nuttyskitchen.co.uk/images/onionsauce/650x366/onion-sauce-jug-02.webp = 'https://www.nuttyskitchen.co.uk/images/onionsauce/650x366/onion-sauce-jug-02.webp';
+https://www.nuttyskitchen.co.uk/onionsauce.html = 'https://www.nuttyskitchen.co.uk/onionsauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== parsley-sauce.controller.php ======
+Parsley Sauce | Nutty's Kitchen = 'Parsley Sauce | Nutty\'s Kitchen';
+This absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon is just divine. It's so quick and easy to make  the best Parsley Sauce you've ever tasted = 'This absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon is just divine. It\'s so quick and easy to make  the best Parsley Sauce you\'ve ever tasted';
+An absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon = 'An absolutely delicious home-made Parsley Sauce for white fish bacon, or gammon';
+https://www.nuttyskitchen.co.uk/images/parsley-sauce/650x366/parsley-sauce-with-fish-mash-and-tomatoes-01.webp = 'https://www.nuttyskitchen.co.uk/images/parsley-sauce/650x366/parsley-sauce-with-fish-mash-and-tomatoes-01.webp';
+https://www.nuttyskitchen.co.uk/parsley-sauce.html = 'https://www.nuttyskitchen.co.uk/parsley-sauce.html';
+:root {
+        /* set the background image */
+        /* --bg-img: url("/images/blank.svg"); */
+        --bg-img: url("/images/parsley.svg");
+
+        /* set the background size */
+        --bg-size: 72px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 50vh;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        /* --bg-img: url("/images/blank.svg"); */
+        --bg-img: url("/images/parsley.svg");
+
+        /* set the background size */
+        --bg-size: 72px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 50vh;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== pear-coconut-blackberry-cake.controller.php ======
+Pear, Coconut & Blackberry Cake | Nutty's Kitchen = 'Pear, Coconut & Blackberry Cake | Nutty\'s Kitchen';
+Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake, the coconut adds flavour and texture to the sponge and also keeps it really moist = 'Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake, the coconut adds flavour and texture to the sponge and also keeps it really moist';
+Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake = 'Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake';
+https://www.nuttyskitchen.co.uk/images/pear-coconut-blackberry-cake/650x366/pear-coconut-blackberry-cake-sliced-01.webp = 'https://www.nuttyskitchen.co.uk/images/pear-coconut-blackberry-cake/650x366/pear-coconut-blackberry-cake-sliced-01.webp';
+https://www.nuttyskitchen.co.uk/pear-coconut-blackberry-cake.html = 'https://www.nuttyskitchen.co.uk/pear-coconut-blackberry-cake.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/b-berry-pear.svg");
+
+        /* set the background size */
+        --bg-size: 96px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/b-berry-pear.svg");
+
+        /* set the background size */
+        --bg-size: 96px;
+
+        /* set the start of the 2nd colour of the gradient */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== pearalmondtart.controller.php ======
+Pear & Almond Tart = 'Pear & Almond Tart';
+A no-flour pudding, simply divine!  It made me smile when it came out of the oven and grin from ear to ear when I tasted it = 'A no-flour pudding, simply divine!  It made me smile when it came out of the oven and grin from ear to ear when I tasted it';
+Pear & Almond Tart. A no-flour pudding, simply divine! = 'Pear & Almond Tart. A no-flour pudding, simply divine!';
+https://www.nuttyskitchen.co.uk/images/pearalmondtart/650x366/pear-almond-tart-cooling.jpg = 'https://www.nuttyskitchen.co.uk/images/pearalmondtart/650x366/pear-almond-tart-cooling.jpg';
+https://www.nuttyskitchen.co.uk/pearalmondtart.html = 'https://www.nuttyskitchen.co.uk/pearalmondtart.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== peri-peri-pork-steaks.controller.php ======
+Peri Peri Pork Steaks | Nutty's Kitchen = 'Peri Peri Pork Steaks | Nutty\'s Kitchen';
+Peri Peri Pork Steaks are so easy to make. This recipe is always a winner as it's bouncing with flavour and very few ingredients are required - cooks in 4 minutes = 'Peri Peri Pork Steaks are so easy to make. This recipe is always a winner as it\'s bouncing with flavour and very few ingredients are required - cooks in 4 minutes';
+Peri Peri Pork Steaks bouncing with the flavour of summer = 'Peri Peri Pork Steaks bouncing with the flavour of summer';
+https://www.nuttyskitchen.co.uk/images/peri-peri-pork-steaks/650x366/peri-peri-pork-steak-dinner.webp = 'https://www.nuttyskitchen.co.uk/images/peri-peri-pork-steaks/650x366/peri-peri-pork-steak-dinner.webp';
+https://www.nuttyskitchen.co.uk/peri-peri-pork-steaks.html = 'https://www.nuttyskitchen.co.uk/peri-peri-pork-steaks.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== pineapplepudding.controller.php ======
+Pineapple Pudding = 'Pineapple Pudding';
+This one's dead easy, really quick to put together, and just delicious served hot with custard, or cold out of the fridge, so I'm told by the fridge raiders! = 'This one\'s dead easy, really quick to put together, and just delicious served hot with custard, or cold out of the fridge, so I\'m told by the fridge raiders!';
+Upside-Down Pineapple Pudding. This one's dead easy, really quick to put together = 'Upside-Down Pineapple Pudding. This one\'s dead easy, really quick to put together';
+https://www.nuttyskitchen.co.uk/images/pineapplepud/650x366/pineapple-cake-on-plate.jpg = 'https://www.nuttyskitchen.co.uk/images/pineapplepud/650x366/pineapple-cake-on-plate.jpg';
+https://www.nuttyskitchen.co.uk/pineapplepudding.html = 'https://www.nuttyskitchen.co.uk/pineapplepudding.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== pork-blackbean-sauce-and-peppers.controller.php ======
+Pork in Blackbean Sauce with Peppers | Nutty's Kitchen = 'Pork in Blackbean Sauce with Peppers | Nutty\'s Kitchen';
+Shoulder of pork joint leftovers - today I'm going to knock up one of my favourites: Pork in Blackbean Sauce with Peppers, roast pork works really well I promise = 'Shoulder of pork joint leftovers - today I\'m going to knock up one of my favourites: Pork in Blackbean Sauce with Peppers, roast pork works really well I promise';
+Shoulder of pork joint leftovers - Pork in Blackbean Sauce with Peppers = 'Shoulder of pork joint leftovers - Pork in Blackbean Sauce with Peppers';
+https://www.nuttyskitchen.co.uk/images/pork-blackbean-peppers/650x366/pork-in-blackbean-sauce-with-noodles.webp = 'https://www.nuttyskitchen.co.uk/images/pork-blackbean-peppers/650x366/pork-in-blackbean-sauce-with-noodles.webp';
+https://www.nuttyskitchen.co.uk/pork-blackbean-sauce-and-peppers.html = 'https://www.nuttyskitchen.co.uk/pork-blackbean-sauce-and-peppers.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== pork-chilli.controller.php ======
+Pork Chilli | Nutty's Kitchen = 'Pork Chilli | Nutty\'s Kitchen';
+here's a little twist on a your usual chilli con carne — Pork Chilli using pork shoulder steaks to add an extra layer of texture to a dish normally made with minced meat = 'here\'s a little twist on a your usual chilli con carne — Pork Chilli using pork shoulder steaks to add an extra layer of texture to a dish normally made with minced meat';
+Pork Chilli using pork shoulder steaks = 'Pork Chilli using pork shoulder steaks';
+https://www.nuttyskitchen.co.uk/images/pork-chilli/650x366/pork-chilli-served.webp = 'https://www.nuttyskitchen.co.uk/images/pork-chilli/650x366/pork-chilli-served.webp';
+https://www.nuttyskitchen.co.uk/pork-chilli.html = 'https://www.nuttyskitchen.co.uk/pork-chilli.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== pork-fried-rice.controller.php ======
+Pork Fried Rice | Nutty's Kitchen = 'Pork Fried Rice | Nutty\'s Kitchen';
+what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet? If you're not, well, your missing out on the point - 1 joint = 9 meals = 'what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet? If you\'re not, well, your missing out on the point - 1 joint = 9 meals';
+what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet? = 'what an amazing side Pork Fried Rice is to go with chilli chicken or sweet & sour, excited yet?';
+https://www.nuttyskitchen.co.uk/images/pork-fried-rice/650x366/pork-fried-rice.webp = 'https://www.nuttyskitchen.co.uk/images/pork-fried-rice/650x366/pork-fried-rice.webp';
+https://www.nuttyskitchen.co.uk/pork-fried-rice.html = 'https://www.nuttyskitchen.co.uk/pork-fried-rice.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== pork-madras.controller.php ======
+Pork Madras = 'Pork Madras';
+This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings from star anis, cardamon, cloves and black peppercorns = 'This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings from star anis, cardamon, cloves and black peppercorns';
+This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings = 'This Pork Madras is peppery tart from tamarind and spices and full of aromatic flavourings';
+https://www.nuttyskitchen.co.uk/images/pork-madras/650x366/pork-madras-and-basmati-rice-2.webp = 'https://www.nuttyskitchen.co.uk/images/pork-madras/650x366/pork-madras-and-basmati-rice-2.webp';
+https://www.nuttyskitchen.co.uk/pork-madras.html = 'https://www.nuttyskitchen.co.uk/pork-madras.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== pork-vindaloo.controller.php ======
+Pork vindaloo | Nutty's Kitchen = 'Pork vindaloo | Nutty\'s Kitchen';
+Nutty's Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry with a real depth of flavour. Even with many ingredients, Pork Vindaloo is easy to make = 'Nutty\'s Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry with a real depth of flavour. Even with many ingredients, Pork Vindaloo is easy to make';
+Nutty's Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry = 'Nutty\'s Kitchen gives you Pork Vindaloo Curry, a richly spiced & fiery curry';
+https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp = 'https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp';
+https://www.nuttyskitchen.co.uk/pork-vindaloo.html = 'https://www.nuttyskitchen.co.uk/pork-vindaloo.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== porksupreme.controller.php ======
+Pork in Creamy Black Pepper Sauce | Nutty's Kitchen = 'Pork in Creamy Black Pepper Sauce | Nutty\'s Kitchen';
+Just taste this and come back to me when you've finished. You will not be disappointed! It's an outstanding, rich, creamy peppery sauce... = 'Just taste this and come back to me when you\'ve finished. You will not be disappointed! It\'s an outstanding, rich, creamy peppery sauce...';
+Just taste this and come back to me when you've finished. You will not be disappointed! = 'Just taste this and come back to me when you\'ve finished. You will not be disappointed!';
+https://www.nuttyskitchen.co.uk/images/porksupreme/650x366/pork-in-creamy-pepper-sauce.jpg = 'https://www.nuttyskitchen.co.uk/images/porksupreme/650x366/pork-in-creamy-pepper-sauce.jpg';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== quiche-lorraine.controller.php ======
+Quiche Lorraine | Nutty's Kitchen = 'Quiche Lorraine | Nutty\'s Kitchen';
+Now, as you know, we love a pie here @ Nutty's! Savoury or sweet, it's a lovely thing, so I thought I would share the Ultimate Quiche Lorraine recipe. I made a huge one! = 'Now, as you know, we love a pie here @ Nutty\'s! Savoury or sweet, it\'s a lovely thing, so I thought I would share the Ultimate Quiche Lorraine recipe. I made a huge one!';
+I thought I would share the Ultimate Quiche Lorraine recipe with you = 'I thought I would share the Ultimate Quiche Lorraine recipe with you';
+https://www.nuttyskitchen.co.uk/images/quiche-lorraine/650x366/quiche-lorraine-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/quiche-lorraine/650x366/quiche-lorraine-cooked.webp';
+https://www.nuttyskitchen.co.uk/quiche-lorraine.html = 'https://www.nuttyskitchen.co.uk/quiche-lorraine.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== roast-pork-stroganoff.controller.php ======
+Roast Pork Stroganoff | Nutty's Kitchen = 'Roast Pork Stroganoff | Nutty\'s Kitchen';
+Nutty's Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream. Really easy to make and fast with leftover roast pork = 'Nutty\'s Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream. Really easy to make and fast with leftover roast pork';
+Nutty's Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream = 'Nutty\'s Kitchen Roast Pork Stroganoff is a mixture of mushrooms, onions, garlic, tomatoes, paprika and cream';
+https://www.nuttyskitchen.co.uk/images/roast-pork-stroganoff/650x366/pork-stroganoff-served.webp = 'https://www.nuttyskitchen.co.uk/images/roast-pork-stroganoff/650x366/pork-stroganoff-served.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== roastporkvindaloo.controller.php ======
+Roast Pork Vindalloo Curry | Nutty's Kitchen = 'Roast Pork Vindalloo Curry | Nutty\'s Kitchen';
+roast pork vindaloo, a heavily spiced, very simple curry, flavour packed and delicious taste, the same base for Roast Chicken vindaloo = 'roast pork vindaloo, a heavily spiced, very simple curry, flavour packed and delicious taste, the same base for Roast Chicken vindaloo';
+Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce = 'Cauliflower Curry, a delicate, not too spicy curry in a creamy coconut sauce';
+https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp = 'https://www.nuttyskitchen.co.uk/images/porkvindaloo/650x366/vindaloo-rice-plated.webp';
+https://www.nuttyskitchen.co.uk/roastporkvindaloo.html = 'https://www.nuttyskitchen.co.uk/roastporkvindaloo.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== rogan-josh-beef-curry.controller.php ======
+Rogan Josh Beef Curry | A Nutty's Kitchen Recipe = 'Rogan Josh Beef Curry | A Nutty\'s Kitchen Recipe';
+My Rogan Josh Beef Curry recipe also includes the spice paste recipe. It really is quite simple to make and as a bonus you will have enough paste for several curries = 'My Rogan Josh Beef Curry recipe also includes the spice paste recipe. It really is quite simple to make and as a bonus you will have enough paste for several curries';
+Rogan Josh Beef Curry = 'Rogan Josh Beef Curry';
+https://www.nuttyskitchen.co.uk/images/rogan-josh/650x366/rogan-josh-plated.webp = 'https://www.nuttyskitchen.co.uk/images/rogan-josh/650x366/rogan-josh-plated.webp';
+https://www.nuttyskitchen.co.uk/rogan-josh-beef-curry.html = 'https://www.nuttyskitchen.co.uk/rogan-josh-beef-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 30%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 30%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== rogan-josh-pork-curry.controller.php ======
+Rogan Josh Pork Curry | Nutty's Kitchen = 'Rogan Josh Pork Curry | Nutty\'s Kitchen';
+My Rogan Josh Pork Curry recipe includes the method to make the curry paste too, but, do not be daunted! It really is quite simple to make your own curry paste. = 'My Rogan Josh Pork Curry recipe includes the method to make the curry paste too, but, do not be daunted! It really is quite simple to make your own curry paste.';
+Rogan Josh Pork Curry: I am using pork, but you could easily substitute for lamb. = 'Rogan Josh Pork Curry: I am using pork, but you could easily substitute for lamb.';
+https://www.nuttyskitchen.co.uk/images/rogan-josh-pork-curry/650x366/rogan-josh-pork-curry-in-dish-02.webp = 'https://www.nuttyskitchen.co.uk/images/rogan-josh-pork-curry/650x366/rogan-josh-pork-curry-in-dish-02.webp';
+https://www.nuttyskitchen.co.uk/rogan-josh-pork-curry.html = 'https://www.nuttyskitchen.co.uk/rogan-josh-pork-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== saffron-and-cardamom-rice.controller.php ======
+Saffron and Cardamom Rice | Nutty's Kitchen = 'Saffron and Cardamom Rice | Nutty\'s Kitchen';
+I don't make this Saffron and Cardamom Rice recipe too often. However, I bought 1g of it a little while back and I wanted something a little special for a fish dish = 'I don\'t make this Saffron and Cardamom Rice recipe too often. However, I bought 1g of it a little while back and I wanted something a little special for a fish dish';
+I don't make this Saffron and Cardamom Rice recipe too often, Its delicate flavours are just delightful = 'I don\'t make this Saffron and Cardamom Rice recipe too often, Its delicate flavours are just delightful';
+https://www.nuttyskitchen.co.uk/images/saffron-and-cardamom-rice/650x366/saffron-and-cardamom-rice.webp = 'https://www.nuttyskitchen.co.uk/images/saffron-and-cardamom-rice/650x366/saffron-and-cardamom-rice.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 45%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== sambar.controller.php ======
+Sambar - South Indian Lentils & Vegetables | Nutty's Kitchen = 'Sambar - South Indian Lentils & Vegetables | Nutty\'s Kitchen';
+Sambar — South Indian Lentils and Vegetables This is a truly delicious vegetable heavy dish. Kind of a soup but oh so much more, tamarind brings a tart sweet note... = 'Sambar — South Indian Lentils and Vegetables This is a truly delicious vegetable heavy dish. Kind of a soup but oh so much more, tamarind brings a tart sweet note...';
+Sambar — South Indian Lentils & Vegetables This is a truly delicious vegetable heavy dish = 'Sambar — South Indian Lentils & Vegetables This is a truly delicious vegetable heavy dish';
+https://www.nuttyskitchen.co.uk/images/sambar/1208x680/sambar-with-naan-on-the-side.webp = 'https://www.nuttyskitchen.co.uk/images/sambar/1208x680/sambar-with-naan-on-the-side.webp';
+https://www.nuttyskitchen.co.uk/sambar.html = 'https://www.nuttyskitchen.co.uk/sambar.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== sausage-pasta-sauce.controller.php ======
+Sausage Pasta Sauce | Nutty's Kitchen = 'Sausage Pasta Sauce | Nutty\'s Kitchen';
+We've been choppin' sausages for my light and refreshing Sausage Pasta Sauce which is a bolognaise style dish loaded with vegetables but much lighter and refreshing... = 'We\'ve been choppin\' sausages for my light and refreshing Sausage Pasta Sauce which is a bolognaise style dish loaded with vegetables but much lighter and refreshing...';
+We've been choppin' sausages for my light and refreshing Sausage Pasta Sauce = 'We\'ve been choppin\' sausages for my light and refreshing Sausage Pasta Sauce';
+https://www.nuttyskitchen.co.uk/images/sausage-pasta-sauce/650x366/sausage-pasta-sauce-and-fusilli.webp = 'https://www.nuttyskitchen.co.uk/images/sausage-pasta-sauce/650x366/sausage-pasta-sauce-and-fusilli.webp';
+https://www.nuttyskitchen.co.uk/sausage-pasta-sauce.html = 'https://www.nuttyskitchen.co.uk/sausage-pasta-sauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sausage-roll-and-caramalised-onion.controller.php ======
+Sausage Roll & Caramalised Onion | Nutty's Kitchen = 'Sausage Roll & Caramalised Onion | Nutty\'s Kitchen';
+Christmas is nearly upon us so what better than making your own Sausage Roll & Caramalised Onion log. Yes I do mean a LOG, one big humongous sausage roll! = 'Christmas is nearly upon us so what better than making your own Sausage Roll & Caramalised Onion log. Yes I do mean a LOG, one big humongous sausage roll!';
+When is a sausage roll, not a sausage roll? When its Nutty's huge Sausage Roll & Caramalised Onion log! This cook's nuts!...say's the editor!  = 'When is a sausage roll, not a sausage roll? When its Nutty\'s huge Sausage Roll & Caramalised Onion log! This cook\'s nuts!...say\'s the editor!';
+https://www.nuttyskitchen.co.uk/images/sausage-roll-and-caramalised-onion/650x366/sausage-roll-sliced.webp = 'https://www.nuttyskitchen.co.uk/images/sausage-roll-and-caramalised-onion/650x366/sausage-roll-sliced.webp';
+https://www.nuttyskitchen.co.uk/sausage-roll-and-caramalised-onion.html = 'https://www.nuttyskitchen.co.uk/sausage-roll-and-caramalised-onion.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== sausagecasserole.controller.php ======
+Sausage & Bean Casserole | Nutty's Kitchen = 'Sausage & Bean Casserole | Nutty\'s Kitchen';
+Love sausage & baked beans? Trust me, you're gonna love this one! It's a warming home-style casserole with loads of sauce. = 'Love sausage & baked beans? Trust me, you\'re gonna love this one! It\'s a warming home-style casserole with loads of sauce.';
+Love sausage & baked beans? Trust me, you're gonna love this one! = 'Love sausage & baked beans? Trust me, you\'re gonna love this one!';
+https://www.nuttyskitchen.co.uk/images/sausagecasserole/650x366/sausagecasserole.jpg = 'https://www.nuttyskitchen.co.uk/images/sausagecasserole/650x366/sausagecasserole.jpg';
+https://www.nuttyskitchen.co.uk/sausagecasserole.html = 'https://www.nuttyskitchen.co.uk/sausagecasserole.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sausageonionpie.controller.php ======
+Mum's Sausage & Onion Pie = 'Mum\'s Sausage & Onion Pie';
+You know those pork pies you can get for about £3.50? Well, this is about four times the size encased in melt in the mouth short crust pastry. = 'You know those pork pies you can get for about £3.50? Well, this is about four times the size encased in melt in the mouth short crust pastry.';
+You know those pork pies you can get for about £3.50? Well, this is about four times the size = 'You know those pork pies you can get for about £3.50? Well, this is about four times the size';
+https://www.nuttyskitchen.co.uk/images/sausageonionpie/650x366/half-pie-3plates-02.jpg = 'https://www.nuttyskitchen.co.uk/images/sausageonionpie/650x366/half-pie-3plates-02.jpg';
+https://www.nuttyskitchen.co.uk/sausageonionpie.html = 'https://www.nuttyskitchen.co.uk/sausageonionpie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sausagepasta.controller.php ======
+Sausage & Penne Pasta = 'Sausage & Penne Pasta';
+Make another crowd pleaser using our humble ingredient the sausage! I like the sauce to be the star of the dish, with the pasta adding a beautiful silky texture = 'Make another crowd pleaser using our humble ingredient the sausage! I like the sauce to be the star of the dish, with the pasta adding a beautiful silky texture';
+Make another crowd pleaser using our humble ingredient the sausage! = 'Make another crowd pleaser using our humble ingredient the sausage!';
+https://www.nuttyskitchen.co.uk/images/sausagepasta/650x366/16-add-marjoram-leaves.jpg = 'https://www.nuttyskitchen.co.uk/images/sausagepasta/650x366/16-add-marjoram-leaves.jpg';
+https://www.nuttyskitchen.co.uk/sausagepasta.html = 'https://www.nuttyskitchen.co.uk/sausagepasta.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sausagepepperpie.controller.php ======
+Sausage & Mash Pie | Nutyy's Kitchen = 'Sausage & Mash Pie | Nutyy\'s Kitchen';
+A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage, onions & bell peppers, it's similar to my sausage & pepper casserole = 'A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage, onions & bell peppers, it\'s similar to my sausage & pepper casserole';
+A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage = 'A beautifully savoury mash covered family pleaser in a lovely rich sauce with sausage';
+https://www.nuttyskitchen.co.uk/images/sausagepepperpie/650x366/sausagepeppermashpie-01.webp = 'https://www.nuttyskitchen.co.uk/images/sausagepepperpie/650x366/sausagepeppermashpie-01.webp';
+https://www.nuttyskitchen.co.uk/sausagepepperpie.html = 'https://www.nuttyskitchen.co.uk/sausagepepperpie.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== savoury-mince-and-mash.controller.php ======
+Savoury Mince and Mash | Nutty's Kitchen = 'Savoury Mince and Mash | Nutty\'s Kitchen';
+Now my Savory Mince and Mash recipe is so easy to make in a rush, and is exactly what you need as the nights are long or you just want a deliciously tasty, comforting dish = 'Now my Savory Mince and Mash recipe is so easy to make in a rush, and is exactly what you need as the nights are long or you just want a deliciously tasty, comforting dish';
+Savory Mince and Mash is so easy to make and is exactly what you need as a comforting dish = 'Savory Mince and Mash is so easy to make and is exactly what you need as a comforting dish';
+https://www.nuttyskitchen.co.uk/images/savoury-mince-and-mash/650x366/savoury-mince-and-mash-plated.webp = 'https://www.nuttyskitchen.co.uk/images/savoury-mince-and-mash/650x366/savoury-mince-and-mash-plated.webp';
+https://www.nuttyskitchen.co.uk/savoury-mince-and-mash.html = 'https://www.nuttyskitchen.co.uk/savoury-mince-and-mash.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 25%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== smoked-haddock-bacon-bake.controller.php ======
+Smoked Haddock Bacon Bake | Nutty's Kitchen = 'Smoked Haddock Bacon Bake | Nutty\'s Kitchen';
+ = '';
+Smoked Haddock Bacon Bake Recipe = 'Smoked Haddock Bacon Bake Recipe';
+https://www.nuttyskitchen.co.uk/images/smoked-haddock-bacon-bake/650x366/smoked-haddock-bacon-bake-cooked.webp = 'https://www.nuttyskitchen.co.uk/images/smoked-haddock-bacon-bake/650x366/smoked-haddock-bacon-bake-cooked.webp';
+https://www.nuttyskitchen.co.uk/smoked-haddock-bacon-bake.html = 'https://www.nuttyskitchen.co.uk/smoked-haddock-bacon-bake.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== smoked-haddock-in-cheese-sauce.controller.php ======
+Smoked Haddock in Cheese Sauce | Nutty's Kitchen = 'Smoked Haddock in Cheese Sauce | Nutty\'s Kitchen';
+Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese. Do not be tempted to just use your strong cheddar, as it will be too salty and overpower the fish = 'Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese. Do not be tempted to just use your strong cheddar, as it will be too salty and overpower the fish';
+Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese = 'Smoked Haddock In Cheese Sauce is a rich dish full of butter & cheese';
+https://www.nuttyskitchen.co.uk/images/smoked-haddock-in-cheese-sauce/650x366/smoked-haddock-in-cheese-sauce-plated.webp = 'https://www.nuttyskitchen.co.uk/images/smoked-haddock-in-cheese-sauce/650x366/smoked-haddock-in-cheese-sauce-plated.webp';
+https://www.nuttyskitchen.co.uk/smoked-haddock-in-cheese-sauce.html = 'https://www.nuttyskitchen.co.uk/smoked-haddock-in-cheese-sauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== special-fried-rice.controller.php ======
+A Recipe | Nutty's Kitchen = 'A Recipe | Nutty\'s Kitchen';
+ = '';
+Short description here please! = 'Short description here please!';
+https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== spice-up-your-life.controller.php ======
+Spice Up Your Life! | Nutty's Kitchen = 'Spice Up Your Life! | Nutty\'s Kitchen';
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran = 'Nutty\'s kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran';
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran = 'Nutty\'s kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran';
+https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp = 'https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp';
+https://www.nuttyskitchen.co.uk/spice-up-your-life.html = 'https://www.nuttyskitchen.co.uk/spice-up-your-life.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== spicy-baked-beans-and-peppers.controller.php ======
+Spicy Baked Beans and Peppers | Nutty's Kitchen = 'Spicy Baked Beans and Peppers | Nutty\'s Kitchen';
+Spicy Baked Beans & Peppers! This is something my mother used to put together for barbecues & parties. I've altered it slightly as were not keen on barbecue style sauces! = 'Spicy Baked Beans & Peppers! This is something my mother used to put together for barbecues & parties. I\'ve altered it slightly as were not keen on barbecue style sauces!';
+Spicy Baked Beans and Peppers Recipe = 'Spicy Baked Beans and Peppers Recipe';
+https://www.nuttyskitchen.co.uk/images/spicy-baked-beans-and-peppers/650x366/spicy-baked-beans-and-peppers.webp = 'https://www.nuttyskitchen.co.uk/images/spicy-baked-beans-and-peppers/650x366/spicy-baked-beans-and-peppers.webp';
+https://www.nuttyskitchen.co.uk/spicy-baked-beans-and-peppers.html = 'https://www.nuttyskitchen.co.uk/spicy-baked-beans-and-peppers.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== spicy-balti-potatoes.controller.php ======
+spicy balti potatoes | Nutty's Kitchen = 'spicy balti potatoes | Nutty\'s Kitchen';
+Looking for a side dish that brings big flavour to humble new potatoes? Well, look no further... Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious. = 'Looking for a side dish that brings big flavour to humble new potatoes? Well, look no further... Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious.';
+Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious = 'Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious';
+https://www.nuttyskitchen.co.uk/images/spicy-balti-potatoes/650x366/spicy-balti-potatoes.webp = 'https://www.nuttyskitchen.co.uk/images/spicy-balti-potatoes/650x366/spicy-balti-potatoes.webp';
+https://www.nuttyskitchen.co.uk/spicy-balti-potatoes.html = 'https://www.nuttyskitchen.co.uk/spicy-balti-potatoes.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== spicy-masala-chicken.controller.php ======
+Spicy Masala chicken | Nuttys kitchen = 'Spicy Masala chicken | Nuttys kitchen';
+Spicy Masala Chicken is perfect for when you crave something like tandoori chicken, but do not have the patience to wait overnight for it to marinade. Super quick to make = 'Spicy Masala Chicken is perfect for when you crave something like tandoori chicken, but do not have the patience to wait overnight for it to marinade. Super quick to make';
+Spicy Masala Chicken is perfect for when you crave something like tandoori chicken = 'Spicy Masala Chicken is perfect for when you crave something like tandoori chicken';
+https://www.nuttyskitchen.co.uk/images/spicy-masala-chicken/650x366/spicy-masala-chicken-tarka-dhal-naan-02.webp = 'https://www.nuttyskitchen.co.uk/images/spicy-masala-chicken/650x366/spicy-masala-chicken-tarka-dhal-naan-02.webp';
+https://www.nuttyskitchen.co.uk/spicy-masala-chicken.html = 'https://www.nuttyskitchen.co.uk/spicy-masala-chicken.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== spicy-potato-wedges.controller.php ======
+Spicy Potato Wedges | Nutty's Kitchen = 'Spicy Potato Wedges | Nutty\'s Kitchen';
+Here's a side with a bit of a kick: Spicy Potato Wedges when you fancy something a little different from fries or chips. They are so simple to make, why buy them ready made? = 'Here\'s a side with a bit of a kick: Spicy Potato Wedges when you fancy something a little different from fries or chips. They are so simple to make, why buy them ready made?';
+Here's a side with a bit of a kick: Spicy Potato Wedges = 'Here\'s a side with a bit of a kick: Spicy Potato Wedges';
+https://www.nuttyskitchen.co.uk/images/spicy-potato-wedges/650x366/spicy-potato-wedges.webp = 'https://www.nuttyskitchen.co.uk/images/spicy-potato-wedges/650x366/spicy-potato-wedges.webp';
+https://www.nuttyskitchen.co.uk/spicy-potato-wedges.html = 'https://www.nuttyskitchen.co.uk/spicy-potato-wedges.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 40%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== spring-onion-chicken.controller.php ======
+Spring Onion Chicken | Nutty's Kitchen = 'Spring Onion Chicken | Nutty\'s Kitchen';
+Spring Onion Chicken should take you about 20 minutes to cook. I am using thighs as they are so flavoursome. This is so easy I'm almost embarrassed to share it with you! = 'Spring Onion Chicken should take you about 20 minutes to cook. I am using thighs as they are so flavoursome. This is so easy I\'m almost embarrassed to share it with you!';
+This is so easy I'm almost embarrassed to share it with you! = 'This is so easy I\'m almost embarrassed to share it with you!';
+https://www.nuttyskitchen.co.uk/images/spring-onion-chicken/650x366/spring-onion-chicken-with-noodles-in-dish.webp = 'https://www.nuttyskitchen.co.uk/images/spring-onion-chicken/650x366/spring-onion-chicken-with-noodles-in-dish.webp';
+https://www.nuttyskitchen.co.uk/spring-onion-chicken.html = 'https://www.nuttyskitchen.co.uk/spring-onion-chicken.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== steak-and-ale-pie.controller.php ======
+Steak and Ale Pie | Nutty's Kitchen = 'Steak and Ale Pie | Nutty\'s Kitchen';
+Steak and Ale pie. This classic dish features a rich, hearty stew topped with a golden puff pastry lid. While traditional recipes often include a pastry base this version... = 'Steak and Ale pie. This classic dish features a rich, hearty stew topped with a golden puff pastry lid. While traditional recipes often include a pastry base this version...';
+Steak and Ale pie. This is a rich deep stew with a puff pastry lid = 'Steak and Ale pie. This is a rich deep stew with a puff pastry lid';
+https://www.nuttyskitchen.co.uk/images/steak-and-ale-pie/650x366/steak-and-ale-pie-with-veg-on-a-plate-02.webp = 'https://www.nuttyskitchen.co.uk/images/steak-and-ale-pie/650x366/steak-and-ale-pie-with-veg-on-a-plate-02.webp';
+https://www.nuttyskitchen.co.uk/steak-and-ale-pie.html = 'https://www.nuttyskitchen.co.uk/steak-and-ale-pie.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== steamed-sponge-pudding.controller.php ======
+Steamed Sponge Pudding | Nutty's Kitchen = 'Steamed Sponge Pudding | Nutty\'s Kitchen';
+A very old fashioned Steamed Sponge Pudding that is so easy to knock together. Served with fresh custard it is a delight in the late afternoon as a family treat = 'A very old fashioned Steamed Sponge Pudding that is so easy to knock together. Served with fresh custard it is a delight in the late afternoon as a family treat';
+A very old fashioned Steamed Sponge Pudding that is so easy to knock together = 'A very old fashioned Steamed Sponge Pudding that is so easy to knock together';
+https://www.nuttyskitchen.co.uk/images/steamed-sponge-pudding/650x366/a-slice-of-steamed-pudding-and-custard.webp = 'https://www.nuttyskitchen.co.uk/images/steamed-sponge-pudding/650x366/a-slice-of-steamed-pudding-and-custard.webp';
+https://www.nuttyskitchen.co.uk/steamed-sponge-pudding.html = 'https://www.nuttyskitchen.co.uk/steamed-sponge-pudding.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sweet-and-sour-pork.controller.php ======
+Sweet & Sour Pork = 'Sweet & Sour Pork';
+Nutty prepares sweet and sour pork using fresh shoulder of pork. What's not to love? Take away versions are great but this sweet and sour pork is excellent! = 'Nutty prepares sweet and sour pork using fresh shoulder of pork. What\'s not to love? Take away versions are great but this sweet and sour pork is excellent!';
+Nutty prepares sweet and sour pork using fresh shoulder of pork. What's not to love? = 'Nutty prepares sweet and sour pork using fresh shoulder of pork. What\'s not to love?';
+https://www.nuttyskitchen.co.uk/images/sweet-sour-pork-fresh/650x366/sweet-and-sour-pork-noodles-3.webp = 'https://www.nuttyskitchen.co.uk/images/sweet-sour-pork-fresh/650x366/sweet-and-sour-pork-noodles-3.webp';
+https://www.nuttyskitchen.co.uk/sweet-and-sour-pork.html = 'https://www.nuttyskitchen.co.uk/sweet-and-sour-pork.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== sweet-and-sour-roast-chicken.controller.php ======
+Sweet & Sour Roast Chicken | Nutty's Kitchen = 'Sweet & Sour Roast Chicken | Nutty\'s Kitchen';
+a recipe for sweet and sour chicken. air fryer used to cook the chicken, hob used to cook the sweet and sour sauce. I call it sweet and sour roast chicken! = 'a recipe for sweet and sour chicken. air fryer used to cook the chicken, hob used to cook the sweet and sour sauce. I call it sweet and sour roast chicken!';
+a recipe for sweet and sour chicken. air fryer used to cook the chicken = 'a recipe for sweet and sour chicken. air fryer used to cook the chicken';
+https://www.nuttyskitchen.co.uk/images/sweet-sour-roast-chicken/650x366/dinner-plated.webp = 'https://www.nuttyskitchen.co.uk/images/sweet-sour-roast-chicken/650x366/dinner-plated.webp';
+https://www.nuttyskitchen.co.uk/sweet-and-sour-roast-chicken.html = 'https://www.nuttyskitchen.co.uk/sweet-and-sour-roast-chicken.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== tandoori-chicken.controller.php ======
+Tandoori Chicken | Nutty's Kitchen = 'Tandoori Chicken | Nutty\'s Kitchen';
+Classic Tandoori Chicken This is easy to make trust me! But, you will need to marinate for 24 hours! So, if you're wanting this dish go shopping for chicken thighs now! = 'Classic Tandoori Chicken This is easy to make trust me! But, you will need to marinate for 24 hours! So, if you\'re wanting this dish go shopping for chicken thighs now!';
+Classic Tandoori Chicken This is easy to make trust me! = 'Classic Tandoori Chicken This is easy to make trust me!';
+https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp = 'https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp';
+https://www.nuttyskitchen.co.uk/tandoori-chicken.html = 'https://www.nuttyskitchen.co.uk/tandoori-chicken.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== tarka-dhal.controller.php ======
+Tarka Dhal = 'Tarka Dhal';
+Tarka Dhal is a Indian soup, but so much more & really simple to make. So much flavour for so little ingredients! I like Tarka Dhal for breakfast with a Naan but... = 'Tarka Dhal is a Indian soup, but so much more & really simple to make. So much flavour for so little ingredients! I like Tarka Dhal for breakfast with a Naan but...';
+Tarka Dhal is a Indian soup, but so much more & really simple to make. = 'Tarka Dhal is a Indian soup, but so much more & really simple to make.';
+https://www.nuttyskitchen.co.uk/images/tarka-dhal/650x366/tarka-dhal-finished.webp = 'https://www.nuttyskitchen.co.uk/images/tarka-dhal/650x366/tarka-dhal-finished.webp';
+https://www.nuttyskitchen.co.uk/tarka-dhal.html = 'https://www.nuttyskitchen.co.uk/tarka-dhal.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== template-bare.controller.php ======
+A Recipe | Nutty's Kitchen = 'A Recipe | Nutty\'s Kitchen';
+ = '';
+Short description here please! = 'Short description here please!';
+https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== tomato-chutney.controller.php ======
+Tomato Chutney | Nutty's Kitchen = 'Tomato Chutney | Nutty\'s Kitchen';
+I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion, but, believe me, it will go with anything made for a relish... = 'I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion, but, believe me, it will go with anything made for a relish...';
+I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion = 'I made this delicious Tomato Chutney especially as an accompaniment to my sausage roll & caramalised onion';
+https://www.nuttyskitchen.co.uk/images/tomato-chutney/650x366/tomato-chutney-in-jars-02.webp = 'https://www.nuttyskitchen.co.uk/images/tomato-chutney/650x366/tomato-chutney-in-jars-02.webp';
+https://www.nuttyskitchen.co.uk/tomato-chutney.html = 'https://www.nuttyskitchen.co.uk/tomato-chutney.html';
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      } = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== tomatomexicanrice.controller.php ======
+Tomato Mexican Rice | Nutty's Kitchen = 'Tomato Mexican Rice | Nutty\'s Kitchen';
+This is a lovely spicy rice dish, a wonderful flavoursome, spicy taste of Mexico for a really low cost. Excellent accompaniment to my Chicken Chilli Mexican = 'This is a lovely spicy rice dish, a wonderful flavoursome, spicy taste of Mexico for a really low cost. Excellent accompaniment to my Chicken Chilli Mexican';
+a wonderful flavoursome, spicy taste of Mexico for a really low cost = 'a wonderful flavoursome, spicy taste of Mexico for a really low cost';
+https://www.nuttyskitchen.co.uk/images/tomatomexicanrice/650x366/cooked-rice-in-pan.jpg = 'https://www.nuttyskitchen.co.uk/images/tomatomexicanrice/650x366/cooked-rice-in-pan.jpg';
+https://www.nuttyskitchen.co.uk/cauliflower-curry.html = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== upload-recipe-form.controller.php ======
+Upload Recipe Form | Nuttys Kitchen = 'Upload Recipe Form | Nuttys Kitchen';
+We're super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think = 'We\'re super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think';
+ = '';
+ = '';
+ = '';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== vegetarian-chilli.controller.php ======
+Vegetarian Chilli | Nutty's Kitchen = 'Vegetarian Chilli | Nutty\'s Kitchen';
+I saw a butternut squash in the shops and thought hmmm!? Vegetarian Chilli! Of course that will work so, add in some courgettes ect... especially bought Chipotle chillies = 'I saw a butternut squash in the shops and thought hmmm!? Vegetarian Chilli! Of course that will work so, add in some courgettes ect... especially bought Chipotle chillies';
+Vegetarian Chilli! Of course that will work so, add in some courgettes ect... = 'Vegetarian Chilli! Of course that will work so, add in some courgettes ect...';
+https://www.nuttyskitchen.co.uk/images/vegetarian-chilli/650x366/vegetarian-chilli-02.webp = 'https://www.nuttyskitchen.co.uk/images/vegetarian-chilli/650x366/vegetarian-chilli-02.webp';
+https://www.nuttyskitchen.co.uk/vegetarian-chilli.html = 'https://www.nuttyskitchen.co.uk/vegetarian-chilli.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== victoria-sponge-cake.controller.php ======
+Victoria Sponge Cake | Nutty's Kitchen = 'Victoria Sponge Cake | Nutty\'s Kitchen';
+The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but a room filled with the aroma of cake mix is one of my fondest childhood memories = 'The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but a room filled with the aroma of cake mix is one of my fondest childhood memories';
+The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but = 'The much loved Victoria Sponge Cake. Shop brought cakes are great time savers, but';
+https://www.nuttyskitchen.co.uk/images/victoria-sponge-cake/650x366/victoria-sponge-cake-2.webp = 'https://www.nuttyskitchen.co.uk/images/victoria-sponge-cake/650x366/victoria-sponge-cake-2.webp';
+https://www.nuttyskitchen.co.uk/victoria-sponge-cake.html = 'https://www.nuttyskitchen.co.uk/victoria-sponge-cake.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== whitesauce.controller.php ======
+White Sauce | Nutty's kitchen = 'White Sauce | Nutty\'s kitchen';
+Béchamel sauce is one of the 'mother sauces' of French cuisine. You can add ingredients such as cheese, onion, parsley, watercress, quick and easy to make. = 'Béchamel sauce is one of the \'mother sauces\' of French cuisine. You can add ingredients such as cheese, onion, parsley, watercress, quick and easy to make.';
+Béchamel sauce is one of the 'mother sauces' of French cuisine = 'Béchamel sauce is one of the \'mother sauces\' of French cuisine';
+https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/white-sauce.jpg = 'https://www.nuttyskitchen.co.uk/images/caulifrankcheese/650x366/white-sauce.jpg';
+https://www.nuttyskitchen.co.uk/whitesauce.html = 'https://www.nuttyskitchen.co.uk/whitesauce.html';
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+

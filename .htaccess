@@ -1,7 +1,11 @@
 php_value date.timezone Europe/London
-php_value display_errors On
+php_value display_errors Off
 
 RewriteEngine On
+
+# Redirect all HTTP requests to HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Allow direct access to specific file types in /public
 RewriteCond %{REQUEST_URI} ^/(robots\.txt|google66a73f74d88ed190\.html)$
