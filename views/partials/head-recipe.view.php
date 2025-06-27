@@ -25,7 +25,7 @@
     <title><?=htmlspecialchars($pageTitle)?></title>
 
     <!--set the image that shows in the browser tabs -->
-    <link rel="icon" href="favicon.svg" />
+    <link rel="icon" href="/images/icons/favicon.svg" />
 
     <!-- tell google to use this page as the canonical page -->
     <link rel="canonical" href=<?=htmlspecialchars($canonical)?> />
