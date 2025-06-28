@@ -38,12 +38,12 @@
           </span>
 
           <span style="margin-left: 0.5em">
-            <a href="https://recipes.nuttyskitchen.co.uk/recipes" class="recipe-page-link underline-link"
+            <a href="/recipes/" class="recipe-page-link underline-link"
               data-fallback="https://www.nuttyskitchen.co.uk/recipepage.html"
               data-test-image="https://recipes.nuttyskitchen.co.uk/images/icons/blank.svg">
               Explore Nutty's Recipes</a>
             or
-            <a href="https://recipes.nuttyskitchen.co.uk/recipes" class="recipe-page-link underline-link"
+            <a href="/recipes" class="recipe-page-link underline-link"
               data-fallback="https://www.nuttyskitchen.co.uk/recipepage.html"
               data-test-image="https://recipes.nuttyskitchen.co.uk/images/icons/blank.svg">
               Click ‘Recipes’</a>
@@ -130,7 +130,7 @@
 
         <figure class="card_image">
           <figcaption>when time is of the essence</figcaption>
-          <a href="https://nuttyskitchen.co.uk/lamb-curry-with-spinach.html">
+          <a href="/recipes/lamb-curry-with-spinach">
             <img src="/images/lamb-curry-with-spinach/650x366/lamb-curry-with-spinach-rice-and-naan-2.webp"
               alt="lamb curry with spinach rice and naan 2" title="lamb curry with spinach rice and naan in a dish" />
           </a>
@@ -149,7 +149,7 @@
       <section id="latest" class="about-content-main">
         <div class="title-icon">
           <h2>Latest</h2>
-          <img width="32" height="44" src="./images/new.webp" alt="new icon" title="new" />
+          <img width="32" height="44" src="/images/new.webp" alt="new icon" title="new" />
         </div>
 
         <p>New Recipe!</p>
@@ -159,7 +159,7 @@
         </p>
         <p>
           I am so excited to give you my
-          <a class="underline" href="/curry-leaf-masala-chicken-fry.html"><strong>curry leaf masala chicken
+          <a class="underline" href="/recipes/curry-leaf-masala-chicken-fry"><strong>curry leaf masala chicken
               fry</strong></a>
           An absolutely outstanding Indian dish with rich earthy flavours and
           a distinct curry leaf aroma. This absolutely knocked our socks off.
@@ -172,7 +172,7 @@
 
         <figure class="card_image">
           <figcaption>an indulgently delicious</figcaption>
-          <a href="https://nuttyskitchen.co.uk/curry-leaf-masala-chicken-fry.html">
+          <a href="/recipes/curry-leaf-masala-chicken-fry">
             <img src="/images/curry-leaf-masala-chicken-fry/650x366/curry-leaf-masala-and-rice.webp"
               alt="curry leaf masala cooked in a wok" title="curry leaf masala chicken fry with basmati rice" />
           </a>
@@ -215,7 +215,7 @@
           eaten on a regular basis mind, as there are quite a few colories
           included, but it is oh! So umptious! I do hope you get chance to
           enjoy this one with a dinner guest or two. Head over to my
-          <a class="underline" href="https://www.nuttyskitchen.co.uk/butter-chicken.html" target="_blank"><strong>Butter
+          <a class="underline" href="/recipes/butter-chicken" target="_blank"><strong>Butter
               Chicken Recipe</strong></a>
           for the full method and ingredients.
         </p>
