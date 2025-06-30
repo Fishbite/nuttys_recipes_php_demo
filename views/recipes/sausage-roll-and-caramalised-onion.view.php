@@ -327,7 +327,7 @@
 
             <p>
               Here's my
-              <a href="tomato-chutney" target="_blank" class="underline"><strong>Tomato Chutney Recipe</strong></a>.
+              <a href="/recipes/tomato-chutney" target="_blank" class="underline"><strong>Tomato Chutney Recipe</strong></a>.
               This is really easy to make too. So, if you have a few guests
               to please, you can wow them all the way back from Gregg's&trade;
               LOL!

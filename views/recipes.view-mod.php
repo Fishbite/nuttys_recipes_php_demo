@@ -60,7 +60,7 @@
             Italian, Mexican, Chinese and Indian dishes that we hope will inspire
             you. We'll be testing, trialling and cooking lots more to share with you
             in the future. I hope you love what I have so far.
-        </p> -->
+        </p>
 
         <p style="line-height: 1.6; font-size: 1rem">
             <span style="display: inline-flex; align-items: center; gap: 0.4em">
@@ -84,7 +84,7 @@
             straight to the recipe
             page @ <a class="underline-link" href="https://nuttyskitchen.co.uk/">nuttyskitchen.co.uk</a></p>
 
-        <!-- <p>
+        <p>
             Drop me an email by clicking the
             <b><i>"mail me some love"</i></b> button below to let me know what you
             think - it would be fantastic to hear from you. Happy cooking!
@@ -92,41 +92,42 @@
         <p>
             Use the other buttons below to jump to a specific category such as
             chicken, puddings etc.
-        </p> -->
+        </p>
 
     </header>
 
-    <!-- <div class="cta list-btn" title="email me :¬)">
+    <div class="cta list-btn" title="email me :¬)">
         <a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">mail me some love<br />
             &#128522;</a>
     </div> -->
 
-    <!-- <?php //require __DIR__ . '/../views/partials/category-btns.view.php';?>
-    -->
+        <!-- <div id="target">Target</div> -->
 
-    <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
+        <?php require __DIR__ . '/../views/partials/category-btns.view.php'; ?>
 
-    <!-- Search Form -->
-    <form id="search-form" class="search-form" action="/recipes/" method="POST">
-        <label for="category">Category:</label>
-        <select id="category" name="category">
-            <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
-                Categories</option>
-            <?php foreach ($categories as $cat): ?>
-            <option value="<?= htmlspecialchars($cat); ?>" <?= $cat === $searchCategory ? 'selected' : ''; ?>>
-                <?= htmlspecialchars(ucfirst($cat)); ?>
-            </option>
-            <?php endforeach; ?>
-        </select>
-        <label for="search">Keyword:</label>
-        <input type="text" id="search" name="search" placeholder="Enter keyword..."
-            value="<?= htmlspecialchars($searchTerm); ?>">
-        <button type="submit">Search</button>
-    </form>
+        <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
 
-    <!-- Recipe Grid -->
-    <div class="recipe-grid">
-        <?php
+        <!-- Search Form -->
+        <form id="search-form" class="search-form" action="/recipes/" method="POST">
+            <label for="category">Category:</label>
+            <select id="category" name="category">
+                <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
+                    Categories</option>
+                <?php foreach ($categories as $cat): ?>
+                <option value="<?= htmlspecialchars($cat); ?>" <?= $cat === $searchCategory ? 'selected' : ''; ?>>
+                    <?= htmlspecialchars(ucfirst($cat)); ?>
+                </option>
+                <?php endforeach; ?>
+            </select>
+            <label for="search">Keyword:</label>
+            <input type="text" id="search" name="search" placeholder="Enter keyword..."
+                value="<?= htmlspecialchars($searchTerm); ?>">
+            <button type="submit">Search</button>
+        </form>
+
+        <!-- Recipe Grid -->
+        <div class="recipe-grid">
+            <?php
             if (!empty($groupedRecipes)) {
                 foreach ($groupedRecipes as $catName => $recipesArray) {
                     $description = $categoryDescriptions[$catName] ?? '';
@@ -136,11 +137,32 @@
                 echo "<p>No recipes found matching your criteria.</p>";
             }
     ?>
-    </div>
+        </div>
 
-    <?php require __DIR__ . '/../views/partials/footer.php'; ?>
+        <?php require __DIR__ . '/../views/partials/footer.php'; ?>
 
-    <script src="/scripts/scrollTo.js"></script>
+        <script src="/scripts/scrollTo.js"></script>
+
+        <!-- <script>
+            function appendTargetToURL() {
+                // Append #target to the form's action URL
+                const form = document.getElementById('search-form');
+                form.action += '#target';
+            }
+
+            document.addEventListener('DOMContentLoaded', () => {
+                // Scroll to #target if the URL contains the fragment
+                if (window.location.hash === '#target') {
+                    const target = document.getElementById('target');
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth'
+                        });
+                    }
+                }
+            });
+        </script> -->
+
 </body>
 
 </html>

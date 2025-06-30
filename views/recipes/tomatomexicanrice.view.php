@@ -21,7 +21,7 @@
           standard chilli powder or even omit it completely but I like to live
           on the spicy side of life ;-) I usually make this as an accompaniment
           to my Chicken Chilli Mexican
-          <a href="chickenchilimex.html" target="_blank"><b>recipe here</b></a
+          <a href="/recipes/chickenchilimex" target="_blank"><b>recipe here</b></a
           >. But it's also great as a totally vegetarian burrito filling topped
           with cheese if you please :¬P.
         </p>

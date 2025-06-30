@@ -33,14 +33,40 @@ function generateImageAlt($imagePath)
  * @param array $recipe
  * @return string HTML markup for a recipe card.
  */
+// NOTE: function renders recipe cards that point to the static HTML files for each recipe
+// function renderRecipeCard($recipe)
+// {
+//     $domain = 'https://nuttyskitchen.co.uk/';
+//     $ext = '.html';
+//     // Sanitize all the necessary values.
+//     $imgPath  = htmlspecialchars($recipe['image']);
+//     $caption  = htmlspecialchars($recipe['caption']);
+//     $page     = $domain . htmlspecialchars($recipe['page']) . $ext;
+//     $imgTitle = htmlspecialchars($recipe['imgTitle']); // SEO-optimized image title
+//     // Generate alt text based on the image filename.
+//     $alt = str_replace('-', ' ', pathinfo($imgPath, PATHINFO_FILENAME));
+
+//     return "<a href='$page'><div class='recipe-card link'>
+//                 <img
+//                 loading='lazy'
+//                 width='200'
+//                 height='200'
+//                 src='$imgPath'
+//                 alt='$alt'
+//                 title='$imgTitle'>
+//                 <figcaption>$caption</figcaption>
+//             </div></a>";
+// }
+
+// function renders recipe cards that point to the appropriate recipe controllers
 function renderRecipeCard($recipe)
 {
-    $domain = 'https://nuttyskitchen.co.uk/';
-    $ext = '.html';
+    $domain = '/recipes/';
+    // $ext = '.html';
     // Sanitize all the necessary values.
     $imgPath  = htmlspecialchars($recipe['image']);
     $caption  = htmlspecialchars($recipe['caption']);
-    $page     = $domain . htmlspecialchars($recipe['page']) . $ext;
+    $page     = $domain . htmlspecialchars($recipe['page']);
     $imgTitle = htmlspecialchars($recipe['imgTitle']); // SEO-optimized image title
     // Generate alt text based on the image filename.
     $alt = str_replace('-', ' ', pathinfo($imgPath, PATHINFO_FILENAME));

@@ -20,7 +20,7 @@
           special to go with my
           <a
             class="in-link"
-            href="/fish-fillets-with-chilli-sauce.html"
+            href="/recipes/fish-fillets-with-chilli-sauce"
             target="_blank"
             >Fish Fillets with Chilli Sauce Recipe</a
           >
@@ -236,7 +236,7 @@
                 Head over to my
                 <a
                   class="in-link"
-                  href="/fish-fillets-with-chilli-sauce.html"
+                  href="/recipes/fish-fillets-with-chilli-sauce"
                   target="_blank"
                   >Fish Fillets with Chilli Sauce Recipe</a
                 >

@@ -54,13 +54,13 @@
 
         <?php require __DIR__ . '/../views/partials/title-banner.view.php'; ?>
 
-        <!-- <p>
+        <p>
             Browse through some delicious English dishes from recipes passed down
             through generations along with a delectable, scrumptious collection of
             Italian, Mexican, Chinese and Indian dishes that we hope will inspire
             you. We'll be testing, trialling and cooking lots more to share with you
             in the future. I hope you love what I have so far.
-        </p> -->
+        </p>
 
         <p style="line-height: 1.6; font-size: 1rem">
             <span style="display: inline-flex; align-items: center; gap: 0.4em">
@@ -84,7 +84,7 @@
             straight to the recipe
             page @ <a class="underline-link" href="https://nuttyskitchen.co.uk/">nuttyskitchen.co.uk</a></p>
 
-        <!-- <p>
+        <p>
             Drop me an email by clicking the
             <b><i>"mail me some love"</i></b> button below to let me know what you
             think - it would be fantastic to hear from you. Happy cooking!
@@ -92,17 +92,16 @@
         <p>
             Use the other buttons below to jump to a specific category such as
             chicken, puddings etc.
-        </p> -->
+        </p>
 
     </header>
 
-    <!-- <div class="cta list-btn" title="email me :¬)">
+    <div class="cta list-btn" title="email me :¬)">
         <a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">mail me some love<br />
             &#128522;</a>
-    </div> -->
+    </div>
 
-    <!-- <?php //require __DIR__ . '/../views/partials/category-btns.view.php';?>
-    -->
+    <?php require __DIR__ . '/../views/partials/category-btns.view.php'; ?>
 
     <?php require __DIR__ . '/../views/partials//back-to-top-btn.view.php'; ?>
 
