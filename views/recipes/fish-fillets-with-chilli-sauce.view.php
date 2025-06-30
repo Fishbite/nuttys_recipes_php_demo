@@ -33,8 +33,9 @@
         This time, as a special treat, I made
         <strong>Saffron & Cardamom Rice</strong> to go with it. Head over to
         my
-        <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank">Saffron and Cardamom Rice
-          Recipe</a>
+        <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank"><strong>Saffron and
+            Cardamom Rice
+            Recipe</strong></a>
         while the fish is marinating, if you fancy trying that. It's well
         worth making :-)
       </p>
@@ -168,8 +169,8 @@
               I serve this dish with
               <strong>Saffron & Cardamom Rice</strong> which you can also make
               while the fish is marinating:
-              <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank">saffron and Cardamom Rice
-                Recipe</a>
+              <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank"><strong>Saffron and
+                  Cardamom Rice Recipe</strong></a>
             </p>
             <p>
               First things first though, gather all the ingredients together
@@ -325,8 +326,9 @@
               the rice is well seasoned.
             </p>
             <p>
-              <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank">Saffron and Cardamom Rice
-                Recipe</a>
+              <a class="in-link underline" href="/recipes/saffron-and-cardamom-rice" target="_blank"><strong>Saffron and
+                  Cardamom Rice
+                  Recipe</strong></a>
             </p>
 
             <!-- Method List Goes Above Here!!! -->
