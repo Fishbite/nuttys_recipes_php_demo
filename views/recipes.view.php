@@ -109,7 +109,7 @@
     <!-- Search Form -->
     <form id="search-form" class="search-form" action="/recipes/" method="POST">
         <label for="category">Category:</label>
-        <select id="category" name="category">
+        <select class="search-control" id="category" name="category">
             <option value="all" <?= $searchCategory === 'all' ? 'selected' : ''; ?>>All
                 Categories</option>
             <?php foreach ($categories as $cat): ?>
@@ -119,9 +119,9 @@
             <?php endforeach; ?>
         </select>
         <label for="search">Keyword:</label>
-        <input type="text" id="search" name="search" placeholder="Enter keyword..."
+        <input class="search-control" type="text" id="search" name="search" placeholder="Enter keyword..."
             value="<?= htmlspecialchars($searchTerm); ?>">
-        <button type="submit">Search</button>
+        <button class="search-btn" type="submit">Search</button>
     </form>
 
     <!-- Recipe Grid -->
