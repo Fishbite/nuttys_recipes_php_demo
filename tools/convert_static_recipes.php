@@ -1,4 +1,8 @@
 <?php
+// converts multiple HTML files to PHP
+// replaces parts of documents with PHP partials
+
+// set the directory where the static HTML files are stored
 $dir = new DirectoryIterator('old-html');
 foreach ($dir as $fileinfo) {
     if (!$fileinfo->isDot()) {

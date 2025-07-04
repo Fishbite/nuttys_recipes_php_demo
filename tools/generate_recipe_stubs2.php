@@ -1,7 +1,17 @@
 <?php
-// CONFIG
+// ###### WARNING! ######
+// running this file creates the basic  controller and view files
+// ###### BEWARE IT WILL OVERWIRTE ANY EXISTING FILES ######
+// it also READS the `controllers_output.txt` file that stores
+// ALL the meta-data taken from each static HTML recipe file 
+
+// you ABSOLUTLEY DO NOT want to create the view stubs - they are useless!
+// DISABLE the creation of views and assess the output carefully
+
+// CONFIG - change these directories for testing purposes
 $metaFile = __DIR__ . '/controllers_output3.txt';
 $controllersDir = __DIR__ . '/controllers/recipes';
+// Disable or remove writing these view stubs!!!!
 $viewsDir = __DIR__ . '/views/recipes';
 
 // Create directories if they don't exist

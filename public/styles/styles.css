@@ -833,7 +833,8 @@ header a:visited {
   background-size: 4px 3px;
   border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
   border-style: solid;
-  border-width: 1px;
+  border-color: var(--clr-grey-4);
+  border-width: 4px;
   box-sizing: border-box;
   color: #41403e;
   cursor: pointer;
@@ -883,19 +884,17 @@ header a:visited {
   align-self: center;
   background-color: var(--clr-white);
   border-style: solid;
-  border-width: 1px;
+  border-color: var(--clr-grey-4);
+  border-width: 4px;
   box-shadow: rgba(0, 0, 0, 0.2) 15px 28px 25px -18px;
   box-sizing: border-box;
   color: #41403e;
   cursor: pointer;
   display: inline-block;
-  /* font-family: Neucha, sans-serif; */
   font-family: inherit;
   font-size: 1rem;
   line-height: 23px;
-  /* outline: none; */
   padding: 0.75rem;
-  /* text-decoration: none; */
   transition: all 235ms ease-in-out;
   border-bottom-left-radius: 15px 255px;
   border-bottom-right-radius: 225px 15px;
@@ -911,7 +910,6 @@ header a:visited {
   transform: translate3d(0, 2px, 0);
   background-color: var(--clr-grey-1);
   border-color: var(--clr-yellow-golden-pale);
-  border-width: 1px;
   color: var(--clr-white);
 }
 

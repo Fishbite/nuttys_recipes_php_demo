@@ -1,11 +1,8 @@
 <?php
-$dir = new DirectoryIterator('old-html');
-foreach ($dir as $fileinfo) {
-    if (!$fileinfo->isDot()) {
-        var_dump($fileinfo->getFilename());
-    }
-}
+// process a single HTML recipe file to PHP
+// replaces parts of the document with PHP partials
 
+// set the input and output paths and file names
 $inputPath = __DIR__ . '/old-html/beef-stroganoff.html';
 $outputPath = __DIR__ . '/views/recipes/beef-stroganoff.view.php';
 

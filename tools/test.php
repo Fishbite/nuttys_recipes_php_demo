@@ -1,4 +1,5 @@
 <?php
+// program to check  that we can create and write to a file?
 $testDir = __DIR__ . '/test_dir';
 $testFile = $testDir . '/test_file.txt';
 
