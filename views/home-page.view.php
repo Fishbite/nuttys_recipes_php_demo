@@ -53,7 +53,7 @@
         </p>
 
         <p>
-          Make sure to see her <strong>latest recipe </strong>near the bottom
+          Make sure to see her <a class="underline" href="#latest"><strong>latest recipe</strong></a> near the bottom
           of this page.
         </p>
       </section>
