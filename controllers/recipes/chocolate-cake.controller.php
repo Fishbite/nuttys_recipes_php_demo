@@ -9,7 +9,7 @@ Chocolate Cake with butter cream and fruit & nut topping is a real treat
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chocolate-cake/650x366/chocolate-cake-for-easter-sliced.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chocolate-cake.html';
-$recipeName = 'Chocolate Cake';
+$recipeName = 'chocolate cake';
 $recipeIntro = <<<'TEXT'
 Chocolate Cake with butter cream and fruit & nut topping is a real treat totally controlled by you, the sweetness & flavour are all in your hands and you can let your..
 TEXT;

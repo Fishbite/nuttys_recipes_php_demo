@@ -9,7 +9,7 @@ a very quick write up of the method to cook the perfect Basmati Rice
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/basmati-rice/650x366/basmati-rice-2.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/basmati-rice.html';
-$recipeName = 'Basmati Rice';
+$recipeName = 'basmati rice';
 $recipeIntro = <<<'TEXT'
  I have decided to do a very quick write up of the method to cook the perfect Basmati Rice
 TEXT;

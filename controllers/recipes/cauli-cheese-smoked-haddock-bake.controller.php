@@ -9,7 +9,7 @@ Cauliflower cheese and smoked haddock, a superb dish that will have the mouth wa
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/caulicheesesmokedhaddock/650x366/cauli-cheese-smoked-haddock-baked.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/cauli-cheese-smoked-haddock-bake.html';
-$recipeName = 'Cauli Cheese Smoked Haddock Bake';
+$recipeName = 'Cauliflower Cheese & Smoked Haddock Bake';
 $recipeIntro = <<<'TEXT'
 Cauliflower cheese and smoked haddock, a superb dish that will have the mouth watering at the very mention of it, a real home comforter
 TEXT;

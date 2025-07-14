@@ -9,7 +9,7 @@ lamb pulao rice description here please!
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/lamb-pulao-rice/650x366/lamb-pulao-rice-in-dish-02.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/lamb-pulao-rice.html';
-$recipeName = 'Lamb Pulao Rice';
+$recipeName = 'lamb pulao rice';
 $recipeIntro = <<<'TEXT'
 Lamb Pulao Rice is a delicious baked rice dish made with minced lamb and aromatic spices. The result... delicately spiced combination of succulent lamb mince and fluffy rice
 TEXT;

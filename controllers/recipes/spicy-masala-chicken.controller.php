@@ -9,7 +9,7 @@ Spicy Masala Chicken is perfect for when you crave something like tandoori chick
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-masala-chicken/650x366/spicy-masala-chicken-tarka-dhal-naan-02.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/spicy-masala-chicken.html';
-$recipeName = 'Spicy Masala Chicken';
+$recipeName = 'Spicy Masala chicken';
 $recipeIntro = <<<'TEXT'
 Spicy Masala Chicken is perfect for when you crave something like tandoori chicken, but do not have the patience to wait overnight for it to marinade. Super quick to make
 TEXT;

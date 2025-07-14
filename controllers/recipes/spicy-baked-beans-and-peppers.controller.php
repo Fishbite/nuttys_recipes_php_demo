@@ -9,7 +9,7 @@ Spicy Baked Beans and Peppers Recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-baked-beans-and-peppers/650x366/spicy-baked-beans-and-peppers.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/spicy-baked-beans-and-peppers.html';
-$recipeName = 'Spicy Baked Beans And Peppers';
+$recipeName = 'Spicy Baked Beans and Peppers';
 $recipeIntro = <<<'TEXT'
 Spicy Baked Beans & Peppers! This is something my mother used to put together for barbecues & parties. I've altered it slightly as were not keen on barbecue style sauces!
 TEXT;

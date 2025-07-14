@@ -9,7 +9,7 @@ If you like tomatoes, you'll love this Chicken & Tomato Balti Curry
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-and-tomato-balti/650x366/chicken-and-tomato-balti-plated-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-and-tomato-balti.html';
-$recipeName = 'Chicken And Tomato Balti';
+$recipeName = 'Chicken & Tomato Balti Curry';
 $recipeIntro = <<<'TEXT'
 If you like tomatoes, you'll love this Chicken & Tomato Balti Curry It is a wonderful curry but, be mindful to make it when tomatoes are in season and really flavourful
 TEXT;

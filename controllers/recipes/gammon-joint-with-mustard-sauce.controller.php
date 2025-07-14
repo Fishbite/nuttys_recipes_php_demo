@@ -8,8 +8,8 @@ $ogDescription = <<<'TEXT'
 a gammon joint with mustard sauce is a very old-fashioned recipe....
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/gammon-joint-and-mustard-sauce/650x366/gammon-slices-on-plate.webp';
-$canonical = 'https://www.nuttyskitchen.co.uk/gammon-joint-with-mustard-sauce.htmll';
-$recipeName = 'Gammon Joint With Mustard Sauce';
+$canonical = 'https://www.nuttyskitchen.co.uk/gammon-joint-with-mustard-sauce.html';
+$recipeName = 'Gammon Joint with Mustard Sauce';
 $recipeIntro = <<<'TEXT'
 a gammon joint with mustard sauce is a very old-fashioned recipe that both my gran and my mum turned to for a lazy Sunday dinner. Just 45mins using the pressure cooker
 TEXT;

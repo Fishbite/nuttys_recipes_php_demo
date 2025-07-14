@@ -9,7 +9,7 @@ Khara Masal Balti Chicken is a deliciously succulent, lightly spiced dish that c
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/khara-masala-balti-chicken/650x366/khara-masala-balti-chicken-plated-03.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/khara-masala-balti-chicken.html';
-$recipeName = 'Khara Masala Balti Chicken';
+$recipeName = 'khara Masala-Balti Chicken';
 $recipeIntro = <<<'TEXT'
 Khara Masala Balti Chicken is a really quick and easy recipe which is a dry curry, a lightly spiced stir-fry dish with as much, or as little chilli kick as you please
 TEXT;

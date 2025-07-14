@@ -9,7 +9,7 @@ A classic English pudding, apple and blackberry crumble, with fruits foraged fro
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/appleblackberrycrumble/650x366/pudding-served.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/appleblackberrycrumble.html';
-$recipeName = $pageTitle;
+$recipeName = 'Apple & Blackberry Crumble';
 $recipeIntro = <<<'TEXT'
 A classic English pudding, apple and blackberry crumble, with fruits foraged from the wild
 TEXT;

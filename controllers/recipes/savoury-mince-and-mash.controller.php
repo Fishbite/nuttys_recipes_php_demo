@@ -9,7 +9,7 @@ Savory Mince and Mash is so easy to make and is exactly what you need as a comfo
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/savoury-mince-and-mash/650x366/savoury-mince-and-mash-plated.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/savoury-mince-and-mash.html';
-$recipeName = 'Savoury Mince And Mash';
+$recipeName = 'Savoury Mince and Mash';
 $recipeIntro = <<<'TEXT'
 Now my Savory Mince and Mash recipe is so easy to make in a rush, and is exactly what you need as the nights are long or you just want a deliciously tasty, comforting dish
 TEXT;

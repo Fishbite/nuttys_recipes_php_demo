@@ -8,8 +8,8 @@ $ogDescription = <<<'TEXT'
 I don't make this Saffron and Cardamom Rice recipe too often, Its delicate flavours are just delightful
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/saffron-and-cardamom-rice/650x366/saffron-and-cardamom-rice.webp';
-$canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
-$recipeName = 'Saffron And Cardamom Rice';
+$canonical = 'https://www.nuttyskitchen.co.uk/saffron-and-cardamom-rice.html';
+$recipeName = 'Saffron and Cardamom Rice';
 $recipeIntro = <<<'TEXT'
 I don't make this Saffron and Cardamom Rice recipe too often. However, I bought 1g of it a little while back and I wanted something a little special for a fish dish
 TEXT;

@@ -9,7 +9,7 @@ Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with ho
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/cottage-pie/650x366/cottage-pie-cooked-1.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/cottage-pie.html';
-$recipeName = 'Cottage Pie';
+$recipeName = 'cottage pie';
 $recipeIntro = <<<'TEXT'
 Cottage Pie! Who can resist rich beefy ragu style minced beef topped off with hot creamy mash, it has to feature in Nutty's Kitchen dishes, it's a true classic!
 TEXT;

@@ -8,7 +8,7 @@ $ogDescription = <<<'TEXT'
 Just taste this and come back to me when you've finished. You will not be disappointed!
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/porksupreme/650x366/pork-in-creamy-pepper-sauce.jpg';
-$canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$canonical = 'https://www.nuttyskitchen.co.uk/porksupreme.html';
 $recipeName = 'Pork in Creamy Black Pepper Sauce';
 $recipeIntro = <<<'TEXT'
 Just taste this and come back to me when you've finished. You will not be disappointed! It's an outstanding, rich, creamy peppery sauce...

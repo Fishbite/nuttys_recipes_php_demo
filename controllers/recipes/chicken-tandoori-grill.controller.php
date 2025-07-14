@@ -9,7 +9,7 @@ Chicken Tandoori Grill for the perfect charred Tandoor flavour without owning a 
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-tandoori-grill/650x366/chicken-tandoori-grill-plated-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-tandoori-grill.html';
-$recipeName = 'Chicken Tandoori Grill';
+$recipeName = 'chicken tandoori grill';
 $recipeIntro = <<<'TEXT'
  Chicken Tandoori Grill It's so easy to do. Juicy tender chicken thighs that literally melt in your mouth! marinade & refrigerate overnight. 4 to 7 minutes cooking time
 TEXT;

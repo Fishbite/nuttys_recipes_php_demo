@@ -8,7 +8,7 @@ Short description here please!
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/cauli-curry/650x366/cauliflower-curry-in-a-pan-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-cheese.html';
-$recipeName = 'Cauliflower Cheese';
+$recipeName = 'Cauliflower cheese';
 $recipeIntro = <<<'TEXT'
 TEXT;
 $styleBlock = <<<CSS

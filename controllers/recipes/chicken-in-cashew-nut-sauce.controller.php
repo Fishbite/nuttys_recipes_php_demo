@@ -9,7 +9,7 @@ chicken-in-cashew-nut-sauce
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-in-cashew-nut-sauce/650x366/chicken-in-cashew-nut-sauce-plated.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-in-cashew-nut-sauce.html';
-$recipeName = 'Chicken In Cashew Nut Sauce';
+$recipeName = 'Chicken in Cashew Nut Sauce';
 $recipeIntro = <<<'TEXT'
 Chicken in Cashew Nut Sauce Now this really is a Nutty dish! The flavour of this dish is quite unique and the sultanas pop like little jewels of amazing fruitiness
 TEXT;

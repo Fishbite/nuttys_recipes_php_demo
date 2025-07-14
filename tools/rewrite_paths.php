@@ -1,6 +1,6 @@
 <?php
 // helper file to remove the leading DOT from image paths in a file
-$viewsDir = __DIR__ . '/views/recipes';
+$viewsDir = __DIR__ . '/../views/recipes';
 $files = new DirectoryIterator($viewsDir);
 
 foreach ($files as $fileinfo) {

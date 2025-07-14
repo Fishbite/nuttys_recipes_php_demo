@@ -9,7 +9,7 @@ A really scrummy tart that only needs a tin of black cherries to go with the lef
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/blackcherrypie/650x366/cherry-pie-cream-served.jpg';
 $canonical = 'https://www.nuttyskitchen.co.uk/blackcherrypie.html';
-$recipeName = 'Black Cherry Pie';
+$recipeName = 'black cherry pie';
 $recipeIntro = <<<'TEXT'
 A really scrummy tart that only needs a tin of black cherries to go with the left over pastry. It's not too sweet and just needs a dollop cream or ice cream
 TEXT;

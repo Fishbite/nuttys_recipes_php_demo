@@ -9,7 +9,7 @@ Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/spicy-balti-potatoes/650x366/spicy-balti-potatoes.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/spicy-balti-potatoes.html';
-$recipeName = 'Spicy Balti Potatoes';
+$recipeName = 'spicy balti potatoes';
 $recipeIntro = <<<'TEXT'
 Looking for a side dish that brings big flavour to humble new potatoes? Well, look no further... Spicy Balti Potatoes! Flavour-packed, effortless, and absolutely delicious.
 TEXT;

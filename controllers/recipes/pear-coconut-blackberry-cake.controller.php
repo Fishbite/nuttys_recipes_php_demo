@@ -9,7 +9,7 @@ Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/pear-coconut-blackberry-cake/650x366/pear-coconut-blackberry-cake-sliced-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/pear-coconut-blackberry-cake.html';
-$recipeName = 'Pear Coconut Blackberry Cake';
+$recipeName = 'Pear, Coconut & Blackberry Cake';
 $recipeIntro = <<<'TEXT'
 Now this Pear, Coconut & Blackberry Cake works perfectly as a pudding or a cake, the coconut adds flavour and texture to the sponge and also keeps it really moist
 TEXT;

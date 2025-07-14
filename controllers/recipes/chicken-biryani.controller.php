@@ -9,7 +9,7 @@ I get that Biryani has a reputation for being complicated. But honestly? It's si
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-biryani/650x366/chicken-biryani-raita-popadoms.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-biryani.html';
-$recipeName = 'Chicken Biryani';
+$recipeName = 'chicken biryani';
 $recipeIntro = <<<'TEXT'
 I get that Biryani has a reputation for being complicated. But honestly? It's just rice, chicken, and a little spice magic. All myths removed. Chicken Biryani is simple
 TEXT;

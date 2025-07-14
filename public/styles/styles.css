@@ -96,6 +96,12 @@ a {
 img:not(.logo, .logo-main, .overlay_image) {
   width: 100%;
 }
+/* article img,
+.about-img img,
+.about-content img {
+  width: 100%;
+  height: auto;
+} */
 img {
   display: block;
 }
@@ -491,7 +497,7 @@ p {
   margin: 0 auto;
   margin-bottom: 0px;
   margin-bottom: 0.5rem;
-  padding-bottom: 0.75rem;
+  /* padding-bottom: 0.75rem; */
 }
 
 .card_image_round img {
@@ -852,6 +858,7 @@ header a:visited {
 
 #search-form .search-control[type="text"] {
   width: 25ch;
+  cursor: text;
 }
 
 #search-form .search-control > option {
@@ -1272,4 +1279,47 @@ footer a:hover {
   color: hsl(209, 28%, 39%);
   text-decoration: underline;
   font-weight: bold;
+}
+
+/* =======================
+   ***** RELATED *****
+   =======================
+*/
+
+.related {
+  text-align: center;
+  margin: 2rem 0 0;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: var(--clr-grey-1);
+  color: var(--clr-white);
+  border-radius: var(--radius);
+}
+.related h1 {
+  font-size: 1rem;
+}
+
+.related ul {
+  display: flex;
+  justify-content: center;
+}
+.related li {
+  padding: 0 1rem;
+}
+
+.related a:visited {
+  color: var(--clr-grey-10);
+}
+.related a {
+  color: var(--clr-grey-10);
+}
+.related a:active {
+  color: var(--clr-black);
+}
+.related a:hover {
+  color: var(--clr-yellow-golden-pale);
+}
+
+.related li:not(:last-child) {
+  padding-bottom: 1rem;
 }

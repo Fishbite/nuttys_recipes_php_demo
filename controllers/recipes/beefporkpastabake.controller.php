@@ -12,7 +12,7 @@ a gorgeous dish with a totally 'to die for' toasted
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/beefporkpastabake/650x366/pasta-bake-plated.jpg';
 $canonical = 'https://www.nuttyskitchen.co.uk/beefporkpastabake.html';
-$recipeName = $pageTitle;
+$recipeName = 'Beef & Pork Pasta Bake';
 $recipeIntro = <<<'TEXT'
 a gorgeous dish with a totally 'to die for' toasted
     cheese & breadcrumb topping. a beautiful

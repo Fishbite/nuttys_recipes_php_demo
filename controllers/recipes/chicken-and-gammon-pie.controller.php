@@ -9,7 +9,7 @@ PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridg
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-and-gammon-pie/650x366/slice-of-chicken-and-gammon-pie.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-and-gammon-pie.html';
-$recipeName = 'Chicken And Gammon Pie';
+$recipeName = 'Chicken & Gammon Pie';
 $recipeIntro = <<<'TEXT'
 PIE? Well yes! Picnic pie, snack pie, dinner pie, packed lunch pie or even fridge raider pie...Every box has a tick here. Try not to eat this chicken and gammon alone!
 TEXT;

@@ -9,7 +9,7 @@ Home made damson and soured cream tart recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/damson-and-soured-cream-tart/650x366/damson-and-soured-cream-tart-plated-06.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/damson-and-soured-cream-tart.html';
-$recipeName = 'Damson And Soured Cream Tart';
+$recipeName = 'Damson & Soured Cream Tart';
 $recipeIntro = <<<'TEXT'
 This damson and soured cream tart recipe is perfect for those home garden foraged fruits. This recipe serves 6 to 8 & cooks in 35mins
 TEXT;

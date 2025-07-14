@@ -9,7 +9,7 @@ Nutty prepares sweet and sour pork using fresh shoulder of pork. What's not to l
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/sweet-sour-pork-fresh/650x366/sweet-and-sour-pork-noodles-3.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/sweet-and-sour-pork.html';
-$recipeName = 'Sweet And Sour Pork';
+$recipeName = 'Sweet and sour pork';
 $recipeIntro = <<<'TEXT'
 Nutty prepares sweet and sour pork using fresh shoulder of pork. What's not to love? Take away versions are great but this sweet and sour pork is excellent!
 TEXT;

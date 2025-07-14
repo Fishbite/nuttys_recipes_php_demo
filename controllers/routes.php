@@ -167,6 +167,12 @@ $routes = [
     '/recipes/vegetarian-chilli' => __DIR__  . '/recipes/vegetarian-chilli.controller.php',
     '/recipes/victoria-sponge-cake' => __DIR__  . '/recipes/victoria-sponge-cake.controller.php',
     '/recipes/whitesauce' => __DIR__  . '/recipes/whitesauce.controller.php',
+    '/recipes/contact-form' => __DIR__  . '/recipes/contact-form.controller.php',
+    '/recipes/index' => __DIR__  . '/recipes/index.controller.php',
+    '/recipes/kofitest' => __DIR__  . '/recipes/kofitest.controller.php',
+
+
+
 ];
 
 function routeToController($uri, $routes)

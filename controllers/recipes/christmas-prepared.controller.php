@@ -9,7 +9,7 @@ Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/christmas-prepared/650x366/bacon-and-cheese-puffs-raw.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/christmas-prepared.html';
-$recipeName = 'Christmas Prepared';
+$recipeName = 'Christmas Prepared!';
 $recipeIntro = <<<'TEXT'
 Christmas Prepared! A collection of pre-made savoury, oven-ready snacks & sides for when the time is right. Christmas is a week away and I'm super organised :-) 
 TEXT;

@@ -8,7 +8,7 @@ $ogDescription = <<<'TEXT'
 a wonderful flavoursome, spicy taste of Mexico for a really low cost
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/tomatomexicanrice/650x366/cooked-rice-in-pan.jpg';
-$canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
+$canonical = 'https://www.nuttyskitchen.co.uk/tomatomexicanrice.html';
 $recipeName = 'Tomato Mexican Rice';
 $recipeIntro = <<<'TEXT'
 This is a lovely spicy rice dish, a wonderful flavoursome, spicy taste of Mexico for a really low cost. Excellent accompaniment to my Chicken Chilli Mexican

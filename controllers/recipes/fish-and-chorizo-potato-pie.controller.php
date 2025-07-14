@@ -9,7 +9,7 @@ Fish and chorizo with a crusty, toast creamy mash. Absolute genius
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/fish-and-chorizo-potato-pie/650x366/fish-and-chorizo-potato-pie-cooked-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/fish-and-chorizo-potato-pie.html';
-$recipeName = 'Fish And Chorizo Potato Pie';
+$recipeName = 'Fish & Chorizo Potato Pie';
 $recipeIntro = <<<'TEXT'
 Fish and chorizo with a crusty, toast creamy mash, who'd have thought it? Absolute genius!
 TEXT;

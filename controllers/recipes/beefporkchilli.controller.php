@@ -9,7 +9,7 @@ a type of chilli con carne, but its not in it's pure form. It's packed with veg 
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/beefporkchilli/650x366/chilli-rice-plated.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/beefporkchilli.html';
-$recipeName = $pageTitle;
+$recipeName = 'Beef & Pork Mexican Chilli';
 $recipeIntro = <<<'TEXT'
 a type of chilli con carne, but its not in it's pure form. It's packed with veg to double the size and flavour
 TEXT;

@@ -9,7 +9,7 @@ Easy and scrummy snack sized cakes that will be perfect after a Sunday roast
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/gingerbread/650x366/cake-finished.jpg';
 $canonical = 'https://www.nuttyskitchen.co.uk/gingerbread.html';
-$recipeName = 'Gingerbread';
+$recipeName = 'Sticky Gingerbread Cake';
 $recipeIntro = <<<'TEXT'
 Easy and scrummy snack sized cakes that will be perfect after a Sunday roast or popped onto a side plate with a lovely cup of tea.
 TEXT;

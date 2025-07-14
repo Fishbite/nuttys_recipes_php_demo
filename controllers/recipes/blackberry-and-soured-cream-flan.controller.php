@@ -9,7 +9,7 @@ Short description here please!
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/blackberry-and-soured-cream-flan/650x366/cauliflower-curry-in-a-pan-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/blackberry-and-soured-cream-flan.html';
-$recipeName = 'Blackberry And Soured Cream Flan';
+$recipeName = 'blackberry & soured cream flan';
 $recipeIntro = <<<'TEXT'
 It 's the time of year when free Blackberries are easy to come by and there has been a bumper harvest here at Nutty's so, what better than Blackberry & Soured Cream Flan
 TEXT;

@@ -9,7 +9,7 @@ a quick & delicious jerked pork steak recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/jerked-pork-steaks/650x366/jerked-pork-steak-plated-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/jerked-pork-steaks-grill.html';
-$recipeName = 'Jerked Pork Steaks Grill';
+$recipeName = 'jerked pork steaks grill';
 $recipeIntro = <<<'TEXT'
 My grilled Jerked Pork Steaks could not be simpler, if you've made our Jerk curries this will be a breeze, if not, why not give this a try then move onto the curries
 TEXT;

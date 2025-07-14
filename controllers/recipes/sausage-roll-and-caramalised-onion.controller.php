@@ -9,7 +9,7 @@ When is a sausage roll, not a sausage roll? When its Nutty's huge Sausage Roll &
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/sausage-roll-and-caramalised-onion/650x366/sausage-roll-sliced.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/sausage-roll-and-caramalised-onion.html';
-$recipeName = 'Sausage Roll And Caramalised Onion';
+$recipeName = 'Sausage Roll & Caramalised Onion';
 $recipeIntro = <<<'TEXT'
 Christmas is nearly upon us so what better than making your own Sausage Roll & Caramalised Onion log. Yes I do mean a LOG, one big humongous sausage roll!
 TEXT;

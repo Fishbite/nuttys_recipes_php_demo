@@ -9,7 +9,7 @@ MY beef stew and dumplings recipe for those short, cold winter days
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-stew-and-dumplings/650x366/beef-stew-and-dumplings-cooked.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/beef-stew-and-dumplings.html';
-$recipeName = 'Beef Stew And Dumplings';
+$recipeName = 'Beef Stew and Dumplings';
 $recipeIntro = <<<'TEXT'
 As the nights draw in and it gets colder & colder, I crave this kind of dish — Beef Stew & Dumplings. As I own a pressure cooker, I can cut the cooking time by two hours
 TEXT;

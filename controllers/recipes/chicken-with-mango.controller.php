@@ -9,7 +9,7 @@ Chicken with mango, a juicy, tangy, fruity curry
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-with-mango/650x366/chicken-with-mango-plated-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-with-mango.html';
-$recipeName = 'Chicken With Mango';
+$recipeName = 'Chicken with Mango';
 $recipeIntro = <<<'TEXT'
 Chicken with Mango. Do not dismiss fruit from curry's, it is a staple all over the world. Adding any fruits including mango will tenderise your chicken within minutes
 TEXT;

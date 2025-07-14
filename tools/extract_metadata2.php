@@ -1,7 +1,7 @@
 <?php
 // CONFIG
-$htmlDir = __DIR__ . '/old-html';
-$outputFile = __DIR__ . '/controllers_output3.txt';
+$htmlDir = __DIR__ . '/../old-html';
+$outputFile = __DIR__ . '/../controllers_output5.txt';
 
 $files = glob("{$htmlDir}/*.html");
 if (!$files) {
@@ -95,4 +95,4 @@ foreach ($files as $file) {
 }
 
 fclose($out);
-echo "✅ Metadata extracted to controllers_output3.txt\n";
+echo "✅ Metadata extracted to controllers_output5.txt\n";

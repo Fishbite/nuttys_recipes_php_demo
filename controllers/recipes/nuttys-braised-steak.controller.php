@@ -9,7 +9,7 @@ Nuttys Braised Steak in a rich gravy with shallots, leeks and whole chestnut mus
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/nuttys-braised-steak/650x366/braised-steak-mash-and-veg-plated.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/nuttys-braised-steak.html';
-$recipeName = 'Nuttys Braised Steak';
+$recipeName = 'nutty\'s braised steak';
 $recipeIntro = <<<'TEXT'
 the cold weather upon us, it's the perfect time for Nutty's Braised Steak in a rich gravy with shallots, leeks and whole chestnut mushrooms, which are absolutely delicious
 TEXT;

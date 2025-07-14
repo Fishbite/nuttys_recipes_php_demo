@@ -9,7 +9,7 @@ Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/mushroom-chow-mein/650x366/mushroom-chow-mein-in-serving-dish-02.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/mushroom-chow-mein.html';
-$recipeName = 'Mushroom Chow Mein';
+$recipeName = 'Mushroom chow mein';
 $recipeIntro = <<<'TEXT'
 This dish is an accompaniment Mushroom Chow Mein. I served it with my Spring Onion Chicken recipe. It is a very quick cook and really easy to make, full of flavoursome...
 TEXT;

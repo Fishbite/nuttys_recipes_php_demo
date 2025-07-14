@@ -9,7 +9,7 @@ a simple and quick side dish to complement grilled meat
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/masala-veg-with-fresh-fenugreek/650x366/masala-veg-with-fresh-fenugreek.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/masala-veg-with-fresh-fenugreek.html';
-$recipeName = 'Masala Veg With Fresh Fenugreek';
+$recipeName = 'Masala Veg with Fresh Fenugreek';
 $recipeIntro = <<<'TEXT'
 If you're looking for a simple and quick side dish to complement grilled meat, this Masala Vegetable with Fresh Fenugreek is the perfect choice. It's also a fantastic...
 TEXT;

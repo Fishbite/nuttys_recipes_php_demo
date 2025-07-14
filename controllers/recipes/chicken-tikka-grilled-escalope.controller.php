@@ -9,7 +9,7 @@ Chicken Tikka Grilled Escalope recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/chicken-tikka-grilled-escalope/650x366/chicken-tikka-dinner-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/chicken-tikka-grilled-escalope.html';
-$recipeName = 'Chicken Tikka Grilled Escalope';
+$recipeName = 'Chicken Tikka grilled Escalope';
 $recipeIntro = <<<'TEXT'
 I'm so excited to bring you my Chicken Tikka Grilled Escalopes recipe. We all know this dish as a truly delicious starter, I'm switching it up to create a complete dinner
 TEXT;

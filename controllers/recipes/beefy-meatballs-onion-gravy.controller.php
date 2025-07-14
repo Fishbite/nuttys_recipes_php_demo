@@ -9,7 +9,7 @@ This time I put together a nostalgic classic: beefy meatballs in onion gravy
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/beefy-meatballs/650x366/meatballs-rice-peas-sweetcorn.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/beefy-meatballs-onion-gravy.html';
-$recipeName = 'Beefy Meatballs Onion Gravy';
+$recipeName = 'Beefy Meatballs In Onion Gravy';
 $recipeIntro = <<<'TEXT'
 Let's cook beef again! This time I put together a nostalgic classic: beefy meatballs in onion gravy, my childhood memories come flooding back at the thought!
 TEXT;

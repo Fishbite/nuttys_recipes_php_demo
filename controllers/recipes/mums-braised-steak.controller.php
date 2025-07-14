@@ -9,7 +9,7 @@ Mum's Braised Steak & Mash Sounds simple enough, my mum often made this for a fa
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/braised-steak/650x366/braised-steak-mash-and-broccoli.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/mums-braised-steak.html';
-$recipeName = 'Mums Braised Steak';
+$recipeName = 'Mum\'s Braised Steak & Mash';
 $recipeIntro = <<<'TEXT'
 Mum's Braised Steak & Mash Sounds simple enough, my mum often made this for a family of five. Nowadays, on her budget? I struggled to re-create it for the same value
 TEXT;

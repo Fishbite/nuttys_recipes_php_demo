@@ -9,7 +9,7 @@ Steak and Ale pie. This is a rich deep stew with a puff pastry lid
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/steak-and-ale-pie/650x366/steak-and-ale-pie-with-veg-on-a-plate-02.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/steak-and-ale-pie.html';
-$recipeName = 'Steak And Ale Pie';
+$recipeName = 'Steak and Ale Pie';
 $recipeIntro = <<<'TEXT'
 Steak and Ale pie. This classic dish features a rich, hearty stew topped with a golden puff pastry lid. While traditional recipes often include a pastry base this version...
 TEXT;

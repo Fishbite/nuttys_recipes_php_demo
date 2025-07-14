@@ -9,7 +9,7 @@ cheese and onion quiche recipe
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/cheese-and-onion-quiche/650x366/cheese-and-onion-quiche-cooked.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/cheese-and-onion-quiche.html';
-$recipeName = 'Cheese And Onion Quiche';
+$recipeName = 'Cheese and Onion Quiche';
 $recipeIntro = <<<'TEXT'
 I thought I would share my Cheese & Onion Quiche recipe with you. I made a huge one so that we'd have a dinner, snacks & some left over to take out to the cricket
 TEXT;

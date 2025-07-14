@@ -9,7 +9,7 @@ delicious Mediterranean style vegetables with pork steaks
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/mediterranean-style-vegetables-with-pork-steaks/650x366/mediterranean-style-veg-with-pork-steaks-plated-03.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/mediterranean-style-vegetables-with-pork-steaks.html';
-$recipeName = 'Mediterranean Style Vegetables With Pork Steaks';
+$recipeName = 'Mediterranean style vegetables with pork steaks';
 $recipeIntro = <<<'TEXT'
 Mediterranean Style Vegetables with Pork Steaks recipe. This dish is a wonderful mix of carrots courgettes aubergine & sliced fresh garlic, and of course olive oil!
 TEXT;

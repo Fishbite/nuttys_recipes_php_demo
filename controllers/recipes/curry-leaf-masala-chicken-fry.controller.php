@@ -9,7 +9,7 @@ Now, this is something really special - Curry Leaf Masala Chicken Fry
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/curry-leaf-masala-chicken-fry/650x366/curry-leaf-masala-and-rice.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/curry-leaf-masala-chicken-fry.html';
-$recipeName = 'Curry Leaf Masala Chicken Fry';
+$recipeName = 'curry leaf masala chicken fry';
 $recipeIntro = <<<'TEXT'
 Now, this is something really special—I would even go so far as to say authentic Indian food: Curry Leaf Masala Chicken Fry... with a distinct curry leaf aroma
 TEXT;
