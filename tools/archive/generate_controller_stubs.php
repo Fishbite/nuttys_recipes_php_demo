@@ -1,8 +1,10 @@
 <?php
-require_once __DIR__ . '/SitemapFilter.php';
 
-$filter = new SitemapFilter();
-$sitemap = __DIR__ . '/../sitemap.xml';
+// ***** pretty useless script as it doesn't read any real metadata ***** \\
+// require_once __DIR__ . '/SitemapFilter.php';
+
+// $filter = new SitemapFilter();
+// $sitemap = __DIR__ . '/../sitemap.xml';
 $controllerDir = __DIR__ . '/controllers/recipes/';
 $routesFile = __DIR__ . '/controllers/routes.php';
 

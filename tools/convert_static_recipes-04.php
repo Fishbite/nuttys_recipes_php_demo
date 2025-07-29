@@ -54,22 +54,7 @@ foreach ($dir as $fileinfo) {
 
         // ************** GET THE CORRECT SUB-TITLE START ************** \\
         // === Extract optional subheading <h2> if present between <h1> and first <p>
-        // $subHeading = '';
-        // if (preg_match('#<div class="title-wrap">.*?<h1[^>]*>(.*?)</h1>#is', $html, $h1Match, PREG_OFFSET_CAPTURE)) {
-        //     $h1EndPos = $h1Match[0][1] + strlen($h1Match[0][0]);
-
-        //     // Look ahead from end of </h1>
-        //     $rest = substr($html, $h1EndPos);
-
-        //     // Match next <h2> and <p> after </h1>
-        //     preg_match('#<h2[^>]*>(.*?)</h2>#i', $rest, $h2Match, PREG_OFFSET_CAPTURE);
-        //     preg_match('#<p[^>]*>.*?</p>#i', $rest, $pMatch, PREG_OFFSET_CAPTURE);
-
-        //     if (!empty($h2Match) && !empty($pMatch) && $h2Match[0][1] < $pMatch[0][1]) {
-        //         $subHeading = html_entity_decode(trim($h2Match[1][0]));
-        //     }
-        // }
-
+        
         $subHeading = '';
 
         // Extract only the <h2> that appears *after* the matched <h1> and *before* the first <p>

@@ -9,7 +9,7 @@
 // DISABLE the creation of views and assess the output carefully
 
 // CONFIG - change these directories for testing purposes
-$metaFile = __DIR__ . '/../controllers_output5.txt'; // name the output file
+$metaFile = __DIR__ . '/../controllers_output5.txt'; // name the input file
 $controllersDir = __DIR__ . '/../controllers/recipes'; // BAK files up in here first
 // Disable or remove writing these view stubs!!!!
 $viewsDir = __DIR__ . '/../views/recipes/stubs'; // pointed to harmless DIR
