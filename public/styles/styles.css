@@ -1323,3 +1323,51 @@ footer a:hover {
 .related li:not(:last-child) {
   padding-bottom: 1rem;
 }
+
+/* =======================
+   ***** RELATED END *****
+   =======================
+*/
+.readable {
+  max-width: 66ch;
+}
+.readable ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  padding-bottom: 1rem;
+  font-style: italic;
+}
+.readable li {
+  line-height: 1.5;
+}
+
+.readable a {
+  color: var(--clr-grey-2);
+}
+.readable a:hover {
+  text-decoration: underline;
+  color: var(--clr-grey-2);
+}
+.readable a:visited {
+  color: var(--clr-grey-2);
+}
+
+/* =======================
+   ***** home page nutty image START *****
+   =======================
+*/
+.nutty {
+  margin: 0 auto;
+  width: 650px;
+  max-width: 95vw;
+  border: 3px solid var(--clr-grey-9);
+  box-shadow: 1px 1px 6px 2px var(--clr-grey-8);
+}
+.strapline {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+/* =======================
+   ***** home page nutty image END *****
+   =======================
+*/
