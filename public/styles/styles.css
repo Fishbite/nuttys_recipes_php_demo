@@ -1196,6 +1196,7 @@ footer p {
 }
 footer li {
   padding-top: 1rem;
+  color: var(--clr-grey-10);
 }
 footer a {
   display: inline-block;

@@ -5,11 +5,17 @@
                 </a>
                 <p><a href="&#109;ailto&#58;nutty&#64;nuttyskitchen&#46;co&#46;uk">email: nutty@nuttyskitchen.co.uk</a></p>
             </div>
+
             <ul>
                 <li><a href="/contact">Contact Us</a></li>
                 <li><a href="https://www.ratufa.io/" target="_blank">ratufa.io</a></li>
                 <li><a href="https://icons8.com" target="_blank">icons by icons8</a></li>
             </ul>
-            <p>copyright © fishbite 2025</p>
+            
+            <ul>
+                <li><a href="/terms" target="_blank">terms & privacy policy</a></li>
+                <li>copyright © fishbite 2025</li>
+            </ul>
+            
         </footer>
         
