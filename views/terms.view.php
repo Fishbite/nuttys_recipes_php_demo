@@ -1,22 +1,9 @@
 <?php require __DIR__ . "/../views/partials/terms-head.view.php"?>
 
 <body>
+    <!-- import main navigtion -->
     <?php require __DIR__ . "/partials/nav-main.view.php";?>
-    <!-- <a href="#content" class="skip-link">Skip to Main Content</a>
-    <nav class="nav-main" aria-label="main navigation">
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/recipe-links.html">Index</a></li>
-            <li>
-                <a href="https://recipes.nuttyskitchen.co.uk/recipes" class="recipe-page-link"
-                    data-fallback="https://www.nuttyskitchen.co.uk/recipepage.html"
-                    data-test-image="https://recipes.nuttyskitchen.co.uk/images/icons/blank.svg">
-                    Recipes
-                </a>
-            </li>
-            <li><a href="/contact-form.html">Contact</a></li>
-        </ul>
-    </nav> -->
+
     <!-- RECIPE PAGE NAVIGATION -->
     <div id="nav-container" class="nav-container"></div>
     <!-- RECIPE PAGE NAVIGATION -->
