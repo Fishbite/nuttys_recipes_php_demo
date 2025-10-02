@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+  <?php require __DIR__ . '/../partials/head-recipe.view.php'; ?>
+  <body>
+    <?php require __DIR__ . '/../partials/nav-main.view.php'; ?>
+    <!-- RECIPE PAGE NAVIGATION -->
+    <div id="nav-container" class="nav-container"></div>
+    <!-- RECIPE PAGE NAVIGATION -->
+
+    <section class="fg">
+      <header class="title">
+        <?php require __DIR__ . '/../partials/title-banner-recipe.view.php'; ?>
+
+        <!-- First paragraph after the page title -->
+        <p>
+          If you love traditional Sheperd's Pie and also have a passion for a
+          little spice this dish will be right up your street. The addition of
+          fresh chillies and some store cupboard spices will transform your
+          comfort food into an Indian dinner. This is so easy to make, it may
+          well become a goto version of the classic with an Indian twist. It is
+          healthier than my Lamb Mash Pie &mdash; as it is topped with mashed
+          potato & butternut squash made without butter or milk.
+        </p>
+
+        <!-- Final paragraph before 2 col layout -->
+        <p>
+          Click the <strong>Method</strong> tab below to see a step-by-step
+          guide on how to make <strong>Indian Sheperd's Pie</strong> along with
+          some pictures as a guide.
+        </p>
+      </header>
+
+      <!-- ######## Two column layout colapses into one on small screens -->
+      <!-- class about-center = set columns -->
+      <!-- class section-center = set width -->
+      <div class="about-center section-center">
+        <!-- first image on the page sits underneath the final paragraphs -->
+        <!--  - img on left, ingredients/method tabs on right  -->
+        <figure class="about-img">
+          <img
+            src="/images/indian-sheperds-pie/650x366/indian-sheperds-pie-and-raita.webp"
+            alt="indian sheperds pie and raita"
+            title="cooked indian sherperd's pie served with raita"
+          />
+        </figure>
+
+        <article class="about">
+          <!-- buttons container -->
+          <div class="btn-container">
+            <!-- class active = show content -->
+            <button
+              title="Click this tab to reveal the ingredients"
+              class="tab-btn active"
+              data-id="ingredients"
+            >
+              ingredients
+            </button>
+            <button
+              title="Click this tab to read the recipe method and see pictures of how to make this dish"
+              class="tab-btn"
+              data-id="method"
+            >
+              method
+            </button>
+          </div>
+
+          <!-- This is where the "Ingredients" & "Method" tabs are created -->
+          <!-- about content -->
+          <article class="about-content">
+            <!-- single item -->
+
+            <!-- the class `active` is applied to show the contents of the tab. "Ingredients" is active by default -->
+            <div class="content active" id="ingredients">
+              <h2>ingredients</h2>
+              <p>Here's what you need :¬)</p>
+
+              <!-- Ingredients List Goes Below Here!!! -->
+              <h2>serves 4</h2>
+
+              <h2>For the Indian Sheperd's Pie mince</h2>
+              <ul>
+                <li>2 Tbsp oil</li>
+                <li>1 green chilli slit</li>
+                <li>1 red chilli slit</li>
+                <li>1 Tbsp ginger paste</li>
+                <li>1 Tbsp garlic paste</li>
+                <li>250g onions finely chopped</li>
+                <li>2 carrots peeled & grated</li>
+                <li>2 celery sticks finely diced</li>
+                <li>1 tsp extra hot chilli powder</li>
+                <li>1/2 tsp ground black pepper powder</li>
+                <li>1 tsp sea salt</li>
+                <li>1 tsp ground coriander powder</li>
+                <li>1 tsp ground cumin powder</li>
+                <li>1/4 tsp turmeric powder</li>
+                <li>2 tsp garam masala powder</li>
+                <li>2 tsp tomato paste</li>
+                <li>475 grams lamb mince</li>
+                <li>2 Tbsp yogurt, whisked</li>
+                <li>A handful of chopped coriander</li>
+                <li>100g frozen petit pois or garden peas</li>
+              </ul>
+              <div class="spacer"></div>
+
+              <h2>Optional Mushroom layer</h2>
+
+              <ul>
+                <li>150g chestnut mushrooms</li>
+                <li>2 tsp oil</li>
+                <li>2 tsp butter</li>
+                <li>salt & pepper to taste</li>
+              </ul>
+              <div class="spacer"></div>
+
+              <h2>For the mash topping</h2>
+              <ul>
+                <li>350g potatoes in skins</li>
+                <li>450g Butternut squash peeled & diced</li>
+                <li>1 egg yolk</li>
+                <li>30g grated parmesan cheese</li>
+                <li>salt & white pepper to taste</li>
+              </ul>
+              <!-- Ingredients List Goes Above Here!!! -->
+            </div>
+            <!-- end of single item -->
+
+            <!-- single item -->
+            <!-- The method tab  does not have the class `active` by default, thus it is hidden from view. When the user clicks
+            the "Method" tab the `active` class is applied here and
+            removed from the "Ingredients" tab, which is then hidden
+            from view
+             -->
+            <div class="content" id="method">
+              <h2>method</h2>
+              <p>This recipe is a four stage process:-</p>
+
+              <ol>
+                <ul>
+                  <li>cook your mince</li>
+                  <li>cook your optional layer of mushrooms</li>
+                  <li>cook your potatoes & butternut squash*</li>
+                  <li>mash both & assemble your pie</li>
+                </ul>
+              </ol>
+              <div class="spacer"></div>
+              <p>*Cook your potatoes & butternut squash in the microwave.</p>
+
+              <p>
+                It's really important to be organised with your ingredients
+                &mdash; prepare well and you are bound to succeed! ;-).
+              </p>
+              <p>
+                I served this with a simple mint raita &mdash; which marries
+                with the lamb and mash excellently :-P
+              </p>
+
+              <!-- Method List Goes Below Here!!! -->
+
+              <h2>Mince method</h2>
+
+              <ol>
+                <li>
+                  Heat a heavy based pan & add the oil once hot then add the
+                  green & red chillies on a low heat till they look fried.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>fry chillies</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/chillies-frying.webp"
+                  alt="chillies chillies-frying"
+                  title="chillies frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="2">
+                <li>
+                  Add the ginger and garlic paste and saute for a few seconds.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add ginger & garlic</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/ginger-garlic-frying.webp"
+                  alt="ginger garlic frying"
+                  title="ginger & garlic frying for indian sherperd's pie"
+                />
+              </figure>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>fry for a few seconds</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/ginger-garlic-fried.webp"
+                  alt="ginger garlic fried"
+                  title="ginger & garlic fried for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="3">
+                <li>
+                  Add the chopped onions and fry till they turn translucent.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add onions</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/onions-frying.webp"
+                  alt="onions frying"
+                  title="onions frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <figure class="card_image">
+                <figcaption>fry till translucent</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/onions-fried.webp"
+                  alt="onions fried"
+                  title="onions fried for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="4">
+                <li>
+                  Add your carrots & celery fry till they have softened &
+                  reduced in volume.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add carrots & celery</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/carrots-added.webp"
+                  alt="carrots added"
+                  title="carrots added for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>fry till soft</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/carrots-fried.webp"
+                  alt="carrots fried"
+                  title="carrots fried for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="5">
+                <li>Add the tomato paste and fry for a few seconds.</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>fry tomato puree</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/tomato-puree-frying.webp"
+                  alt="tomato puree frying"
+                  title="tomato puree frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="6">
+                <li>
+                  Reduce the heat completely and add the spice powders. Mix &
+                  fry for a few seconds before adding the minced meat.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>reduce heat & add spices</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/spices-added.webp"
+                  alt="spices added"
+                  title="spices added for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>mix & fry for a few secs</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/spices-frying-mixed.webp"
+                  alt="spices frying mixed"
+                  title="spices mixed in & frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="7">
+                <li>
+                  Add the meat on a medium high heat till sealed, around 3-4
+                  minutes &mdash; continue to cook on medium heat (turning
+                  occassionally) till the meat is well browned..
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add meat</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/lamb-added.webp"
+                  alt="lamb added"
+                  title="lamb added for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>turn occassionally</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/lamb-frying.webp"
+                  alt="lamb frying"
+                  title="lamb frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>until brown all over</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/lamb-fried.webp"
+                  alt="lamb fried"
+                  title="lamb fried for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="8">
+                <li>
+                  Add the frozen peas, salt to taste and chopped coriander
+                  leaves.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add peas, salt & coriander</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/coriander-added.webp"
+                  alt="coriander added"
+                  title="coriander added for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="9">
+                <li>
+                  Add whisked yogurt and continue to cook for another minute.
+                  Remove from the heat and keep aside.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add yogurt - mix & cook for a minute</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/peas-and-yogurt-added.webp"
+                  alt="peas & yogurt added"
+                  title="peas & yogurt added for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>remove from heat</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/pie-filling-frying.webp"
+                  alt="pie filling frying"
+                  title="pie filling frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <p>
+                Set aside until your mash is ready and you're ready to assemble
+                the dish.
+              </p>
+
+              <h2>mushroom layer method</h2>
+
+              <figure class="card_image">
+                <figcaption>mushroom ingredients</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/ingredients-mushrooms.webp"
+                  alt="ingredients mushrooms"
+                  title="mushroom ingredients for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol>
+                <li>
+                  To make the optional mushroom layer, wipe then cut the
+                  mushrooms into thin slices.
+                </li>
+                <li>
+                  Heat a saucepan and add the butter & oil. Add the sliced
+                  mushrooms and fry them on a high heat till they soften and
+                  shrink in size.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>fry sliced mushrooms</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/mushrooms-frying.webp"
+                  alt="mushrooms frying"
+                  title="mushrooms frying for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="3">
+                <li>
+                  Season with salt & pepper. Remove from heat & keep aside.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+
+              <h2>Mash method</h2>
+
+              <figure class="card_image">
+                <figcaption>mash ingredients</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/ingredients-mash.webp"
+                  alt="ingredients mash"
+                  title="mash ingredients for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <p>
+                We are basically going to bake our potatoes in their skin, then
+                remove the skins & discard. I vacuum packed my squash, pricked
+                some holes in the bag & microwaved. You can simply cover with
+                cling film if you do not have a vacuum pack machine and prick
+                some holes in the film.
+              </p>
+
+              <ol>
+                <li>
+                  Cook both your potatoes & squash separately in the microwave
+                </li>
+                <li>
+                  About 5 minutes per potato (until soft) as a rough guide
+                </li>
+                <li>
+                  About 5 minutes for the diced butternut squash &mdash; again
+                  this is a rough guide
+                </li>
+                <li>
+                  Once tender drain any liquid & mash them into a pan on a low
+                  heat.
+                </li>
+                <li>
+                  Add the egg yolk, salt, white pepper & grated parmesan cheese
+                  and <strong>mash everything together quickly</strong> before
+                  the egg starts to cook!!!
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add egg yolk</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/egg-on-mash.webp"
+                  alt="egg on mash"
+                  title="egg yolk on mash for indian sherperd's pie"
+                />
+              </figure>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add parmasan</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/parmasan-on-mash.webp"
+                  alt="parmasan on mash"
+                  title="parmasan on mash for indian sherperd's pie"
+                />
+              </figure>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>white pepper & salt</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/parmasan-cheese-added-to-mash.webp"
+                  alt="parmasan cheese added to mash"
+                  title="parmasan cheese added to mash for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <p>
+                <strong>Mix everything together quickly</strong> before the egg
+                yolk starts to cook!!!
+              </p>
+
+              <h2>Assemble the pie</h2>
+
+              <ol>
+                <li>
+                  To assemble, grease a 9 x 9 inch square or 9 inch round
+                  ceramic or glass, oven safe dish with butter.
+                </li>
+                <li>Add the cooked mince mixture and level off the surface.</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add mince & level it off</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/pie-filling-in-dish.webp"
+                  alt="pie filling in dish"
+                  title="pie filling in dish for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="3">
+                <li>
+                  Top it up with the optional mushroom layer or directly add the
+                  mashed potato & butternut squash mixture
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add optional mushrooms</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/mushrooms-on-pie-filling.webp"
+                  alt="mushrooms on pie filling"
+                  title="mushrooms on pie filling for indian sherperd's pie"
+                />
+              </figure>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>add mash</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/mash-on-pie-filling.webp"
+                  alt="mash on pie filling"
+                  title="mash on pie filling for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="4">
+                <li>
+                  Level off the surface of the mashed potatoes & butternut
+                  squash mixture, then run a fork through the surface to form a
+                  pretty design.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>decorate with a ridged pattern</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/mash-decorated.webp"
+                  alt="mash decorated"
+                  title="decorated mash on pie filling for indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="5">
+                <li>
+                  Place the dish into the air fryer @ 180c for 15 to 20 minutes
+                  if using a conventional oven see method below
+                </li>
+                <li>
+                  Preheat an oven at 180 degrees C and bake for 12 minutes.
+                </li>
+                <li>
+                  Then change the oven setting to 'grill' mode and grill for 3-4
+                  minutes or till the pie gets a beautiful golden crust.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>cook then grill till golden</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/indian-sheperds-pie-cooked.webp"
+                  alt="indian sheperds pie cooked"
+                  title="cooked indian sherperd's pie"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <ol start="8">
+                <li>
+                  Remove, cool slightly and then gently run a knife through to
+                  create 4 equal portions.
+                </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <figure class="card_image">
+                <figcaption>cut into four huge portions!</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/indian-sheperds-pie-quartered.webp"
+                  alt="indian sheperds pie quartered"
+                  title="cooked indian sherperd's pie quartered"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <p>
+                <strong>Serve with:</strong> a cool mint raita, it's the perfect
+                gravy for this dish, trust me!
+              </p>
+
+              <figure class="card_image">
+                <figcaption>Indian Sheperd's Pie & Mint Raita</figcaption>
+                <img
+                  src="/images/indian-sheperds-pie/650x366/indian-sheperds-pie-and-raita.webp"
+                  alt="indian sheperds pie and raita"
+                  title="cooked indian sherperd's pie served with raita"
+                />
+              </figure>
+              <div class="spacer"></div>
+
+              <p>
+                <strong>Tech' guy said:</strong> "Where's the gravy?" Nutty
+                handed him some mint raita, and he said "really?"
+              </p>
+              <p>
+                Well he tried it, and said "that it is
+                <strong>absolutely bangingin'</strong>".
+              </p>
+              <p>You just have to try this!</p>
+
+              <!-- Method List Goes Above Here!!! -->
+
+              <!-- This is THE END!!!!!! -->
+              <!-- don't mess with the closing tags or anything below here!!! -->
+            </div>
+            <!-- end of single item -->
+
+            <section class="related">
+              <h1>Related recipes</h1>
+              <ul>
+                <li>
+                  <a
+                    class="underline"
+                    href="https://www.nuttyskitchen.co.uk/lambmashpie.html"
+                    >lamb & mash pie (sheperd's pie)
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.nuttyskitchen.co.uk/chicken-tikka-grilled-escalope.html"
+                    class="underline"
+                    >chicken tikka grilled escalope - for my mint raita
+                  </a>
+                </li>
+              </ul>
+            </section>
+          </article>
+        </article>
+      </div>
+    </section>
+<?php require __DIR__ . '/../partials/footer.php'; ?>
+<script src="/scripts/tabs.js"></script>
+</body>
+</html>

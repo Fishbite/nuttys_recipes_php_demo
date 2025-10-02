@@ -149,7 +149,6 @@ $routes = [
     '/recipes/smoked-haddock-bacon-bake' => __DIR__  . '/recipes/smoked-haddock-bacon-bake.controller.php',
     '/recipes/smoked-haddock-in-cheese-sauce' => __DIR__  . '/recipes/smoked-haddock-in-cheese-sauce.controller.php',
     // '/recipes/special-fried-rice' => __DIR__  . '/recipes/special-fried-rice.controller.php',
-    // '/recipes/spice-up-your-life' => __DIR__  . '/recipes/spice-up-your-life.controller.php',
     '/recipes/spicy-baked-beans-and-peppers' => __DIR__  . '/recipes/spicy-baked-beans-and-peppers.controller.php',
     '/recipes/spicy-balti-potatoes' => __DIR__  . '/recipes/spicy-balti-potatoes.controller.php',
     '/recipes/spicy-masala-chicken' => __DIR__  . '/recipes/spicy-masala-chicken.controller.php',
@@ -161,16 +160,31 @@ $routes = [
     '/recipes/sweet-and-sour-roast-chicken' => __DIR__  . '/recipes/sweet-and-sour-roast-chicken.controller.php',
     '/recipes/tandoori-chicken' => __DIR__  . '/recipes/tandoori-chicken.controller.php',
     '/recipes/tarka-dhal' => __DIR__  . '/recipes/tarka-dhal.controller.php',
-    // '/recipes/template-bare' => __DIR__  . '/recipes/template-bare.controller.php',
     '/recipes/tomato-chutney' => __DIR__  . '/recipes/tomato-chutney.controller.php',
     '/recipes/tomatomexicanrice' => __DIR__  . '/recipes/tomatomexicanrice.controller.php',
     '/recipes/vegetarian-chilli' => __DIR__  . '/recipes/vegetarian-chilli.controller.php',
     '/recipes/victoria-sponge-cake' => __DIR__  . '/recipes/victoria-sponge-cake.controller.php',
     '/recipes/whitesauce' => __DIR__  . '/recipes/whitesauce.controller.php',
-    '/recipes/contact-form' => __DIR__  . '/recipes/contact-form.controller.php',
-    // '/recipes/index' => __DIR__  . '/recipes/index.controller.php',
-    // '/recipes/kofitest' => __DIR__  . '/recipes/kofitest.controller.php',
+    // '/recipes/contact-form' => __DIR__  . '/recipes/contact-form.controller.php',
     '/terms' => __DIR__  . '/terms.controller.php',
+    // '/recipes/google66a73f74d88ed190' => __DIR__  . '/recipes/google66a73f74d88ed190.controller.php',
+    '/recipes/indian-sheperds-pie' => __DIR__  . '/recipes/indian-sheperds-pie.controller.php',
+    '/recipes/pomegranate-chicken-curry-drumsticks' => __DIR__  . '/recipes/pomegranate-chicken-curry-drumsticks.controller.php',
+    '/recipes/pomegranate-chicken-curry' => __DIR__  . '/recipes/pomegranate-chicken-curry.controller.php',
+    // '/recipes/recipe-links-from-sitemap-BAKUP' => __DIR__  . '/recipes/recipe-links-from-sitemap-BAKUP.controller.php',
+    // '/recipes/recipe-links' => __DIR__  . '/recipes/recipe-links.controller.php',
+    // '/recipes/recipepage' => __DIR__  . '/recipes/recipepage.controller.php',
+    // '/recipes/terms' => __DIR__  . '/recipes/terms.controller.php',
+    // '/recipes/videotestpage' => __DIR__  . '/recipes/videotestpage.controller.php',
+
+
+
+
+
+
+
+
+
 
 
 

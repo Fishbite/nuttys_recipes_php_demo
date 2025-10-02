@@ -1387,3 +1387,13 @@ footer a:hover {
    ***** home page nutty image END *****
    =======================
 */
+
+/* 
+   =======================
+        sticky tabs 
+   =======================
+*/
+.btn-container {
+  position: sticky;
+  top: 0;
+}

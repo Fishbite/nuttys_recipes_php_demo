@@ -103,8 +103,8 @@
                 <li>2 Tbsp vegetable oil</li>
                 <li>450g diced chicken thighs</li>
                 <li>175g mushrooms quartered or button mushrooms</li>
-                <li>1 Tbsp sultanas</li>
-                <li>300ml water</li>
+                <li>2-3 Tbsp sultanas</li>
+                <li>100ml water</li>
                 <li>1 Tbsp chopped fresh corriander</li>
                 <li>1 - 2 tsp garam masala</li>
               </ul>
@@ -233,7 +233,11 @@
               <div class="spacer"></div>
 
               <ol start="4">
-                <li>add your chicken, fresh coriander, mushrooms & sultanas</li>
+                <li>
+                  turn up the heat of your pan add your chicken stir fry till
+                  combined
+                </li>
+                <li>then add fresh coriander, mushrooms & sultanas</li>
               </ol>
 
               <div class="spacer"></div>
@@ -247,7 +251,7 @@
               </div>
               <div class="spacer"></div>
 
-              <ol start="5">
+              <ol start="6">
                 <li>stir fry for two minutes then add the water</li>
               </ol>
 
@@ -262,7 +266,7 @@
               </div>
               <div class="spacer"></div>
 
-              <ol start="6">
+              <ol start="7">
                 <li>cover and cook for 10 minutes</li>
                 <li>
                   check to see if the chicken is cooked through & if the sauce
@@ -281,7 +285,7 @@
               </div>
               <div class="spacer"></div>
 
-              <ol start="8">
+              <ol start="9">
                 <li>check the seasoning and adjust as required</li>
                 <li>
                   add 1 or 2 tsp of garam masala, stir well & leave for 2 mins

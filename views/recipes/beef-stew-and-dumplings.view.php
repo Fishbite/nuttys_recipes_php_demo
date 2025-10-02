@@ -22,7 +22,8 @@
           onions. Try to use chestnut or button mushrooms, as they add so much
           to the dish. I make this the day before then place into the oven @
           160c for 45 minutes to finish off, then it is perfects! That leaves
-          plenty of time to create the perfect dumplings & mashed potatoes.
+          plenty of time to create the perfect dumplings & mashed potatoes if
+          you wish.
         </p>
 
         <!-- Second paragraph after the page title -->
@@ -83,8 +84,10 @@
               <ul>
                 <li>3 Tbsp vegetable oil</li>
                 <li>400g stewing steak diced to the shallots' size*</li>
-                <li>1 pack chestnut or button mushrooms, thickly sliced</li>
-                <li>1/2 pack small shallots peeled</li>
+                <li>
+                  150g 1/2 pack chestnut or button mushrooms, thickly sliced
+                </li>
+                <li>200g 1/2 pack long escallion shallots peeled & halved</li>
                 <li>2 Indian bay leaves or 4 english bay</li>
                 <li>2 tsp dyjon mustard</li>
                 <li>1 tsp onion powder</li>
@@ -93,14 +96,18 @@
                 <li>1 heaped Tbsp spoon plain flour</li>
                 <li>1 red wine stock cube or, 1 glass red wine reduced</li>
                 <li>1 OXO&trade; beef stock cube</li>
+                <li>1 OXO&trade; veg stock cube</li>
                 <li>500ml water</li>
                 <li>1 tsp salt & pepper to season the flour</li>
                 <li>1 tsp pepper corns whole</li>
                 <li>15 Indian long pepper corns whole - optional**</li>
                 <li>
-                  5 thin carrots peeled & cut to same size as the beef dice
+                  300g (5) thin carrots peeled & cut to same size as the beef
+                  dice
                 </li>
-                <li>3 sticks of celery cut to same size as the beef dice</li>
+                <li>
+                  200g (3) sticks of celery cut to same size as the beef dice
+                </li>
               </ul>
 
               <div class="spacer"></div>
@@ -167,6 +174,20 @@
                   firstly, set a heavy based pan onto a high heat & add oil &
                   bay leaves
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add oil & bay leaves</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/bay-leaves-frying.webp"
+                  alt="bay leaves frying"
+                  title="bay leaves frying for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="2">
                 <li>dice the beef steaks into chunks</li>
                 <li>
                   on a plate, season the flour & rub your diced beef into it
@@ -175,26 +196,146 @@
                   add the beef to the very hot pan & do not move it for two
                   minutes
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add beef to hot pan - leave for 2 mins</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/beef-browning-in-dutch-oven.webp"
+                  alt="beef browning in dutch oven"
+                  title="eef browning in dutch oven for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="5">
                 <li>
                   after two minutes flip & repeat, then stir fry until it is
                   well browned
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>flip the beef - stir after 2 mins</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/beef-browned-in-dutch-oven.webp"
+                  alt="beef browned in dutch oven"
+                  title="beef browned in dutch oven for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="6">
                 <li>set your beef into the cooking pot</li>
                 <li>
-                  turn the pan heat down & add your onions, just cook slightly
-                </li>
-                <li>add your onions to the cooking pot</li>
-                <li>place your mushrooms into the pan and gently fry</li>
-                <li>add your mushrooms to the cooking pot</li>
-                <li>
-                  mix bisto&trade; powder with the water add to the cooking pot
-                </li>
-                <li>
-                  add to the cooking pot: onion powder, red wine stock*, beef
-                  stock, Worcestershire sauce & mustard
+                  turn the pan heat down & add your shallots, just cook slightly
                 </li>
               </ol>
 
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>cook shallots slightly on low heat</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/shallots-frying.webp"
+                  alt="shallots frying"
+                  title="shallots frying for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="8">
+                <li>add carrots & celery to the pan stir fry</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add carrots</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/carrots-added.webp"
+                  alt="carrots added"
+                  title="carrots added for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <div class="card_image">
+                <figcaption>add celery</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/celery-added.webp"
+                  alt="celery added"
+                  title="celery added for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="9">
+                <li>add your onions, carrots & celery to the cooking pot</li>
+                <li>place your mushrooms into the pan and gently fry</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>gently fry mushrooms</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/mushrooms-softening.webp"
+                  alt="mushrooms softening"
+                  title="mushrooms softening for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="11">
+                <li>add your mushrooms to the cooking pot</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>set mushrooms aside with beef & veg</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/ingredients-in-pressure-cooker-pot.webp"
+                  alt="ingredients in pressure cooker pot"
+                  title="ingredients in pressure cooker pot for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="12">
+                <li>add water to the pan</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add water to the pan</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/water-added-to-dutch-oven.webp"
+                  alt="water added to dutch oven"
+                  title="water added to dutch oven for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="13">
+                <li>
+                  then add the stock ingredients
+                  <ul>
+                    <li>onion powder</li>
+                    <li>red wine stock*</li>
+                    <li>beef & veg stock</li>
+                    <li>Worcestershire sauce & mustard</li>
+                  </ul>
+                </li>
+              </ol>
+
+              <div class="card_image">
+                <figcaption>add stock ingredients</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/stock-ingredients-added.webp"
+                  alt="stock ingredients added"
+                  title="stock ingredients added for beef stew and dumplings"
+                />
+              </div>
               <div class="spacer"></div>
 
               <p>
@@ -204,24 +345,95 @@
                 nasty bottles allowed!
               </p>
 
-              <ol start="13">
-                <li>
-                  in your heavy based pan: fry your pepper corns & long peppers,
-                  just till they smell fragrant
-                </li>
-                <li>add to the cooking pot</li>
-                <li>add water, raw carrots & celery to the cooking pot</li>
+              <ol start="14">
+                <li>mix bisto&trade; powder with a little water</li>
+                <li>add peppercorns & long peppers & simmer for a min</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add peppercorns & long peppers</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/gravy-stew-stock-simmering.webp"
+                  alt="gravy stew stock simmering"
+                  title="gravy stew stock simmering for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="16">
+                <li>then whisk in the bisto powder solution</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>whisk in bisto mix</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/gravy-bubbling.webp"
+                  alt="gravy bubbling"
+                  title="gravy bubbling for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="17">
+                <li>allow to thicken & add to the cooking pot</li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>tip gravy into cooking pot</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/gravy-addded-to-pressure-cooker-pot.webp"
+                  alt="gravy added to pressure cooker pot"
+                  title="gravy added to pressure cooker pot for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="18">
                 <li>
                   cook in a pressure cooker set to 'meat' for 30 minutes, or,
-                  set covered on the stove top or oven for 2 hours @ 180c
+                  set covered on the stove top on low or oven for 2 hours @ 160c
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>set to meat setting for 30 mins</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/pressure-cooker-timer-set.webp"
+                  alt="pressure cooker timer set"
+                  title="pressure cooker timer set for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <p>While that's cooking you can make your dumplings, see below</p>
+
+              <ol start="19">
+                <li>tip back into oven dish once cooked</li>
                 <li>
-                  once cooked, remove as many visable long peppers & bay leaves
-                  as possible, serve with creamy mash or new potatoes
+                  remove as many visible long peppers & bay leaves as possible
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>remove long peppers & bay leaves</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/beef-stew-oven-ready.webp"
+                  alt="beef stew oven ready"
+                  title="beef stew oven ready for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="21">
                 <li>
                   as stated at the start, I reheat mine in the oven the
-                  following day @ 160c adding dumplings for the last 30 minutes
+                  following day @ 160c for 45 minutes adding dumplings for the
+                  last 30 minutes
                 </li>
               </ol>
 
@@ -235,51 +447,147 @@
                   title="dumplings added for beef stew and dumplings"
                 />
               </div>
-
               <div class="spacer"></div>
 
               <h2>Method for the dumplings</h2>
 
               <ol>
-                <li>weigh your flour, add salt stir through suet</li>
+                <li>tip the flour into a bowl, add salt & stir through</li>
+                <li>add the suet and stir through</li>
                 <li>
                   make a well in the center, add 3 Tbsp water & combine, if it
-                  seems too dry to create a dough, add more water
+                  seems too dry to create a dough, add more water 1/2 a Tbsp at
+                  a time
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add 3 Tbsp water & combine</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/dumpling-dough-mixed.webp"
+                  alt="dumpling dough mixed"
+                  title="dumpling dough mixed for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <div class="card_image">
+                <figcaption>
+                  add &frac12; Tbsp water at a time if too dry
+                </figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/dumpling-dough-too-dry.webp"
+                  alt="dumpling dough too dry"
+                  title="dumpling dough too dry for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <p>
+                This should be a <em>dry</em> dough that <em>just</em> holds
+                together.
+              </p>
+              <p>
+                <strong>Note:</strong> Don't make the dough so wet that you have
+                to add more flour, as that will upset the balance of flour to
+                suet.
+              </p>
+
+              <div class="card_image">
+                <figcaption>
+                  the dough should <em>just</em> hold together
+                </figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/dumpling-dough-ready.webp"
+                  alt="dumpling dough ready"
+                  title="dumpling dough for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="4">
                 <li>
                   get some cling film, roll into a sausage, then remove the
                   cling film & cut into 8 pieces
                 </li>
                 <li>
-                  flour your hands, take each piece of dough and roll into a
+                  take each piece of dough wrap in cling film and roll into a
                   ball
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>roll the dough into balls</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/dumplings-resting-on-a-plate.webp"
+                  alt="dumpling resting on a plate"
+                  title="dumpling resting on a plate for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="6">
                 <li>
                   top your stew with them when it has 30 minutes left to cook
                 </li>
+              </ol>
+
+              <div class="spacer"></div>
+              <div class="card_image">
+                <figcaption>add to stew with 30 mins left to cook</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/dumplings-added-to-stew.webp"
+                  alt="dumplings added to stew"
+                  title="dumplings added to stew for beef stew and dumplings"
+                />
+              </div>
+              <div class="spacer"></div>
+
+              <ol start="7">
                 <li>cook covered for 20 minutes @ 160c</li>
                 <li>then uncovered for 10 minutes & serve</li>
               </ol>
 
               <div class="spacer"></div>
               <div class="card_image">
-                <figcaption>dumplings cooked</figcaption>
+                <figcaption>ready to serve</figcaption>
                 <img
-                  src="/images/beef-stew-and-dumplings/640x366/beef-stew-and-dumplings-cooked.webp"
-                  alt="beef stew and dumplings cooked"
-                  title="beef stew and dumplings in a cast iron pot"
+                  src="/images/beef-stew-and-dumplings/640x366/cooked-beef-stew-and-dumplings.webp"
+                  alt="cooked beef stew and dumplings"
+                  title="cooked beef stew and dumplings in a dutch oven"
                 />
               </div>
               <div class="spacer"></div>
 
               <h2>Serving suggestion</h2>
               <p>
-                <strong>Beef stew & dumplings</strong> mashed or new potatoes
+                <strong>Beef stew & dumplings</strong>
                 and a spoon, you will not require knives as the meat should
                 simply melt in your mouth :-)
               </p>
 
+              <p>
+                It's good enough just <em>as it is!</em> over at Nutty's
+                Kitchen!
+              </p>
+
+              <div class="card_image">
+                <figcaption>beef stew & dumplings</figcaption>
+                <img
+                  src="/images/beef-stew-and-dumplings/640x366/beef-stew-and-dumplings-in-a-dish.webp"
+                  alt="cooked beef stew and dumplings"
+                  title="cooked beef stew and dumplings in a dutch oven"
+                />
+              </div>
               <div class="spacer"></div>
+
+              <p>
+                Or, it goes really well with potatoes if you have a hungry crew
+                :-)
+              </p>
+
               <div class="card_image">
                 <figcaption>serving suggestion</figcaption>
                 <img
@@ -319,8 +627,8 @@
                 <li>
                   <a
                     class="underline"
-                    href="https://www.nuttyskitchen.co.uk/chorizo-cod-stew.html"
-                    >chorizo cod stew
+                    href="https://www.nuttyskitchen.co.uk/beef-and-mushroom-suet-pastry-pie.html"
+                    >Beef & Mushroom Suet Pastry Pie
                   </a>
                 </li>
                 <li>

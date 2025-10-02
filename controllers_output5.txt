@@ -215,17 +215,17 @@ $stylesheets = [
 // ====== beef-stroganoff.controller.php ======
 $pageTitle = 'Beef Stroganoff | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
-
+Nutty's Beef Stroganoff: budget friendly, rich, moreish and delicious. It's quick, simple & easy to make with reduced calories by replacing double cream with yogurt!
 TEXT;
 $ogDescription = <<<'TEXT'
-Short description here please!
+Nutty's Beef Stroganoff: budget friendly, rich, moreish and delicious
 TEXT;
 $ogImage = 'https://www.nuttyskitchen.co.uk/images/beef-stroganoff/650x366/cauliflower-curry-in-a-pan-01.webp';
 $canonical = 'https://www.nuttyskitchen.co.uk/beef-stroganoff.html';
 
 $recipeName = 'Beef Stroganoff';
 $recipeIntro = <<<'TEXT'
-
+Nutty's Beef Stroganoff: budget friendly, rich, moreish and delicious. It's quick, simple & easy to make with reduced calories by replacing double cream with yogurt!
 TEXT;
 
 $styleBlock = <<<CSS
@@ -1389,6 +1389,27 @@ $stylesheets = [
     '/styles/background.css',
 ];
 
+// ====== contact-form.controller.php ======
+$pageTitle = 'Contact Nutty | Nuttys Kitchen';
+$metaDescription = <<<'TEXT'
+We're super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Contact Form';
+$recipeIntro = <<<'TEXT'
+We're super excited that you want to contact nutty and let her know what you think, feedback, comments, requests and suggestions welcome, tell us what you think
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
 // ====== cornedbeefmashpie.controller.php ======
 $pageTitle = 'Corned Beef Mash Pie | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
@@ -1821,6 +1842,22 @@ $stylesheets = [
     './styles/tabs-nav.css',
 ];
 
+// ====== google66a73f74d88ed190.controller.php ======
+$pageTitle = '';
+$metaDescription = <<<'TEXT'
+
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Google66a73f74d88ed190';
+$recipeIntro = <<<'TEXT'
+
+TEXT;
+
 // ====== gravy.controller.php ======
 $pageTitle = 'Gravy | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
@@ -1835,6 +1872,64 @@ $canonical = 'https://www.nuttyskitchen.co.uk/cauliflower-curry.html';
 $recipeName = 'Gravy';
 $recipeIntro = <<<'TEXT'
 A quick and easy gravy recipe that you can rustle up without the need of those instant gravy granuals that are so full of things you don't need!
+TEXT;
+
+$styleBlock = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== index.controller.php ======
+$pageTitle = 'Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+$ogDescription = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/happy-nutty-chef.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/';
+
+$recipeName = 'Index';
+$recipeIntro = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
+// ====== indian-sheperds-pie.controller.php ======
+$pageTitle = 'Indian Sheperd\'s Pie | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+Indian Sheperd's Pie - The addition of fresh chillies and some store cupboard spices will transform your comfort food into an Indian dinner. This is so easy to make!
+TEXT;
+$ogDescription = <<<'TEXT'
+Indian Sheperd's Pie - transform your comfort food into an Indian dinner
+TEXT;
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/indian-sheperds-pie/650x366/indian-sheperds-pie-and-raita.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/indian-sheperds-pie.html';
+
+$recipeName = 'Indian Sheperds Pie';
+$recipeIntro = <<<'TEXT'
+Indian Sheperd's Pie - The addition of fresh chillies and some store cupboard spices will transform your comfort food into an Indian dinner. This is so easy to make!
 TEXT;
 
 $styleBlock = <<<CSS
@@ -2761,6 +2856,80 @@ $stylesheets = [
     './styles/tabs-nav.css',
 ];
 
+// ====== pomegranate-chicken-curry-drumsticks.controller.php ======
+$pageTitle = 'Pomegranate Chicken Curry Drumsticks | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+this is Anardana Murgh from Himachal Pradesh. Chicken is cooked in an aromatic masala of spices - dried pomegranate seeds adds a unique tart and tangy flavour
+TEXT;
+$ogDescription = <<<'TEXT'
+Pomegranate Chicken Curry - Anardana Murgh from Himachal Pradesh
+TEXT;
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pomegranate-chicken-curry-drumsticks/drumsticks/650x366/pomegranate-chicken-curry-in-wok.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pomegranate-chicken-curry-drumsticks.html';
+
+$recipeName = 'Pomegranate Chicken Curry Drumsticks';
+$recipeIntro = <<<'TEXT'
+this is Anardana Murgh from Himachal Pradesh. Chicken is cooked in an aromatic masala of spices - dried pomegranate seeds adds a unique tart and tangy flavour
+TEXT;
+
+$styleBlock = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
+// ====== pomegranate-chicken-curry.controller.php ======
+$pageTitle = 'Pomegranate Chicken Curry | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+this is Anardana Murgh from Himachal Pradesh. Chicken is cooked in an aromatic masala of spices - dried pomegranate seeds adds a unique tart and tangy flavour
+TEXT;
+$ogDescription = <<<'TEXT'
+Pomegranate Chicken Curry - Anardana Murgh from Himachal Pradesh
+TEXT;
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/pomegranate-chicken-curry/650x366/fresh-pomegranate-seeds-in-curry.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/pomegranate-chicken-curry.html';
+
+$recipeName = 'Pomegranate Chicken Curry';
+$recipeIntro = <<<'TEXT'
+this is Anardana Murgh from Himachal Pradesh. Chicken is cooked in an aromatic masala of spices - dried pomegranate seeds adds a unique tart and tangy flavour
+TEXT;
+
+$styleBlock = <<<CSS
+:root {
+        /* set the background image */
+        --bg-img: url("/images/icons/blank.png");
+
+        /* set the background size */
+        --bg-size: 32px;
+
+        /* set the start of the 2nd colour of the gradient */
+        /* basically, increase the value until the background
+           images are below the intro' paragraphs */
+        --bg-1st-col-stop: 35%;
+      }
+CSS;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/background.css',
+];
+
 // ====== pork-blackbean-sauce-and-peppers.controller.php ======
 $pageTitle = 'Pork in Blackbean Sauce with Peppers | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
@@ -2922,6 +3091,71 @@ $stylesheets = [
     'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
     '/styles/tabs-nav.css',
     '/styles/background.css',
+];
+
+// ====== recipe-links-from-sitemap-BAKUP.controller.php ======
+$pageTitle = 'Recipe Index | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+Full recipe index for Nutty's Kitchen, listing every delicious dish from A to Z.
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Recipe Links From Sitemap BAKUP';
+$recipeIntro = <<<'TEXT'
+Full recipe index for Nutty's Kitchen, listing every delicious dish from A to Z.
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/recipe-index.css',
+];
+
+// ====== recipe-links.controller.php ======
+$pageTitle = 'Recipe Index | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+Full recipe index for Nutty's Kitchen, listing every delicious dish from A to Z.
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Recipe Links';
+$recipeIntro = <<<'TEXT'
+Full recipe index for Nutty's Kitchen, listing every delicious dish from A to Z.
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    '/styles/tabs-nav.css',
+    '/styles/recipe-index.css',
+];
+
+// ====== recipepage.controller.php ======
+$pageTitle = 'Nutty\'s Recipes | Nuttys Kitchen All Recipes';
+$metaDescription = <<<'TEXT'
+Indulge in a mouth-watering mix of Italian, Mexican, Indian and English dishes. Stay tuned for more recipes and share your thoughts with us. Happy cooking!
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Recipepage';
+$recipeIntro = <<<'TEXT'
+Indulge in a mouth-watering mix of Italian, Mexican, Indian and English dishes. Stay tuned for more recipes and share your thoughts with us. Happy cooking!
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
 ];
 
 // ====== roast-pork-stroganoff.controller.php ======
@@ -3388,6 +3622,27 @@ $stylesheets = [
     '/styles/background.css',
 ];
 
+// ====== spice-up-your-life.controller.php ======
+$pageTitle = 'Spice Up Your Life! | Nutty\'s Kitchen';
+$metaDescription = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+$ogDescription = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+$ogImage = 'https://www.nuttyskitchen.co.uk/images/tandoori-chicken/650x366/tandori-chicken-and-salad-plated.webp';
+$canonical = 'https://www.nuttyskitchen.co.uk/spice-up-your-life.html';
+
+$recipeName = 'Spice Up Your Life';
+$recipeIntro = <<<'TEXT'
+Nutty's kitchen, simple home cooking on a budget, stretch pennies as far as they will go with pork, beef, chicken & lamb recipes handed down from mum & gran
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
 // ====== spicy-baked-beans-and-peppers.controller.php ======
 $pageTitle = 'Spicy Baked Beans and Peppers | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
@@ -3736,6 +3991,27 @@ $stylesheets = [
     '/styles/background.css',
 ];
 
+// ====== terms.controller.php ======
+$pageTitle = 'Terms & Privacy Policy | Nuttys Kitchen';
+$metaDescription = <<<'TEXT'
+nuttys kitchen terms and privacy policy statement to satisfy legel requirements surrounding data collection on this website - which is minimal!
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Terms';
+$recipeIntro = <<<'TEXT'
+nuttys kitchen terms and privacy policy statement to satisfy legel requirements surrounding data collection on this website - which is minimal!
+TEXT;
+
+$stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
+    './styles/tabs-nav.css',
+];
+
 // ====== tomato-chutney.controller.php ======
 $pageTitle = 'Tomato Chutney | Nutty\'s Kitchen';
 $metaDescription = <<<'TEXT'
@@ -3835,6 +4111,38 @@ $stylesheets = [
     'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
     './styles/tabs-nav.css',
 ];
+
+// ====== videotestpage.controller.php ======
+$pageTitle = 'Test Page';
+$metaDescription = <<<'TEXT'
+
+TEXT;
+$ogDescription = <<<'TEXT'
+
+TEXT;
+$ogImage = '';
+$canonical = '';
+
+$recipeName = 'Videotestpage';
+$recipeIntro = <<<'TEXT'
+
+TEXT;
+
+$styleBlock = <<<CSS
+* {
+        background-color: darkslategrey;
+      }
+
+      #sample_video::cue {
+        background-color: darkslategrey;
+        color: #ffffff;
+        outline-style: solid;
+        outline-color: #222222;
+        font-size: 32px;
+        font-family: "Times New Roman", cursive;
+        white-space: pre;
+      }
+CSS;
 
 // ====== whitesauce.controller.php ======
 $pageTitle = 'White Sauce | Nutty\'s kitchen';
